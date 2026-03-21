@@ -39,6 +39,7 @@
 #### 3月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 03-21 | [前端开发要变天了？谷歌Stitch发布，AI一句话生成完整网页！](episodes/2026-03/google-stitch-vibe-design.md) | 8:29 |
 | 03-15 | [谷歌AI秘密武器泄露！Stitch一键生成React代码](episodes/2026-03/google-stitch-leak.md) | 6:42 |
 | 03-14 | [谷歌AI编程神器发布！Antigravity让AI帮你写全栈应用](episodes/2026-03/antigravity-agentkit.md) | ~9 min |
 | 03-13 | [Claude Code颠覆更新：99%程序员不知道的AI自动化神技](episodes/2026-03/claude-code-massive-update.md) | 8:50 |
