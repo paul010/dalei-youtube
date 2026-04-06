@@ -36,9 +36,20 @@
 
 ### 2026
 
+#### 4月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 04-06 | [AI圈大地震！OpenAI密谋GPT-6，DeepSeek竟全面转向华为](episodes/2026-04/OhLpe7EPwpQ.md) | 8:32 |
+| 04-06 | [别再用OpenClaw！Claude官方封禁，这是唯一解决方案](episodes/2026-04/hdbYUoojeXs.md) | 2:45 |
+| 04-05 | [人类54年后再奔月！阿尔忒弥斯2号飞向深空，宇航员首次实时连线地球！](episodes/2026-04/z1SU1KsQ9G0.md) | 19:34 |
+| 04-05 | [谷歌杀疯了！Gemma 4彻底开源，31B模型挑战百亿巨兽！](episodes/2026-04/iqCr_pudCAA.md) | 5:51 |
+| 04-04 | [开源AI干翻闭源！Qwen 3 6 Plus实测，一行命令写出操作系统](episodes/2026-04/uA7yqjlAlK8.md) | 6:48 |
+
 #### 3月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 03-23 | [别再手动写代码了！谷歌AI Studio新功能，一句提示搞定全栈开发](episodes/2026-03/NlDdX1dgGMs.md) | 7:57 |
+| 03-21 | [英伟达GTC重磅！最火AI智能体OpenClaw迎来官方安全方案](episodes/2026-03/KD9F9uk8Y9I.md) | 9:17 |
 | 03-21 | [前端开发要变天了？谷歌Stitch发布，AI一句话生成完整网页！](episodes/2026-03/google-stitch-vibe-design.md) | 8:29 |
 | 03-15 | [谷歌AI秘密武器泄露！Stitch一键生成React代码](episodes/2026-03/google-stitch-leak.md) | 6:42 |
 | 03-14 | [谷歌AI编程神器发布！Antigravity让AI帮你写全栈应用](episodes/2026-03/antigravity-agentkit.md) | ~9 min |
