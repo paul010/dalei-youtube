@@ -36,9 +36,61 @@
 
 ### 2026
 
+#### 6月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 06-11 | [Fable 5 强到离谱！一句话生成游戏，最强AI王座易主？](episodes/2026-06/Zv4hXUhzwbU.md) | 7:49 |
+| 06-10 | [估值千亿却叫停AI？Anthropic内部揭秘：RSI的真相！](episodes/2026-06/XjYrACWk-98.md) | 17:47 |
+| 06-07 | [AI圈大地震！Anthropic新王牌因内鬼泄密，紧急叫停](episodes/2026-06/DYoum8FiOzI.md) | 9:35 |
+| 06-06 | [AI圈神仙打架！GPT 5.6下周发布？微软阿里连放大招](episodes/2026-06/i0fgwuxG4p0.md) | 9:57 |
+| 06-03 | [微软AI王炸！没人告诉你的Windows新功能，开发者狂喜！](episodes/2026-06/q4X4cD-Phyk.md) | 7:26 |
+| 06-03 | [MiniMax M3震撼发布！性能反超GPT-5.5，最强开源AI来了？](episodes/2026-06/kxQpKt17qnM.md) | 11:27 |
+| 06-01 | [5美元实测 DogRouter：AI Gateway 到底能不能跑通？](episodes/2026-06/SX36VfssYCg.md) | 4:56 |
+
+#### 5月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 05-31 | [微软不装了？Microsoft MAI Models 曝光，Build 2026 前 OpenAI 之外的新底座来了？](episodes/2026-05/Z7qxUs4uJ8c.md) | 3:00 |
+| 05-30 | [SpaceX上市别乱冲！3个真相让你避免当"冤大头"](episodes/2026-05/heh30i5P9Vw.md) | 3:30 |
+| 05-29 | [AI大战升级！谷歌Claude内部泄密，六月AI圈彻底疯狂](episodes/2026-05/ivriPRWO03Q.md) | 9:12 |
+| 05-29 | [Claude 4.8 Opus突袭！实测后我沉默了：AI王座换人](episodes/2026-05/7nhlbyuLtvA.md) | 8:35 |
+| 05-28 | [一边裁员22%，一边发百万年薪！揭秘科技圈残酷新玩法](episodes/2026-05/E8I0cs8MDD0.md) | 12:00 |
+| 05-27 | [哈佛研究警告：AI没让你失业，但正在"杀死"你的精力](episodes/2026-05/Eew-CiwKoKg.md) | 13:10 |
+| 05-27 | [AI大战升级！GPT 5.6、Mythos模型遭泄露，神仙打架](episodes/2026-05/5-Gn7n5VtpU.md) | 9:52 |
+| 05-25 | [阿里Qwen 3.7-Max：挑战GPT、Opus的Agent全能王](episodes/2026-05/mth6PMVl6TA.md) | 8:34 |
+| 05-24 | [OpenAI造富神话：人均千万！Meta却裁员8000？科技圈的魔幻真相](episodes/2026-05/jbbqgo6ntnY.md) | 13:28 |
+| 05-24 | [谷歌AI王炸！IO揭秘：你的搜索和油管将被彻底改变](episodes/2026-05/Fh-HbX03Y_E.md) | 18:53 |
+| 05-23 | [Gemini 3.5 Flash 评测：一行指令复刻Win95！但成本陷阱让我哭笑不得](episodes/2026-05/yxxt9eLAhHI.md) | 6:25 |
+| 05-17 | [Meta员工的绝望反抗：一边被裁员，一边被迫训练AI替代自己](episodes/2026-05/lliAwm582yU.md) | 9:58 |
+| 05-16 | [OpenAI颠覆编程！Codex变身超级应用，手机远程操控Mac](episodes/2026-05/DWkZiZ8siys.md) | 9:09 |
+| 05-09 | [AI基建商的好日子到头了！2026年真正的印钞机是它](episodes/2026-05/S1tEStEIM44.md) | 9:26 |
+| 05-08 | [AI裁员的死亡循环：你越用AI保命，老板裁你越狠](episodes/2026-05/b-g9Nm8JeFs.md) | 5:56 |
+| 05-07 | [AI编程太爽？别傻了，这才是程序员裁员的开始！](episodes/2026-05/biu14WMMzXU.md) | 10:45 |
+| 05-07 | [告别Claude Design！这款开源平替Open Design强到离谱](episodes/2026-05/Lh1KrgjnZcE.md) | 12:47 |
+| 05-06 | [AI编程革命：你的工作只剩半年？硅谷大佬揭秘残酷真相](episodes/2026-05/499jf12gHo0.md) | 8:44 |
+| 05-05 | [DeepSeek V4封神！AI编程成本暴降70%，效率不输Claude](episodes/2026-05/JaK9dQ4DaVY.md) | 8:28 |
+| 05-04 | [Meta裁员万人，股价暴跌！揭秘AI竞赛中被掐住的5大致命弱点](episodes/2026-05/xFxP57rW4xg.md) | 7:45 |
+| 05-04 | [AI比人贵3倍！大厂裁员的惊人真相：你只是在为AI付电费](episodes/2026-05/BqDqzksHxCA.md) | 8:30 |
+| 05-03 | [AI血洗印度IT业！700万岗位告急，下一个轮到你？](episodes/2026-05/SiYFAs7Y7So.md) | 9:02 |
+| 05-03 | [谷歌偷偷放出的AI王炸！Gemini Flash 3.2新模型性能炸裂，差距大到离谱！](episodes/2026-05/DUCn8fsjKgY.md) | 8:39 |
+| 05-02 | [Codex逆天更新！教你免费孵化专属AI宠物，99%的人还不知道](episodes/2026-05/GmF25_QlvHs.md) | 9:49 |
+| 05-01 | [AI大战升级！GPT-5.5悄然登场，性能碾压Claude](episodes/2026-05/U2VpWeKuzBA.md) | 13:24 |
+
 #### 4月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 04-25 | [GPT-5.5深度评测：它不是AI，是你的全能数字员工！](episodes/2026-04/WceOn-OpayE.md) | 9:48 |
+| 04-18 | [设计师要失业了？Anthropic发布Claude Design，一句话生成网页！](episodes/2026-04/0vIqe5m7JeQ.md) | 12:46 |
+| 04-17 | [Claude 4.7发布，但最强AI并非它？揭秘Anthropic隐藏王牌](episodes/2026-04/hoLESSjvtWs.md) | 9:58 |
+| 04-16 | [Claude桌面版史诗级更新！它不再是聊天，而是你的专属AI程序员](episodes/2026-04/KiBFvIS4qS8.md) | 9:58 |
+| 04-15 | [Claude 4.7内部泄露！Anthropic秘密武器曝光，AI大战升级](episodes/2026-04/K96s0j8QswU.md) | 11:18 |
+| 04-14 | [重磅泄露！OpenAI的Codex超级应用和GPT 5.5即将发布](episodes/2026-04/zBKmpi14nuY.md) | 7:05 |
+| 04-13 | [别再切换APP了！Gemini与NotebookLM合体，彻底改变你的工作流](episodes/2026-04/JvkJsDvo-gk.md) | 10:53 |
+| 04-12 | [Meta放出AI王炸！Muse Spark一行指令复刻macOS，太强了](episodes/2026-04/OKyYvT5pfTc.md) | 8:25 |
+| 04-10 | [Anthropic放出王炸！Claude Managed Agents AI开发游戏规则变了](episodes/2026-04/9MwWWlj5syY.md) | 7:48 |
+| 04-09 | [🌶️ Ghost Pepper 按住就说，松开就出——本地AI语音转文字，彻底干掉 $17/月订阅费](episodes/2026-04/3rC3yG3tVb4.md) | 7:26 |
+| 04-08 | [Anthropic密不外传的AI：能自主攻击Windows，科技巨头紧急联手](episodes/2026-04/mtelqPogGyc.md) | 10:02 |
+| 04-07 | [Karpathy揭秘：别再把AI当聊天机器人，这样打造第二大脑](episodes/2026-04/37czL7hLLPM.md) | 3:16 |
 | 04-06 | [AI圈大地震！OpenAI密谋GPT-6，DeepSeek竟全面转向华为](episodes/2026-04/OhLpe7EPwpQ.md) | 8:32 |
 | 04-06 | [别再用OpenClaw！Claude官方封禁，这是唯一解决方案](episodes/2026-04/hdbYUoojeXs.md) | 2:45 |
 | 04-05 | [人类54年后再奔月！阿尔忒弥斯2号飞向深空，宇航员首次实时连线地球！](episodes/2026-04/z1SU1KsQ9G0.md) | 19:34 |
