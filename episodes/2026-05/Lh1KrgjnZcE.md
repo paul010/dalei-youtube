@@ -6,8 +6,10 @@
 
 ## 核心看点
 
-- 告别Claude Design
-- 这款开源平替Open Design强到离谱
+- 开场引入
+- Open Design 核心理念
+- 配置 AI 代理
+- 注释修改细节
 
 ---
 

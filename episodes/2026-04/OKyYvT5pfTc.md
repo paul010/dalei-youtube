@@ -6,8 +6,10 @@
 
 ## 核心看点
 
-- Meta放出AI王炸
-- Muse Spark一行指令复刻macOS
+- Meta AI王炸登场
+- 性能基准测试
+- 一行指令复刻macOS
+- 3D场景生成演示
 
 ---
 

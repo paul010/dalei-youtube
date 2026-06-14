@@ -6,9 +6,10 @@
 
 ## 核心看点
 
-- AI大战升级
-- 谷歌Claude内部泄密
-- 六月AI圈彻底疯狂
+- 六月AI圈疯狂
+- Claude代码能力
+- Claude四大新品
+- LMArena新榜单
 
 ---
 

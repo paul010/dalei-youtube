@@ -6,9 +6,10 @@
 
 ## 核心看点
 
-- 估值千亿却叫停AI
-- Anthropic内部揭秘
-- RSI的真相
+- 开场：暂停AI？
+- Anthropic动机
+- Claude能力爆发
+- 减速与核查
 
 ---
 

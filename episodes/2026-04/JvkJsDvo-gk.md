@@ -6,8 +6,10 @@
 
 ## 核心看点
 
-- 别再切换APP了Gemini与NotebookLM合体
-- 彻底改变你的工作流
+- Gemini x NotebookLM 整合速览
+- 什么是NotebookLM？
+- 全新AI工作流
+- 团队协作替代方案
 
 ---
 

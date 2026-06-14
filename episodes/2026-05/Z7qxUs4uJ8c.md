@@ -6,9 +6,10 @@
 
 ## 核心看点
 
-- 微软不装了
-- Microsoft MAI Models 曝光
-- Build 2026 前 OpenAI 之外的新底座来了
+- 开场：微软 Build 2026 前的新信号
+- TestingCatalog 报道了哪些 MAI 模型
+- 哪些已有官方消息，哪些还只是线索
+- 如果接入 Copilot、Teams 和 Foundry
 
 ---
 
