@@ -36,9 +36,25 @@
 
 ### 2026
 
+#### 7月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 07-05 | [Fable 5内心独白泄露！AI竟用“克劳德语”秘密思考？Fable 5's Inner Monologue Leaked! Does AI Secretly Think "Claudenese"?](episodes/2026-07/bzEinn6u7ag.md) | 7:09 |
+| 07-05 | [GPT 5 6最大秘密：为何它将“戴着镣铐跳舞” The Biggest Secret of GPT-5.6: Why It Will 'Dance in Shackles'?](episodes/2026-07/VuYTg4ghlwI.md) | 8:11 |
+| 07-04 | [Claude Sonnet 5：性能直逼Opus？价格竟有大陷阱！Claude Sonnet 5: Opus-Level Performance? But There's a HUGE Pricing](episodes/2026-07/DY585co5C2k.md) | 8:47 |
+
 #### 6月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 06-29 | [AI圈炸锅！Fable 5现身又消失？GPT 5秘密泄露 AI World Explodes! Fable 5 Appears, Then Vanishes? GPT-5 Secrets Leaked](episodes/2026-06/GRfMMr9MvoM.md) | 9:30 |
+| 06-28 | [99%的人都被骗了！深度揭秘Sakana Fugu，它根本不是一个模型！99% of People Are Fooled! The Truth About Sakana Fugu](episodes/2026-06/YTVzy2fa3eg.md) | 9:05 |
+| 06-23 | [AI大模型巨头混战！GPT 5、Sonnet 5秘密曝光 AI Model War! GPT-5, Sonnet 5 Secrets EXPOSED!](episodes/2026-06/od-h3z3IBvI.md) | 10:24 |
+| 06-21 | [GLM 5 2：开源AI王者！超越闭源，成本仅6美分 GLM-5.2: Open-Source AI King! Outperforms Closed-Source, Costs Only 6](episodes/2026-06/g1HyPrFKIAM.md) | 7:44 |
+| 06-20 | [Google NotebookLM大升级！AI复读机变身效率神器 Google NotebookLM Upgrade: AI Reader to Productivity Powerhouse](episodes/2026-06/npdiDxGwhlA.md) | 9:10 |
+| 06-18 | [世界盃來了！Edimakor AI 一鍵套世界盃模板＋數字人配音，新手也能做出精彩賽事短片｜HitPaw Edimakor 實測](episodes/2026-06/l05jMiw9AYk.md) | 6:09 |
+| 06-18 | [Kimi2.7 杀疯了！国产AI硬刚GPT-5，程序员要失业了？Kimi5.2 Goes Wild! China's AI Takes on GPT-5, Will Programmers Lose](episodes/2026-06/wV8LclJ9y6I.md) | 10:50 |
+| 06-14 | [震惊！美国政府竟全球禁用Anthropic AI模型？Shock! US Gov Globally Bans Anthropic AI Models?](episodes/2026-06/xMWnphgpBho.md) | 9:44 |
+| 06-14 | [GLM 5.2下周炸裂！百万Token开源模型颠覆AI圈 GLM 5.2 Dropping Next Week! Million-Token Open-Source Model Shakes AI](episodes/2026-06/SbqW8Emp9Uw.md) | 11:30 |
 | 06-11 | [Fable 5 强到离谱！一句话生成游戏，最强AI王座易主？](episodes/2026-06/Zv4hXUhzwbU.md) | 7:49 |
 | 06-10 | [估值千亿却叫停AI？Anthropic内部揭秘：RSI的真相！](episodes/2026-06/XjYrACWk-98.md) | 17:47 |
 | 06-07 | [AI圈大地震！Anthropic新王牌因内鬼泄密，紧急叫停](episodes/2026-06/DYoum8FiOzI.md) | 9:35 |
