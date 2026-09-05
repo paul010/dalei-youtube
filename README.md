@@ -22,7 +22,7 @@
 
 ## 这个 Repo 是什么？
 
-每期视频里提到的 **提示词、工具链接、代码片段、核心笔记**，全部整理在这里。
+这里整理视频索引，以及已补充的提示词、工具链接、代码片段和笔记。新节目先同步基本信息与频道简介，详细资料会逐步补齐；每个节目页会说明当前整理状态。
 
 - 看完视频想找链接？来这里
 - 想复制视频里的 Prompt？来这里
@@ -34,11 +34,33 @@
 
 ## 📺 视频索引
 
+公开节目的最新信息会同步到 [latest.json](latest.json)，供 [我的主页](https://dailycosmos.net/#videos) 自动读取。日期按北京时间展示，新节目排在前面；旧档案保留原日期。标题来自频道，可能随作者调整或标题测试变化。
+
+同步说明见 [scripts/README.md](scripts/README.md)。
+
 ### 2026
+
+#### 9月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 09-05 | [GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench](episodes/2026-09/vQuzOnBGhbw.md) | 7:18 |
+
+#### 8月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 08-18 | [DeepSeek V4 Pro发布：实测智能体编程与API阶梯计费机制 DeepSeek-V4-Pro Released: Testing Agent Coding and Tiered API](episodes/2026-08/qqDh7xH6nP4.md) | 8:00 |
+| 08-16 | [Qwen3.8 27B模型离线部署不等于绝对私密：4-bit需13.5G显存与日志检查](episodes/2026-08/WhczDDpxV8k.md) | 6:42 |
+| 08-15 | [Gemini 3 7 Flash发布：三周迭代、价格减半，基准表现如何？Gemini 3.7 Flash: A Three-Week Upgrade, Half-Price Intro](episodes/2026-08/f6WkS2qAdRY.md) | 7:44 |
+| 08-15 | [Meta重磅开源Muse Glimmer 30B本地Agent最强神仙模型来了 Meta Open-Sources Muse Glimmer 30B: The Ultimate Local Agent](episodes/2026-08/PrMqZRts3s8.md) | 8:22 |
+| 08-12 | [比GPT-6更可怕？OpenAI秘密模型Doug曝光，AI圈炸裂！Scarier Than GPT-6? OpenAI's Secret Model 'Doug' Leaked!](episodes/2026-08/_UqkjPAWWpY.md) | 9:44 |
+| 08-10 | [科技圈大动荡！谷歌Gemini紧急叫停，字节秘密训练5万亿模型！AI Industry Shakeup! Gemini Delayed & ByteDance Trains 5T Model!](episodes/2026-08/oRnwqkjQktg.md) | 11:23 |
+| 08-09 | [AI三国杀！马斯克Grok激战OpenAI，Ilya携王牌入局！AI's 3-Way War! Musk's Grok Battles OpenAI as Ilya Enters](episodes/2026-08/D0TTZWbyG-Q.md) | 9:18 |
 
 #### 7月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 07-31 | [Gemini 4秘密泄露！谷歌绝地反击，GPT 5要慌了？Gemini 4 Secret Leaked! Google's Counterattack, Should GPT-5 Panic?](episodes/2026-07/kLAoQYLGvvI.md) | 8:39 |
+| 07-12 | [GPT 5.6评测：性能不输Claude，价格却便宜到离谱！GPT-5.6 Review: Matches Claude's Performance, But is Shockingly.](episodes/2026-07/k9LK4ZD8gAs.md) | 8:34 |
 | 07-05 | [Fable 5内心独白泄露！AI竟用“克劳德语”秘密思考？Fable 5's Inner Monologue Leaked! Does AI Secretly Think "Claudenese"?](episodes/2026-07/bzEinn6u7ag.md) | 7:09 |
 | 07-05 | [GPT 5 6最大秘密：为何它将“戴着镣铐跳舞” The Biggest Secret of GPT-5.6: Why It Will 'Dance in Shackles'?](episodes/2026-07/VuYTg4ghlwI.md) | 8:11 |
 | 07-04 | [Claude Sonnet 5：性能直逼Opus？价格竟有大陷阱！Claude Sonnet 5: Opus-Level Performance? But There's a HUGE Pricing](episodes/2026-07/DY585co5C2k.md) | 8:47 |
