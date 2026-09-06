@@ -43,6 +43,7 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-06 | [Gemini 3 8 Flash编程与物理模拟实测 Gemini 3.8 Flash Tested on Coding and Physics Simulation](episodes/2026-09/NetM3feZwMM.md) | 7:04 |
 | 09-05 | [GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench](episodes/2026-09/vQuzOnBGhbw.md) | 7:18 |
 
 #### 8月
