@@ -2,12 +2,20 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-06T09:14:54+00:00",
+  "updatedAt": "2026-09-07T01:04:55+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
     {
+      "id": "yMBkQ-TEXkA",
+      "title": "GPT 6 Astra 公开演示：游戏、3D和电脑操作 GPT-6 Astra demos: games, 3D and computer use—how far do the  go?",
+      "publishedAt": "2026-09-06T12:46:02+00:00",
+      "date": "2026-09-06",
+      "duration": "8:04",
+      "url": "https://www.youtube.com/watch?v=yMBkQ-TEXkA"
+    },
+    {
       "id": "NetM3feZwMM",
-      "title": "Gemini 3 8 Flash编程与物理模拟实测 Gemini 3.8 Flash Tested on Coding and Physics Simulation",
+      "title": "Gemini 3.8 Flash在DeepSWE基准超越多数大模型 Gemini 3.8 Flash Outperforms Most Larger Models on DeepSWE",
       "publishedAt": "2026-09-06T04:57:56+00:00",
       "date": "2026-09-06",
       "duration": "7:04",
@@ -15,7 +23,7 @@
     },
     {
       "id": "vQuzOnBGhbw",
-      "title": "GPT-6 Astra如何自主运行游戏原型 How GPT-6 Astra Autonomously Runs Game Prototypes",
+      "title": "GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench",
       "publishedAt": "2026-09-05T04:14:01+00:00",
       "date": "2026-09-05",
       "duration": "7:18",
@@ -116,14 +124,6 @@
       "date": "2026-07-05",
       "duration": "8:47",
       "url": "https://www.youtube.com/watch?v=DY585co5C2k"
-    },
-    {
-      "id": "GRfMMr9MvoM",
-      "title": "AI圈炸锅！Fable 5现身又消失？GPT 5秘密泄露 AI World Explodes! Fable 5 Appears, Then Vanishes? GPT-5 Secrets Leaked",
-      "publishedAt": "2026-06-29T23:09:53+00:00",
-      "date": "2026-06-30",
-      "duration": "9:30",
-      "url": "https://www.youtube.com/watch?v=GRfMMr9MvoM"
     }
   ]
 }
