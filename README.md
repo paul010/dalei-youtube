@@ -43,6 +43,8 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-07 | [GPT-6 Astra：从识别画面，到连续动手](episodes/2026-09/PfB3O2EQEj8.md) | 1:06 |
+| 09-07 | [Astra电脑操作靠谱吗？奥特曼的判断与仍需验证的问题 How Reliable Is Astra Computer Use? Altman’s View and Open Questions](episodes/2026-09/3RPnuK6-RWM.md) | 10:29 |
 | 09-06 | [GPT 6 Astra 公开演示：游戏、3D和电脑操作 GPT-6 Astra demos: games, 3D and computer use—how far do the  go?](episodes/2026-09/yMBkQ-TEXkA.md) | 8:04 |
 | 09-06 | [Gemini 3 8 Flash编程与物理模拟实测 Gemini 3.8 Flash Tested on Coding and Physics Simulation](episodes/2026-09/NetM3feZwMM.md) | 7:04 |
 | 09-05 | [GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench](episodes/2026-09/vQuzOnBGhbw.md) | 7:18 |

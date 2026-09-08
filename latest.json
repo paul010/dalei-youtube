@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-07T01:04:55+00:00",
+  "updatedAt": "2026-09-08T01:01:54+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "PfB3O2EQEj8",
+      "title": "GPT-6 Astra：从识别画面，到连续动手",
+      "publishedAt": "2026-09-07T11:58:52+00:00",
+      "date": "2026-09-07",
+      "duration": "1:06",
+      "url": "https://www.youtube.com/watch?v=PfB3O2EQEj8"
+    },
+    {
+      "id": "3RPnuK6-RWM",
+      "title": "Astra电脑操作靠谱吗？奥特曼的判断与仍需验证的问题 How Reliable Is Astra Computer Use? Altman’s View and Open Questions",
+      "publishedAt": "2026-09-07T10:47:56+00:00",
+      "date": "2026-09-07",
+      "duration": "10:29",
+      "url": "https://www.youtube.com/watch?v=3RPnuK6-RWM"
+    },
     {
       "id": "yMBkQ-TEXkA",
       "title": "GPT 6 Astra 公开演示：游戏、3D和电脑操作 GPT-6 Astra demos: games, 3D and computer use—how far do the  go?",
@@ -15,7 +31,7 @@
     },
     {
       "id": "NetM3feZwMM",
-      "title": "Gemini 3.8 Flash在DeepSWE基准超越多数大模型 Gemini 3.8 Flash Outperforms Most Larger Models on DeepSWE",
+      "title": "Gemini 3.8 Flash与Opus 5为何要看同任务复测 Why Gemini 3.8 Flash vs Opus 5 Needs Same-Task Retesting",
       "publishedAt": "2026-09-06T04:57:56+00:00",
       "date": "2026-09-06",
       "duration": "7:04",
@@ -108,22 +124,6 @@
       "date": "2026-07-05",
       "duration": "8:11",
       "url": "https://www.youtube.com/watch?v=VuYTg4ghlwI"
-    },
-    {
-      "id": "bzEinn6u7ag",
-      "title": "Fable 5内心独白泄露！AI竟用“克劳德语”秘密思考？Fable 5's Inner Monologue Leaked! Does AI Secretly Think \"Claudenese\"?",
-      "publishedAt": "2026-07-05T07:31:06+00:00",
-      "date": "2026-07-05",
-      "duration": "7:09",
-      "url": "https://www.youtube.com/watch?v=bzEinn6u7ag"
-    },
-    {
-      "id": "DY585co5C2k",
-      "title": "Claude Sonnet 5：性能直逼Opus？价格竟有大陷阱！Claude Sonnet 5: Opus-Level Performance? But There's a HUGE Pricing",
-      "publishedAt": "2026-07-04T21:05:14+00:00",
-      "date": "2026-07-05",
-      "duration": "8:47",
-      "url": "https://www.youtube.com/watch?v=DY585co5C2k"
     }
   ]
 }
