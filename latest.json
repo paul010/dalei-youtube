@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-08T01:01:54+00:00",
+  "updatedAt": "2026-09-09T01:05:09+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "id": "yMBkQ-TEXkA",
-      "title": "GPT 6 Astra 公开演示：游戏、3D和电脑操作 GPT-6 Astra demos: games, 3D and computer use—how far do the  go?",
+      "title": "从机械臂到3D发动机：GPT-6 Astra 的演示与验证 From robot arms to a 3D engine: GPT-6 Astra demos and checks",
       "publishedAt": "2026-09-06T12:46:02+00:00",
       "date": "2026-09-06",
       "duration": "8:04",
@@ -31,7 +31,7 @@
     },
     {
       "id": "NetM3feZwMM",
-      "title": "Gemini 3.8 Flash与Opus 5为何要看同任务复测 Why Gemini 3.8 Flash vs Opus 5 Needs Same-Task Retesting",
+      "title": "Gemini 3.8 Flash在DeepSWE基准超越多数大模型 Gemini 3.8 Flash Outperforms Most Larger Models on DeepSWE",
       "publishedAt": "2026-09-06T04:57:56+00:00",
       "date": "2026-09-06",
       "duration": "7:04",
@@ -39,7 +39,7 @@
     },
     {
       "id": "vQuzOnBGhbw",
-      "title": "GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench",
+      "title": "GPT 6 Astra上线：支持异步调用和系统操作 GPT-6 Astra Launches with Asynchronous Tool Calling and System Operations",
       "publishedAt": "2026-09-05T04:14:01+00:00",
       "date": "2026-09-05",
       "duration": "7:18",
