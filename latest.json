@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-10T01:02:33+00:00",
+  "updatedAt": "2026-09-11T01:03:15+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "96kbkDWWuP0",
+      "title": "ChatGPT Images 2.5更新：多轮编辑有哪些变化？ ChatGPT Images 2.5: What Changes in Repeated Editing?",
+      "publishedAt": "2026-09-10T13:40:01+00:00",
+      "date": "2026-09-10",
+      "duration": "7:40",
+      "url": "https://www.youtube.com/watch?v=96kbkDWWuP0"
+    },
     {
       "id": "PfB3O2EQEj8",
       "title": "GPT-6 Astra：从识别画面，到连续动手",
@@ -23,7 +31,7 @@
     },
     {
       "id": "yMBkQ-TEXkA",
-      "title": "GPT 6 Astra 公开演示：游戏、3D和电脑操作 GPT-6 Astra demos: games, 3D and computer use—how far do the  go?",
+      "title": "GPT-6 Astra 做游戏与交互页面：能跑起来之后，还要测什么？ GPT-6 Astra games and interactive pages: what should we test?",
       "publishedAt": "2026-09-06T12:46:02+00:00",
       "date": "2026-09-06",
       "duration": "8:04",
@@ -31,7 +39,7 @@
     },
     {
       "id": "NetM3feZwMM",
-      "title": "Gemini 3.8 Flash与Opus 5为何要看同任务复测 Why Gemini 3.8 Flash vs Opus 5 Needs Same-Task Retesting",
+      "title": "Gemini 3 8 Flash编程与物理模拟实测 Gemini 3.8 Flash Tested on Coding and Physics Simulation",
       "publishedAt": "2026-09-06T04:57:56+00:00",
       "date": "2026-09-06",
       "duration": "7:04",
@@ -39,7 +47,7 @@
     },
     {
       "id": "vQuzOnBGhbw",
-      "title": "GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench",
+      "title": "GPT-6 Astra如何自主运行游戏原型 How GPT-6 Astra Autonomously Runs Game Prototypes",
       "publishedAt": "2026-09-05T04:14:01+00:00",
       "date": "2026-09-05",
       "duration": "7:18",
@@ -116,14 +124,6 @@
       "date": "2026-07-12",
       "duration": "8:34",
       "url": "https://www.youtube.com/watch?v=k9LK4ZD8gAs"
-    },
-    {
-      "id": "VuYTg4ghlwI",
-      "title": "GPT 5.6最大秘密：为何它将“戴着镣铐跳舞” The Biggest Secret of GPT-5.6: Why It Will 'Dance in Shackles'?",
-      "publishedAt": "2026-07-05T12:59:01+00:00",
-      "date": "2026-07-05",
-      "duration": "8:11",
-      "url": "https://www.youtube.com/watch?v=VuYTg4ghlwI"
     }
   ]
 }
