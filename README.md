@@ -43,6 +43,7 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-11 | [都画出来了，却都没做对：DeepSeek 与 Gemini 的克莱因瓶测试Both Rendered It. Neither Got It Right: DeepSeek and Gemini](episodes/2026-09/E852kfkgt48.md) | 6:52 |
 | 09-10 | [ChatGPT Images 2.5更新：多轮编辑有哪些变化？ ChatGPT Images 2.5: What Changes in Repeated Editing?](episodes/2026-09/96kbkDWWuP0.md) | 7:40 |
 | 09-07 | [GPT-6 Astra：从识别画面，到连续动手](episodes/2026-09/PfB3O2EQEj8.md) | 1:06 |
 | 09-07 | [Astra电脑操作靠谱吗？奥特曼的判断与仍需验证的问题 How Reliable Is Astra Computer Use? Altman’s View and Open Questions](episodes/2026-09/3RPnuK6-RWM.md) | 10:29 |
