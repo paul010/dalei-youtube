@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-12T01:02:10+00:00",
+  "updatedAt": "2026-09-13T01:02:56+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "bedd5n61rUA",
+      "title": "2026最新北京环球影城实游｜霸天虎刺激到腿软！和娜娜的纪念日旅行",
+      "publishedAt": "2026-09-12T14:40:38+00:00",
+      "date": "2026-09-12",
+      "duration": "8:12",
+      "url": "https://www.youtube.com/watch?v=bedd5n61rUA"
+    },
+    {
+      "id": "-0X-BDl4PWw",
+      "title": "AI工具学了不少，怎么做出自己的第一个作品？",
+      "publishedAt": "2026-09-12T06:22:45+00:00",
+      "date": "2026-09-12",
+      "duration": "4:24",
+      "url": "https://www.youtube.com/watch?v=-0X-BDl4PWw"
+    },
     {
       "id": "E852kfkgt48",
       "title": "都画出来了，却都没做对：DeepSeek 与 Gemini 的克莱因瓶测试Both Rendered It. Neither Got It Right: DeepSeek and Gemini",
@@ -15,7 +31,7 @@
     },
     {
       "id": "96kbkDWWuP0",
-      "title": "GPT 7要来了？先看OpenAI公开的这份数学证明 OpenAI Publishes a Math Proof: Model News and Image Updates",
+      "title": "Noam Brown谈推理成本：Astra与o3的评测对照 Noam Brown on Inference Cost: Comparing Astra and o3 on a Benchmark",
       "publishedAt": "2026-09-10T13:40:01+00:00",
       "date": "2026-09-10",
       "duration": "7:40",
@@ -31,7 +47,7 @@
     },
     {
       "id": "3RPnuK6-RWM",
-      "title": "Astra电脑操作靠谱吗？奥特曼的判断与仍需验证的问题 How Reliable Is Astra Computer Use? Altman’s View and Open Questions",
+      "title": "OpenAI为什么可能推迟上市？奥特曼谈自我改进与安全 Why OpenAI Might Delay Its IPO: Altman on Self-Improvement and Safety",
       "publishedAt": "2026-09-07T10:47:56+00:00",
       "date": "2026-09-07",
       "duration": "10:29",
@@ -39,7 +55,7 @@
     },
     {
       "id": "yMBkQ-TEXkA",
-      "title": "从机械臂到3D发动机：GPT-6 Astra 的演示与验证 From robot arms to a 3D engine: GPT-6 Astra demos and checks",
+      "title": "GPT 6 Astra 公开演示：游戏、3D和电脑操作 GPT-6 Astra demos: games, 3D and computer use—how far do the  go?",
       "publishedAt": "2026-09-06T12:46:02+00:00",
       "date": "2026-09-06",
       "duration": "8:04",
@@ -47,7 +63,7 @@
     },
     {
       "id": "NetM3feZwMM",
-      "title": "Gemini 3.8 Flash在DeepSWE基准超越多数大模型 Gemini 3.8 Flash Outperforms Most Larger Models on DeepSWE",
+      "title": "Gemini 3.8 Flash与Opus 5为何要看同任务复测 Why Gemini 3.8 Flash vs Opus 5 Needs Same-Task Retesting",
       "publishedAt": "2026-09-06T04:57:56+00:00",
       "date": "2026-09-06",
       "duration": "7:04",
@@ -55,7 +71,7 @@
     },
     {
       "id": "vQuzOnBGhbw",
-      "title": "GPT 6 Astra上线：支持异步调用和系统操作 GPT-6 Astra Launches with Asynchronous Tool Calling and System Operations",
+      "title": "GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench",
       "publishedAt": "2026-09-05T04:14:01+00:00",
       "date": "2026-09-05",
       "duration": "7:18",
@@ -108,22 +124,6 @@
       "date": "2026-08-10",
       "duration": "11:23",
       "url": "https://www.youtube.com/watch?v=oRnwqkjQktg"
-    },
-    {
-      "id": "D0TTZWbyG-Q",
-      "title": "AI三国杀！马斯克Grok激战OpenAI，Ilya携王牌入局！AI's 3-Way War! Musk's Grok Battles OpenAI as Ilya Enters",
-      "publishedAt": "2026-08-08T21:54:21+00:00",
-      "date": "2026-08-09",
-      "duration": "9:18",
-      "url": "https://www.youtube.com/watch?v=D0TTZWbyG-Q"
-    },
-    {
-      "id": "kLAoQYLGvvI",
-      "title": "Gemini 4秘密泄露！谷歌绝地反击，GPT 5要慌了？Gemini 4 Secret Leaked! Google's Counterattack, Should GPT-5 Panic?",
-      "publishedAt": "2026-07-31T15:36:06+00:00",
-      "date": "2026-07-31",
-      "duration": "8:39",
-      "url": "https://www.youtube.com/watch?v=kLAoQYLGvvI"
     }
   ]
 }
