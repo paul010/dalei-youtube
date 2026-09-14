@@ -43,6 +43,7 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-14 | [我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build](episodes/2026-09/EXxxbuiZpOU.md) | 5:07 |
 | 09-12 | [2026最新北京环球影城实游｜霸天虎刺激到腿软！和娜娜的纪念日旅行](episodes/2026-09/bedd5n61rUA.md) | 8:12 |
 | 09-12 | [AI工具学了不少，怎么做出自己的第一个作品？](episodes/2026-09/-0X-BDl4PWw.md) | 4:24 |
 | 09-11 | [都画出来了，却都没做对：DeepSeek 与 Gemini 的克莱因瓶测试Both Rendered It. Neither Got It Right: DeepSeek and Gemini](episodes/2026-09/E852kfkgt48.md) | 6:52 |
