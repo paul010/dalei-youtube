@@ -43,6 +43,8 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-15 | [Opus 5.2、GPT-6 Sol、DeepSeek 传闻：哪些能信？](episodes/2026-09/j1Z2Z967sX4.md) | 7:31 |
+| 09-14 | [Google DeepMind RSI传闻：证据到哪了？](episodes/2026-09/ITDNPWeHhvs.md) | 6:44 |
 | 09-14 | [我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build](episodes/2026-09/EXxxbuiZpOU.md) | 5:07 |
 | 09-12 | [2026最新北京环球影城实游｜霸天虎刺激到腿软！和娜娜的纪念日旅行](episodes/2026-09/bedd5n61rUA.md) | 8:12 |
 | 09-12 | [AI工具学了不少，怎么做出自己的第一个作品？](episodes/2026-09/-0X-BDl4PWw.md) | 4:24 |

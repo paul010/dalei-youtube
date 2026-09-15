@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-14T01:02:56+00:00",
+  "updatedAt": "2026-09-15T01:02:48+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "j1Z2Z967sX4",
+      "title": "Opus 5.2、GPT-6 Sol、DeepSeek 传闻：哪些能信？",
+      "publishedAt": "2026-09-14T16:00:06+00:00",
+      "date": "2026-09-15",
+      "duration": "7:31",
+      "url": "https://www.youtube.com/watch?v=j1Z2Z967sX4"
+    },
+    {
+      "id": "ITDNPWeHhvs",
+      "title": "Google DeepMind RSI传闻：证据到哪了？",
+      "publishedAt": "2026-09-14T03:57:06+00:00",
+      "date": "2026-09-14",
+      "duration": "6:44",
+      "url": "https://www.youtube.com/watch?v=ITDNPWeHhvs"
+    },
     {
       "id": "EXxxbuiZpOU",
       "title": "我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build",
@@ -31,7 +47,7 @@
     },
     {
       "id": "E852kfkgt48",
-      "title": "DeepSeek V4 1 Flash 单价很低，6项测试却比 Gemini 更费钱？Why Did DS V4.1 Flash Cost More Than Gemini  6 Tests?",
+      "title": "都画出来了，却都没做对：DeepSeek 与 Gemini 的克莱因瓶测试Both Rendered It. Neither Got It Right: DeepSeek and Gemini",
       "publishedAt": "2026-09-11T13:16:31+00:00",
       "date": "2026-09-11",
       "duration": "6:52",
@@ -39,7 +55,7 @@
     },
     {
       "id": "96kbkDWWuP0",
-      "title": "ChatGPT Images 2.5更新：多轮编辑有哪些变化？ ChatGPT Images 2.5: What Changes in Repeated Editing?",
+      "title": "GPT 7要来了？先看OpenAI公开的这份数学证明 OpenAI Publishes a Math Proof: Model News and Image Updates",
       "publishedAt": "2026-09-10T13:40:01+00:00",
       "date": "2026-09-10",
       "duration": "7:40",
@@ -55,7 +71,7 @@
     },
     {
       "id": "3RPnuK6-RWM",
-      "title": "AI能做对多少事？奥特曼谈对齐与真实任务 What Can AI Reliably Do? Altman on Alignment and Real Tasks",
+      "title": "OpenAI为什么可能推迟上市？奥特曼谈自我改进与安全 Why OpenAI Might Delay Its IPO: Altman on Self-Improvement and Safety",
       "publishedAt": "2026-09-07T10:47:56+00:00",
       "date": "2026-09-07",
       "duration": "10:29",
@@ -63,7 +79,7 @@
     },
     {
       "id": "yMBkQ-TEXkA",
-      "title": "GPT-6 Astra 做游戏与交互页面：能跑起来之后，还要测什么？ GPT-6 Astra games and interactive pages: what should we test?",
+      "title": "从机械臂到3D发动机：GPT-6 Astra 的演示与验证 From robot arms to a 3D engine: GPT-6 Astra demos and checks",
       "publishedAt": "2026-09-06T12:46:02+00:00",
       "date": "2026-09-06",
       "duration": "8:04",
@@ -71,7 +87,7 @@
     },
     {
       "id": "NetM3feZwMM",
-      "title": "Gemini 3.8 Flash与Opus 5为何要看同任务复测 Why Gemini 3.8 Flash vs Opus 5 Needs Same-Task Retesting",
+      "title": "Gemini 3 8 Flash编程与物理模拟实测 Gemini 3.8 Flash Tested on Coding and Physics Simulation",
       "publishedAt": "2026-09-06T04:57:56+00:00",
       "date": "2026-09-06",
       "duration": "7:04",
@@ -79,7 +95,7 @@
     },
     {
       "id": "vQuzOnBGhbw",
-      "title": "GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench",
+      "title": "GPT-6 Astra如何自主运行游戏原型 How GPT-6 Astra Autonomously Runs Game Prototypes",
       "publishedAt": "2026-09-05T04:14:01+00:00",
       "date": "2026-09-05",
       "duration": "7:18",
@@ -108,22 +124,6 @@
       "date": "2026-08-15",
       "duration": "7:44",
       "url": "https://www.youtube.com/watch?v=f6WkS2qAdRY"
-    },
-    {
-      "id": "PrMqZRts3s8",
-      "title": "Meta重磅开源Muse Glimmer 30B本地Agent最强神仙模型来了 Meta Open-Sources Muse Glimmer 30B: The Ultimate Local Agent",
-      "publishedAt": "2026-08-14T21:57:16+00:00",
-      "date": "2026-08-15",
-      "duration": "8:22",
-      "url": "https://www.youtube.com/watch?v=PrMqZRts3s8"
-    },
-    {
-      "id": "_UqkjPAWWpY",
-      "title": "比GPT-6更可怕？OpenAI秘密模型Doug曝光，AI圈炸裂！Scarier Than GPT-6? OpenAI's Secret Model 'Doug' Leaked!",
-      "publishedAt": "2026-08-11T22:08:01+00:00",
-      "date": "2026-08-12",
-      "duration": "9:44",
-      "url": "https://www.youtube.com/watch?v=_UqkjPAWWpY"
     }
   ]
 }
