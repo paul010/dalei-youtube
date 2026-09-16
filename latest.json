@@ -2,12 +2,28 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-15T01:02:48+00:00",
+  "updatedAt": "2026-09-16T01:02:04+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
     {
+      "id": "brNygGxzJTU",
+      "title": "奥特曼预告本周大更新：GPT-6 Sol 会来吗？｜OpenAI Update Signals",
+      "publishedAt": "2026-09-16T00:53:00+00:00",
+      "date": "2026-09-16",
+      "duration": "6:36",
+      "url": "https://www.youtube.com/watch?v=brNygGxzJTU"
+    },
+    {
+      "id": "PXSVmJcW9cY",
+      "title": "Grok、Gemini、Claude一边狂飙一边踩刹车 | Full Speed, Brakes On",
+      "publishedAt": "2026-09-15T10:19:47+00:00",
+      "date": "2026-09-15",
+      "duration": "12:07",
+      "url": "https://www.youtube.com/watch?v=PXSVmJcW9cY"
+    },
+    {
       "id": "j1Z2Z967sX4",
-      "title": "Opus 5.2、GPT-6 Sol、DeepSeek 传闻：哪些能信？",
+      "title": "GPT-6 Sol 真来了？9分钟造出“死星”，身份却无法验证",
       "publishedAt": "2026-09-14T16:00:06+00:00",
       "date": "2026-09-15",
       "duration": "7:31",
@@ -55,7 +71,7 @@
     },
     {
       "id": "96kbkDWWuP0",
-      "title": "GPT 7要来了？先看OpenAI公开的这份数学证明 OpenAI Publishes a Math Proof: Model News and Image Updates",
+      "title": "Noam Brown谈推理成本：Astra与o3的评测对照 Noam Brown on Inference Cost: Comparing Astra and o3 on a Benchmark",
       "publishedAt": "2026-09-10T13:40:01+00:00",
       "date": "2026-09-10",
       "duration": "7:40",
@@ -71,7 +87,7 @@
     },
     {
       "id": "3RPnuK6-RWM",
-      "title": "OpenAI为什么可能推迟上市？奥特曼谈自我改进与安全 Why OpenAI Might Delay Its IPO: Altman on Self-Improvement and Safety",
+      "title": "Astra电脑操作靠谱吗？奥特曼的判断与仍需验证的问题 How Reliable Is Astra Computer Use? Altman’s View and Open Questions",
       "publishedAt": "2026-09-07T10:47:56+00:00",
       "date": "2026-09-07",
       "duration": "10:29",
@@ -79,7 +95,7 @@
     },
     {
       "id": "yMBkQ-TEXkA",
-      "title": "从机械臂到3D发动机：GPT-6 Astra 的演示与验证 From robot arms to a 3D engine: GPT-6 Astra demos and checks",
+      "title": "GPT 6 Astra 公开演示：游戏、3D和电脑操作 GPT-6 Astra demos: games, 3D and computer use—how far do the  go?",
       "publishedAt": "2026-09-06T12:46:02+00:00",
       "date": "2026-09-06",
       "duration": "8:04",
@@ -87,7 +103,7 @@
     },
     {
       "id": "NetM3feZwMM",
-      "title": "Gemini 3 8 Flash编程与物理模拟实测 Gemini 3.8 Flash Tested on Coding and Physics Simulation",
+      "title": "Gemini 3.8 Flash与Opus 5为何要看同任务复测 Why Gemini 3.8 Flash vs Opus 5 Needs Same-Task Retesting",
       "publishedAt": "2026-09-06T04:57:56+00:00",
       "date": "2026-09-06",
       "duration": "7:04",
@@ -95,7 +111,7 @@
     },
     {
       "id": "vQuzOnBGhbw",
-      "title": "GPT-6 Astra如何自主运行游戏原型 How GPT-6 Astra Autonomously Runs Game Prototypes",
+      "title": "GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench",
       "publishedAt": "2026-09-05T04:14:01+00:00",
       "date": "2026-09-05",
       "duration": "7:18",
@@ -108,22 +124,6 @@
       "date": "2026-08-18",
       "duration": "8:00",
       "url": "https://www.youtube.com/watch?v=qqDh7xH6nP4"
-    },
-    {
-      "id": "WhczDDpxV8k",
-      "title": "Qwen3.8 27B模型离线部署不等于绝对私密：4-bit需13.5G显存与日志检查",
-      "publishedAt": "2026-08-16T13:46:01+00:00",
-      "date": "2026-08-16",
-      "duration": "6:42",
-      "url": "https://www.youtube.com/watch?v=WhczDDpxV8k"
-    },
-    {
-      "id": "f6WkS2qAdRY",
-      "title": "Gemini 3 7 Flash发布：三周迭代、价格减半，基准表现如何？Gemini 3.7 Flash: A Three-Week Upgrade, Half-Price Intro",
-      "publishedAt": "2026-08-15T04:21:36+00:00",
-      "date": "2026-08-15",
-      "duration": "7:44",
-      "url": "https://www.youtube.com/watch?v=f6WkS2qAdRY"
     }
   ]
 }

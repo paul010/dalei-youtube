@@ -43,6 +43,8 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-16 | [奥特曼预告本周大更新：GPT-6 Sol 会来吗？｜OpenAI Update Signals](episodes/2026-09/brNygGxzJTU.md) | 6:36 |
+| 09-15 | [Grok、Gemini、Claude一边狂飙一边踩刹车 &#124; Full Speed, Brakes On](episodes/2026-09/PXSVmJcW9cY.md) | 12:07 |
 | 09-15 | [Opus 5.2、GPT-6 Sol、DeepSeek 传闻：哪些能信？](episodes/2026-09/j1Z2Z967sX4.md) | 7:31 |
 | 09-14 | [Google DeepMind RSI传闻：证据到哪了？](episodes/2026-09/ITDNPWeHhvs.md) | 6:44 |
 | 09-14 | [我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build](episodes/2026-09/EXxxbuiZpOU.md) | 5:07 |
