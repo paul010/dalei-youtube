@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-17T01:02:34+00:00",
+  "updatedAt": "2026-09-19T08:52:35+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "8LglYweg26o",
+      "title": "Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook",
+      "publishedAt": "2026-09-18T04:36:36+00:00",
+      "date": "2026-09-18",
+      "duration": "7:23",
+      "url": "https://www.youtube.com/watch?v=8LglYweg26o"
+    },
+    {
+      "id": "-MzqW0IJOEs",
+      "title": "采购代理先问你，再创建采购单：微软AI怎样接手具体工作？",
+      "publishedAt": "2026-09-17T12:04:57+00:00",
+      "date": "2026-09-17",
+      "duration": "14:52",
+      "url": "https://www.youtube.com/watch?v=-MzqW0IJOEs"
+    },
     {
       "id": "Wdze2G6Oebk",
       "title": "赫拉利谈AI：你只按确认，决定权还在你手里吗？ | Harari on AI: If You Only Click Approve, Who Is Really Deciding?",
@@ -79,7 +95,7 @@
     },
     {
       "id": "96kbkDWWuP0",
-      "title": "Noam Brown谈推理成本：Astra与o3的评测对照 Noam Brown on Inference Cost: Comparing Astra and o3 on a Benchmark",
+      "title": "GPT 7要来了？先看OpenAI公开的这份数学证明 OpenAI Publishes a Math Proof: Model News and Image Updates",
       "publishedAt": "2026-09-10T13:40:01+00:00",
       "date": "2026-09-10",
       "duration": "7:40",
@@ -108,22 +124,6 @@
       "date": "2026-09-06",
       "duration": "8:04",
       "url": "https://www.youtube.com/watch?v=yMBkQ-TEXkA"
-    },
-    {
-      "id": "NetM3feZwMM",
-      "title": "Gemini 3.8 Flash在DeepSWE基准超越多数大模型 Gemini 3.8 Flash Outperforms Most Larger Models on DeepSWE",
-      "publishedAt": "2026-09-06T04:57:56+00:00",
-      "date": "2026-09-06",
-      "duration": "7:04",
-      "url": "https://www.youtube.com/watch?v=NetM3feZwMM"
-    },
-    {
-      "id": "vQuzOnBGhbw",
-      "title": "GPT 6 Astra上线：支持异步调用和系统操作 GPT-6 Astra Launches with Asynchronous Tool Calling and System Operations",
-      "publishedAt": "2026-09-05T04:14:01+00:00",
-      "date": "2026-09-05",
-      "duration": "7:18",
-      "url": "https://www.youtube.com/watch?v=vQuzOnBGhbw"
     }
   ]
 }

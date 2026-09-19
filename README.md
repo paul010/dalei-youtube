@@ -43,6 +43,8 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-18 | [Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook](episodes/2026-09/8LglYweg26o.md) | 7:23 |
+| 09-17 | [采购代理先问你，再创建采购单：微软AI怎样接手具体工作？](episodes/2026-09/-MzqW0IJOEs.md) | 14:52 |
 | 09-17 | [赫拉利谈AI：你只按确认，决定权还在你手里吗？ &#124; Harari on AI: If You Only Click Approve, Who Is Really Deciding?](episodes/2026-09/Wdze2G6Oebk.md) | 15:26 |
 | 09-16 | [奥特曼预告本周大更新：GPT-6 Sol 会来吗？｜OpenAI Update Signals](episodes/2026-09/brNygGxzJTU.md) | 6:36 |
 | 09-15 | [Grok、Gemini、Claude一边狂飙一边踩刹车 &#124; Full Speed, Brakes On](episodes/2026-09/PXSVmJcW9cY.md) | 12:07 |
