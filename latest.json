@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-19T08:52:35+00:00",
+  "updatedAt": "2026-09-20T01:01:19+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "WeAktXGtQZA",
+      "title": "AI 不聊天，客服反而更快？看懂 Jev 的三种决定",
+      "publishedAt": "2026-09-19T13:37:30+00:00",
+      "date": "2026-09-19",
+      "duration": "7:06",
+      "url": "https://www.youtube.com/watch?v=WeAktXGtQZA"
+    },
     {
       "id": "8LglYweg26o",
       "title": "Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook",
@@ -47,7 +55,7 @@
     },
     {
       "id": "j1Z2Z967sX4",
-      "title": "AI 跑太快了？Anthropic CEO 为什么公开呼吁减速",
+      "title": "GPT-6 Sol 真来了？9分钟造出“死星”，身份却无法验证",
       "publishedAt": "2026-09-14T16:00:06+00:00",
       "date": "2026-09-15",
       "duration": "7:31",
@@ -95,7 +103,7 @@
     },
     {
       "id": "96kbkDWWuP0",
-      "title": "GPT 7要来了？先看OpenAI公开的这份数学证明 OpenAI Publishes a Math Proof: Model News and Image Updates",
+      "title": "Noam Brown谈推理成本：Astra与o3的评测对照 Noam Brown on Inference Cost: Comparing Astra and o3 on a Benchmark",
       "publishedAt": "2026-09-10T13:40:01+00:00",
       "date": "2026-09-10",
       "duration": "7:40",
@@ -111,19 +119,11 @@
     },
     {
       "id": "3RPnuK6-RWM",
-      "title": "Astra电脑操作靠谱吗？奥特曼的判断与仍需验证的问题 How Reliable Is Astra Computer Use? Altman’s View and Open Questions",
+      "title": "OpenAI为什么可能推迟上市？奥特曼谈自我改进与安全 Why OpenAI Might Delay Its IPO: Altman on Self-Improvement and Safety",
       "publishedAt": "2026-09-07T10:47:56+00:00",
       "date": "2026-09-07",
       "duration": "10:29",
       "url": "https://www.youtube.com/watch?v=3RPnuK6-RWM"
-    },
-    {
-      "id": "yMBkQ-TEXkA",
-      "title": "从机械臂到3D发动机：GPT-6 Astra 的演示与验证 From robot arms to a 3D engine: GPT-6 Astra demos and checks",
-      "publishedAt": "2026-09-06T12:46:02+00:00",
-      "date": "2026-09-06",
-      "duration": "8:04",
-      "url": "https://www.youtube.com/watch?v=yMBkQ-TEXkA"
     }
   ]
 }

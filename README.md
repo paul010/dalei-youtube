@@ -43,20 +43,21 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-19 | [AI 不聊天，客服反而更快？看懂 Jev 的三种决定](episodes/2026-09/WeAktXGtQZA.md) | 7:06 |
 | 09-18 | [Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook](episodes/2026-09/8LglYweg26o.md) | 7:23 |
 | 09-17 | [采购代理先问你，再创建采购单：微软AI怎样接手具体工作？](episodes/2026-09/-MzqW0IJOEs.md) | 14:52 |
 | 09-17 | [赫拉利谈AI：你只按确认，决定权还在你手里吗？ &#124; Harari on AI: If You Only Click Approve, Who Is Really Deciding?](episodes/2026-09/Wdze2G6Oebk.md) | 15:26 |
 | 09-16 | [奥特曼预告本周大更新：GPT-6 Sol 会来吗？｜OpenAI Update Signals](episodes/2026-09/brNygGxzJTU.md) | 6:36 |
 | 09-15 | [Grok、Gemini、Claude一边狂飙一边踩刹车 &#124; Full Speed, Brakes On](episodes/2026-09/PXSVmJcW9cY.md) | 12:07 |
-| 09-15 | [Opus 5.2、GPT-6 Sol、DeepSeek 传闻：哪些能信？](episodes/2026-09/j1Z2Z967sX4.md) | 7:31 |
+| 09-15 | [GPT-6 Sol 真来了？9分钟造出“死星”，身份却无法验证](episodes/2026-09/j1Z2Z967sX4.md) | 7:31 |
 | 09-14 | [Google DeepMind RSI传闻：证据到哪了？](episodes/2026-09/ITDNPWeHhvs.md) | 6:44 |
 | 09-14 | [我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build](episodes/2026-09/EXxxbuiZpOU.md) | 5:07 |
 | 09-12 | [2026最新北京环球影城实游｜霸天虎刺激到腿软！和娜娜的纪念日旅行](episodes/2026-09/bedd5n61rUA.md) | 8:12 |
 | 09-12 | [AI工具学了不少，怎么做出自己的第一个作品？](episodes/2026-09/-0X-BDl4PWw.md) | 4:24 |
 | 09-11 | [都画出来了，却都没做对：DeepSeek 与 Gemini 的克莱因瓶测试Both Rendered It. Neither Got It Right: DeepSeek and Gemini](episodes/2026-09/E852kfkgt48.md) | 6:52 |
-| 09-10 | [ChatGPT Images 2.5更新：多轮编辑有哪些变化？ ChatGPT Images 2.5: What Changes in Repeated Editing?](episodes/2026-09/96kbkDWWuP0.md) | 7:40 |
+| 09-10 | [Noam Brown谈推理成本：Astra与o3的评测对照 Noam Brown on Inference Cost: Comparing Astra and o3 on a Benchmark](episodes/2026-09/96kbkDWWuP0.md) | 7:40 |
 | 09-07 | [GPT-6 Astra：从识别画面，到连续动手](episodes/2026-09/PfB3O2EQEj8.md) | 1:06 |
-| 09-07 | [Astra电脑操作靠谱吗？奥特曼的判断与仍需验证的问题 How Reliable Is Astra Computer Use? Altman’s View and Open Questions](episodes/2026-09/3RPnuK6-RWM.md) | 10:29 |
+| 09-07 | [OpenAI为什么可能推迟上市？奥特曼谈自我改进与安全 Why OpenAI Might Delay Its IPO: Altman on Self-Improvement and Safety](episodes/2026-09/3RPnuK6-RWM.md) | 10:29 |
 | 09-06 | [GPT 6 Astra 公开演示：游戏、3D和电脑操作 GPT-6 Astra demos: games, 3D and computer use—how far do the  go?](episodes/2026-09/yMBkQ-TEXkA.md) | 8:04 |
 | 09-06 | [Gemini 3 8 Flash编程与物理模拟实测 Gemini 3.8 Flash Tested on Coding and Physics Simulation](episodes/2026-09/NetM3feZwMM.md) | 7:04 |
 | 09-05 | [GPT-6 Astra在Terminal-Bench达57.9%  GPT-6 Astra Scores 57.9% on Terminal-Bench](episodes/2026-09/vQuzOnBGhbw.md) | 7:18 |
