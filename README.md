@@ -48,7 +48,7 @@
 | 09-17 | [采购代理先问你，再创建采购单：微软AI怎样接手具体工作？](episodes/2026-09/-MzqW0IJOEs.md) | 14:52 |
 | 09-17 | [赫拉利谈AI：你只按确认，决定权还在你手里吗？ &#124; Harari on AI: If You Only Click Approve, Who Is Really Deciding?](episodes/2026-09/Wdze2G6Oebk.md) | 15:26 |
 | 09-16 | [奥特曼预告本周大更新：GPT-6 Sol 会来吗？｜OpenAI Update Signals](episodes/2026-09/brNygGxzJTU.md) | 6:36 |
-| 09-15 | [Grok、Gemini、Claude一边狂飙一边踩刹车 &#124; Full Speed, Brakes On](episodes/2026-09/PXSVmJcW9cY.md) | 12:07 |
+| 09-15 | [千个AI自己组队？Anthropic CEO谈Agent Swarm风险 &#124; Thousands of AI Agents Teaming Up?](episodes/2026-09/PXSVmJcW9cY.md) | 12:07 |
 | 09-15 | [GPT-6 Sol 真来了？9分钟造出“死星”，身份却无法验证](episodes/2026-09/j1Z2Z967sX4.md) | 7:31 |
 | 09-14 | [Google DeepMind RSI传闻：证据到哪了？](episodes/2026-09/ITDNPWeHhvs.md) | 6:44 |
 | 09-14 | [我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build](episodes/2026-09/EXxxbuiZpOU.md) | 5:07 |
