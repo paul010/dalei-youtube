@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-20T01:01:19+00:00",
+  "updatedAt": "2026-09-21T01:02:24+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "LwXyYDbGDw0",
+      "title": "Fable 5.2 已在云代码中测试 Fable 5.2 Is Now Being Tested in Cloud Code",
+      "publishedAt": "2026-09-20T09:54:55+00:00",
+      "date": "2026-09-20",
+      "duration": "6:05",
+      "url": "https://www.youtube.com/watch?v=LwXyYDbGDw0"
+    },
     {
       "id": "WeAktXGtQZA",
       "title": "AI 不聊天，客服反而更快？看懂 Jev 的三种决定",
@@ -15,7 +23,7 @@
     },
     {
       "id": "8LglYweg26o",
-      "title": "Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook",
+      "title": "Gemini 整合音频视频概览与思维导图 Gemini Integrates Audio, Video Summaries and Mind Maps",
       "publishedAt": "2026-09-18T04:36:36+00:00",
       "date": "2026-09-18",
       "duration": "7:23",
@@ -55,7 +63,7 @@
     },
     {
       "id": "j1Z2Z967sX4",
-      "title": "GPT-6 Sol 真来了？9分钟造出“死星”，身份却无法验证",
+      "title": "AI 跑太快了？Anthropic CEO 为什么公开呼吁减速",
       "publishedAt": "2026-09-14T16:00:06+00:00",
       "date": "2026-09-15",
       "duration": "7:31",
@@ -95,7 +103,7 @@
     },
     {
       "id": "E852kfkgt48",
-      "title": "都画出来了，却都没做对：DeepSeek 与 Gemini 的克莱因瓶测试Both Rendered It. Neither Got It Right: DeepSeek and Gemini",
+      "title": "6分钟写出这只孔雀：Gemini Pro 新检查点演示This Peacock Took 6 Minutes: A Gemini Pro Checkpoint Demo",
       "publishedAt": "2026-09-11T13:16:31+00:00",
       "date": "2026-09-11",
       "duration": "6:52",
@@ -116,14 +124,6 @@
       "date": "2026-09-07",
       "duration": "1:06",
       "url": "https://www.youtube.com/watch?v=PfB3O2EQEj8"
-    },
-    {
-      "id": "3RPnuK6-RWM",
-      "title": "OpenAI为什么可能推迟上市？奥特曼谈自我改进与安全 Why OpenAI Might Delay Its IPO: Altman on Self-Improvement and Safety",
-      "publishedAt": "2026-09-07T10:47:56+00:00",
-      "date": "2026-09-07",
-      "duration": "10:29",
-      "url": "https://www.youtube.com/watch?v=3RPnuK6-RWM"
     }
   ]
 }
