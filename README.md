@@ -45,18 +45,18 @@
 |------|------|------|
 | 09-20 | [Fable 5.2 已在云代码中测试 Fable 5.2 Is Now Being Tested in Cloud Code](episodes/2026-09/LwXyYDbGDw0.md) | 6:05 |
 | 09-19 | [AI 不聊天，客服反而更快？看懂 Jev 的三种决定](episodes/2026-09/WeAktXGtQZA.md) | 7:06 |
-| 09-18 | [Gemini 整合音频视频概览与思维导图 Gemini Integrates Audio, Video Summaries and Mind Maps](episodes/2026-09/8LglYweg26o.md) | 7:23 |
+| 09-18 | [Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook](episodes/2026-09/8LglYweg26o.md) | 7:23 |
 | 09-17 | [采购代理先问你，再创建采购单：微软AI怎样接手具体工作？](episodes/2026-09/-MzqW0IJOEs.md) | 14:52 |
 | 09-17 | [赫拉利谈AI：你只按确认，决定权还在你手里吗？ &#124; Harari on AI: If You Only Click Approve, Who Is Really Deciding?](episodes/2026-09/Wdze2G6Oebk.md) | 15:26 |
 | 09-16 | [奥特曼预告本周大更新：GPT-6 Sol 会来吗？｜OpenAI Update Signals](episodes/2026-09/brNygGxzJTU.md) | 6:36 |
-| 09-15 | [千个AI自己组队？Anthropic CEO谈Agent Swarm风险 &#124; Thousands of AI Agents Teaming Up?](episodes/2026-09/PXSVmJcW9cY.md) | 12:07 |
-| 09-15 | [AI 跑太快了？Anthropic CEO 为什么公开呼吁减速](episodes/2026-09/j1Z2Z967sX4.md) | 7:31 |
+| 09-15 | [AI狂飙，谁踩刹车？Grok 5路线与Anthropic警告 &#124; AI Accelerates—Who Hits the Brakes?](episodes/2026-09/PXSVmJcW9cY.md) | 12:07 |
+| 09-15 | [Opus 5.2、GPT-6 Sol、DeepSeek Code 2.0：全是传闻？](episodes/2026-09/j1Z2Z967sX4.md) | 7:31 |
 | 09-14 | [Google DeepMind RSI传闻：证据到哪了？](episodes/2026-09/ITDNPWeHhvs.md) | 6:44 |
 | 09-14 | [我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build](episodes/2026-09/EXxxbuiZpOU.md) | 5:07 |
 | 09-12 | [2026最新北京环球影城实游｜霸天虎刺激到腿软！和娜娜的纪念日旅行](episodes/2026-09/bedd5n61rUA.md) | 8:12 |
 | 09-12 | [AI工具学了不少，怎么做出自己的第一个作品？](episodes/2026-09/-0X-BDl4PWw.md) | 4:24 |
-| 09-11 | [6分钟写出这只孔雀：Gemini Pro 新检查点演示This Peacock Took 6 Minutes: A Gemini Pro Checkpoint Demo](episodes/2026-09/E852kfkgt48.md) | 6:52 |
-| 09-10 | [Noam Brown谈推理成本：Astra与o3的评测对照 Noam Brown on Inference Cost: Comparing Astra and o3 on a Benchmark](episodes/2026-09/96kbkDWWuP0.md) | 7:40 |
+| 09-11 | [都画出来了，却都没做对：DeepSeek 与 Gemini 的克莱因瓶测试Both Rendered It. Neither Got It Right: DeepSeek and Gemini](episodes/2026-09/E852kfkgt48.md) | 6:52 |
+| 09-10 | [GPT 7要来了？先看OpenAI公开的这份数学证明 OpenAI Publishes a Math Proof: Model News and Image Updates](episodes/2026-09/96kbkDWWuP0.md) | 7:40 |
 | 09-07 | [GPT-6 Astra：从识别画面，到连续动手](episodes/2026-09/PfB3O2EQEj8.md) | 1:06 |
 | 09-07 | [OpenAI为什么可能推迟上市？奥特曼谈自我改进与安全 Why OpenAI Might Delay Its IPO: Altman on Self-Improvement and Safety](episodes/2026-09/3RPnuK6-RWM.md) | 10:29 |
 | 09-06 | [GPT 6 Astra 公开演示：游戏、3D和电脑操作 GPT-6 Astra demos: games, 3D and computer use—how far do the  go?](episodes/2026-09/yMBkQ-TEXkA.md) | 8:04 |

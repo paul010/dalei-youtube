@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-21T01:02:24+00:00",
+  "updatedAt": "2026-09-22T01:01:37+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "id": "8LglYweg26o",
-      "title": "Gemini 整合音频视频概览与思维导图 Gemini Integrates Audio, Video Summaries and Mind Maps",
+      "title": "Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook",
       "publishedAt": "2026-09-18T04:36:36+00:00",
       "date": "2026-09-18",
       "duration": "7:23",
@@ -55,7 +55,7 @@
     },
     {
       "id": "PXSVmJcW9cY",
-      "title": "千个AI自己组队？Anthropic CEO谈Agent Swarm风险 | Thousands of AI Agents Teaming Up?",
+      "title": "AI狂飙，谁踩刹车？Grok 5路线与Anthropic警告 | AI Accelerates—Who Hits the Brakes?",
       "publishedAt": "2026-09-15T10:19:47+00:00",
       "date": "2026-09-15",
       "duration": "12:07",
@@ -63,7 +63,7 @@
     },
     {
       "id": "j1Z2Z967sX4",
-      "title": "AI 跑太快了？Anthropic CEO 为什么公开呼吁减速",
+      "title": "Opus 5.2、GPT-6 Sol、DeepSeek Code 2.0：全是传闻？",
       "publishedAt": "2026-09-14T16:00:06+00:00",
       "date": "2026-09-15",
       "duration": "7:31",
@@ -103,7 +103,7 @@
     },
     {
       "id": "E852kfkgt48",
-      "title": "6分钟写出这只孔雀：Gemini Pro 新检查点演示This Peacock Took 6 Minutes: A Gemini Pro Checkpoint Demo",
+      "title": "都画出来了，却都没做对：DeepSeek 与 Gemini 的克莱因瓶测试Both Rendered It. Neither Got It Right: DeepSeek and Gemini",
       "publishedAt": "2026-09-11T13:16:31+00:00",
       "date": "2026-09-11",
       "duration": "6:52",
@@ -111,7 +111,7 @@
     },
     {
       "id": "96kbkDWWuP0",
-      "title": "Noam Brown谈推理成本：Astra与o3的评测对照 Noam Brown on Inference Cost: Comparing Astra and o3 on a Benchmark",
+      "title": "GPT 7要来了？先看OpenAI公开的这份数学证明 OpenAI Publishes a Math Proof: Model News and Image Updates",
       "publishedAt": "2026-09-10T13:40:01+00:00",
       "date": "2026-09-10",
       "duration": "7:40",
