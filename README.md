@@ -43,16 +43,17 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-24 | [GPT-6 API 单价降 50%，AI 账单会跟着减半吗？ &#124; GPT-6 API Prices Cut 50%—Will AI Bills Follow?](episodes/2026-09/dYdp3lqdfNY.md) | 6:47 |
 | 09-23 | [小米MIMO 2.6 Pro：3D游戏真的能跑？ &#124; Xiaomi MIMO 2.6 Pro: Can It Really Run a 3D Game?](episodes/2026-09/xE3BrTxOMuc.md) | 7:58 |
 | 09-22 | [Opus 5.5 要来了？Anthropic、M3.1 与 Step 5 最新线索](episodes/2026-09/a8CieOBddCg.md) | 8:32 |
 | 09-20 | [Fable 5.2 已在云代码中测试 Fable 5.2 Is Now Being Tested in Cloud Code](episodes/2026-09/LwXyYDbGDw0.md) | 6:05 |
 | 09-19 | [AI 不聊天，客服反而更快？看懂 Jev 的三种决定](episodes/2026-09/WeAktXGtQZA.md) | 7:06 |
-| 09-18 | [Gemini Notebook 新增安全云计算机 Gemini Notebook Adds Secure Cloud Computer](episodes/2026-09/8LglYweg26o.md) | 7:23 |
+| 09-18 | [Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook](episodes/2026-09/8LglYweg26o.md) | 7:23 |
 | 09-17 | [采购代理先问你，再创建采购单：微软AI怎样接手具体工作？](episodes/2026-09/-MzqW0IJOEs.md) | 14:52 |
 | 09-17 | [赫拉利谈AI：你只按确认，决定权还在你手里吗？ &#124; Harari on AI: If You Only Click Approve, Who Is Really Deciding?](episodes/2026-09/Wdze2G6Oebk.md) | 15:26 |
 | 09-16 | [奥特曼预告本周大更新：GPT-6 Sol 会来吗？｜OpenAI Update Signals](episodes/2026-09/brNygGxzJTU.md) | 6:36 |
-| 09-15 | [AI狂飙，谁踩刹车？Grok 5路线与Anthropic警告 &#124; AI Accelerates—Who Hits the Brakes?](episodes/2026-09/PXSVmJcW9cY.md) | 12:07 |
-| 09-15 | [Opus 5.2、GPT-6 Sol、DeepSeek Code 2.0：全是传闻？](episodes/2026-09/j1Z2Z967sX4.md) | 7:31 |
+| 09-15 | [Grok、Gemini、Claude一边狂飙一边踩刹车 &#124; Full Speed, Brakes On](episodes/2026-09/PXSVmJcW9cY.md) | 12:07 |
+| 09-15 | [GPT-6 Sol 真来了？9分钟造出“死星”，身份却无法验证](episodes/2026-09/j1Z2Z967sX4.md) | 7:31 |
 | 09-14 | [Google DeepMind RSI传闻：证据到哪了？](episodes/2026-09/ITDNPWeHhvs.md) | 6:44 |
 | 09-14 | [我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build](episodes/2026-09/EXxxbuiZpOU.md) | 5:07 |
 | 09-12 | [2026最新北京环球影城实游｜霸天虎刺激到腿软！和娜娜的纪念日旅行](episodes/2026-09/bedd5n61rUA.md) | 8:12 |

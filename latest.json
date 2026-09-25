@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-24T01:02:38+00:00",
+  "updatedAt": "2026-09-25T01:01:29+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "dYdp3lqdfNY",
+      "title": "GPT-6 API 单价降 50%，AI 账单会跟着减半吗？ | GPT-6 API Prices Cut 50%—Will AI Bills Follow?",
+      "publishedAt": "2026-09-24T12:16:36+00:00",
+      "date": "2026-09-24",
+      "duration": "6:47",
+      "url": "https://www.youtube.com/watch?v=dYdp3lqdfNY"
+    },
     {
       "id": "xE3BrTxOMuc",
       "title": "小米MIMO 2.6 Pro：3D游戏真的能跑？ | Xiaomi MIMO 2.6 Pro: Can It Really Run a 3D Game?",
@@ -39,7 +47,7 @@
     },
     {
       "id": "8LglYweg26o",
-      "title": "Gemini Notebook 新增安全云计算机 Gemini Notebook Adds Secure Cloud Computer",
+      "title": "Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook",
       "publishedAt": "2026-09-18T04:36:36+00:00",
       "date": "2026-09-18",
       "duration": "7:23",
@@ -71,7 +79,7 @@
     },
     {
       "id": "PXSVmJcW9cY",
-      "title": "AI狂飙，谁踩刹车？Grok 5路线与Anthropic警告 | AI Accelerates—Who Hits the Brakes?",
+      "title": "Grok、Gemini、Claude一边狂飙一边踩刹车 | Full Speed, Brakes On",
       "publishedAt": "2026-09-15T10:19:47+00:00",
       "date": "2026-09-15",
       "duration": "12:07",
@@ -79,7 +87,7 @@
     },
     {
       "id": "j1Z2Z967sX4",
-      "title": "Opus 5.2、GPT-6 Sol、DeepSeek Code 2.0：全是传闻？",
+      "title": "GPT-6 Sol 真来了？9分钟造出“死星”，身份却无法验证",
       "publishedAt": "2026-09-14T16:00:06+00:00",
       "date": "2026-09-15",
       "duration": "7:31",
@@ -116,14 +124,6 @@
       "date": "2026-09-12",
       "duration": "4:24",
       "url": "https://www.youtube.com/watch?v=-0X-BDl4PWw"
-    },
-    {
-      "id": "E852kfkgt48",
-      "title": "DeepSeek V4 1 Flash 单价很低，6项测试却比 Gemini 更费钱？Why Did DS V4.1 Flash Cost More Than Gemini  6 Tests?",
-      "publishedAt": "2026-09-11T13:16:31+00:00",
-      "date": "2026-09-11",
-      "duration": "6:52",
-      "url": "https://www.youtube.com/watch?v=E852kfkgt48"
     }
   ]
 }
