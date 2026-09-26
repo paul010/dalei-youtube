@@ -1,4 +1,4 @@
-# Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook
+# Gemini 整合音频视频概览与思维导图 Gemini Integrates Audio, Video Summaries and Mind Maps
 
 > **发布日期（北京时间）**：2026-09-18 | **时长**：7:23
 

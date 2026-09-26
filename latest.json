@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-25T01:01:29+00:00",
+  "updatedAt": "2026-09-26T01:19:49+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
     {
@@ -47,7 +47,7 @@
     },
     {
       "id": "8LglYweg26o",
-      "title": "Notebook LM 升级为 Gemini Notebook Notebook LM Upgrades to Gemini Notebook",
+      "title": "Gemini 整合音频视频概览与思维导图 Gemini Integrates Audio, Video Summaries and Mind Maps",
       "publishedAt": "2026-09-18T04:36:36+00:00",
       "date": "2026-09-18",
       "duration": "7:23",
