@@ -43,6 +43,7 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-26 | [AI演示太猛，先别急信：Gemini传闻、LongCat与Agent安全 &#124; AI Hype vs Evidence](episodes/2026-09/-LVFJQbnMbE.md) | 7:42 |
 | 09-24 | [GPT-6 API 单价降 50%，AI 账单会跟着减半吗？ &#124; GPT-6 API Prices Cut 50%—Will AI Bills Follow?](episodes/2026-09/dYdp3lqdfNY.md) | 6:47 |
 | 09-23 | [小米MIMO 2.6 Pro：3D游戏真的能跑？ &#124; Xiaomi MIMO 2.6 Pro: Can It Really Run a 3D Game?](episodes/2026-09/xE3BrTxOMuc.md) | 7:58 |
 | 09-22 | [Opus 5.5 要来了？Anthropic、M3.1 与 Step 5 最新线索](episodes/2026-09/a8CieOBddCg.md) | 8:32 |

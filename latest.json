@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-26T01:19:49+00:00",
+  "updatedAt": "2026-09-27T01:02:36+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "-LVFJQbnMbE",
+      "title": "AI演示太猛，先别急信：Gemini传闻、LongCat与Agent安全 | AI Hype vs Evidence",
+      "publishedAt": "2026-09-26T13:41:51+00:00",
+      "date": "2026-09-26",
+      "duration": "7:42",
+      "url": "https://www.youtube.com/watch?v=-LVFJQbnMbE"
+    },
     {
       "id": "dYdp3lqdfNY",
       "title": "GPT-6 API 单价降 50%，AI 账单会跟着减半吗？ | GPT-6 API Prices Cut 50%—Will AI Bills Follow?",
@@ -47,7 +55,7 @@
     },
     {
       "id": "8LglYweg26o",
-      "title": "Gemini 整合音频视频概览与思维导图 Gemini Integrates Audio, Video Summaries and Mind Maps",
+      "title": "Gemini Notebook 新增安全云计算机 Gemini Notebook Adds Secure Cloud Computer",
       "publishedAt": "2026-09-18T04:36:36+00:00",
       "date": "2026-09-18",
       "duration": "7:23",
@@ -79,7 +87,7 @@
     },
     {
       "id": "PXSVmJcW9cY",
-      "title": "Grok、Gemini、Claude一边狂飙一边踩刹车 | Full Speed, Brakes On",
+      "title": "AI狂飙，谁踩刹车？Grok 5路线与Anthropic警告 | AI Accelerates—Who Hits the Brakes?",
       "publishedAt": "2026-09-15T10:19:47+00:00",
       "date": "2026-09-15",
       "duration": "12:07",
@@ -87,7 +95,7 @@
     },
     {
       "id": "j1Z2Z967sX4",
-      "title": "GPT-6 Sol 真来了？9分钟造出“死星”，身份却无法验证",
+      "title": "Opus 5.2、GPT-6 Sol、DeepSeek Code 2.0：全是传闻？",
       "publishedAt": "2026-09-14T16:00:06+00:00",
       "date": "2026-09-15",
       "duration": "7:31",
@@ -116,14 +124,6 @@
       "date": "2026-09-12",
       "duration": "8:12",
       "url": "https://www.youtube.com/watch?v=bedd5n61rUA"
-    },
-    {
-      "id": "-0X-BDl4PWw",
-      "title": "AI工具学了不少，怎么做出自己的第一个作品？",
-      "publishedAt": "2026-09-12T06:22:45+00:00",
-      "date": "2026-09-12",
-      "duration": "4:24",
-      "url": "https://www.youtube.com/watch?v=-0X-BDl4PWw"
     }
   ]
 }
