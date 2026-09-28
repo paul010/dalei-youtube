@@ -73,9 +73,22 @@ def parse_sources(xml, playlist):
 
 
 def update_readme(readme, videos):
-    # Preserve every existing archive row. Add only missing videos in place.
+    # Refresh metadata in existing rows and add only missing videos in place.
     for video in reversed(videos):
-        if re.search(r"episodes/\d{4}-\d{2}/" + re.escape(video["id"]) + r"\.md", readme):
+        existing = re.search(
+            r"(?m)^\|[^\n]*\((episodes/\d{4}-\d{2}/"
+            + re.escape(video["id"])
+            + r"\.md)\)[^\n]*$",
+            readme,
+        )
+        if existing:
+            path = existing.group(1)
+            month_day = video["date"][5:]
+            row = f"| {month_day} | [{markdown_title(video['title'])}]({path}) | {video['duration']} |\n"
+            line_start = readme.rfind("\n", 0, existing.start()) + 1
+            line_end = readme.find("\n", existing.end())
+            line_end = len(readme) if line_end == -1 else line_end + 1
+            readme = readme[:line_start] + row + readme[line_end:]
             continue
         year, month, _ = video["date"].split("-")
         year_heading, month_heading = f"### {year}\n", f"#### {int(month)}月\n"
@@ -94,6 +107,20 @@ def update_readme(readme, videos):
     return readme
 
 
+def update_episode_metadata(content, video):
+    """Refresh only a page's generated title and date/duration lines."""
+    lines = content.splitlines(keepends=True)
+    if lines and lines[0].startswith("# "):
+        ending = "\r\n" if lines[0].endswith("\r\n") else "\n" if lines[0].endswith("\n") else ""
+        lines[0] = f"# {video['title']}" + ending
+    for index, line in enumerate(lines):
+        if line.startswith("> **发布日期（北京时间）**："):
+            ending = "\r\n" if line.endswith("\r\n") else "\n" if line.endswith("\n") else ""
+            lines[index] = f"> **发布日期（北京时间）**：{video['date']} | **时长**：{video['duration']}" + ending
+            break
+    return "".join(lines)
+
+
 def main():
     xml = command(["curl", "-fLsS", "--retry", "2", "--max-time", "30", RSS_URL])
     playlist = json.loads(command(["yt-dlp", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", CHANNEL_URL]))
@@ -107,10 +134,18 @@ def main():
     if previous.get("videos") and videos[0]["publishedAt"] < previous["videos"][0]["publishedAt"]:
         raise ValueError("Source looks older than the saved feed; refusing regression")
     created = 0
+    updated = 0
     for video in videos:
         path = ROOT / "episodes" / video["date"][:7] / f"{video['id']}.md"
         # An existing note may use a UTC archive date. Preserve its location.
-        if list((ROOT / "episodes").glob(f"*/{video['id']}.md")):
+        existing_pages = list((ROOT / "episodes").glob(f"*/{video['id']}.md"))
+        if existing_pages:
+            existing_path = existing_pages[0]
+            content = existing_path.read_text()
+            revised = update_episode_metadata(content, video)
+            if revised != content:
+                existing_path.write_text(revised)
+                updated += 1
             continue
         excerpt = excerpts[video["id"]]
         excerpt = excerpt[:600].rstrip() + ("…" if len(excerpt) > 600 else "")
@@ -125,7 +160,7 @@ def main():
         feed_path.write_text(json.dumps(feed, ensure_ascii=False, indent=2) + "\n")
     if original != readme:
         readme_path.write_text(readme)
-    print(json.dumps({"publicVideos": len(videos), "newEpisodePages": created,
+    print(json.dumps({"publicVideos": len(videos), "newEpisodePages": created, "updatedEpisodePages": updated,
                       "latest": videos[0], "feedChanged": previous.get("videos") != videos}, ensure_ascii=False))
 
 

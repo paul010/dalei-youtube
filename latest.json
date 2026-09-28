@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-27T01:02:36+00:00",
+  "updatedAt": "2026-09-28T01:07:27+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "lTWrzIO435c",
+      "title": "AI 生成只是开始：它能把作品做出来，还能接着改吗？ | Beyond Generation: Can AI Build and Iterate?",
+      "publishedAt": "2026-09-27T23:54:33+00:00",
+      "date": "2026-09-28",
+      "duration": "6:03",
+      "url": "https://www.youtube.com/watch?v=lTWrzIO435c"
+    },
+    {
+      "id": "JPV1VsUv1aY",
+      "title": "一条工单该交给谁？Jev 如何帮 Agent 快速分流",
+      "publishedAt": "2026-09-27T13:35:16+00:00",
+      "date": "2026-09-27",
+      "duration": "8:44",
+      "url": "https://www.youtube.com/watch?v=JPV1VsUv1aY"
+    },
+    {
+      "id": "meJmG8kOkE0",
+      "title": "Copilot 三种新招：Home、Code、Autopilot 变了什么？ | What’s New in Copilot Home, Code & Autopilot?",
+      "publishedAt": "2026-09-27T04:00:31+00:00",
+      "date": "2026-09-27",
+      "duration": "2:07",
+      "url": "https://www.youtube.com/watch?v=meJmG8kOkE0"
+    },
     {
       "id": "-LVFJQbnMbE",
       "title": "AI演示太猛，先别急信：Gemini传闻、LongCat与Agent安全 | AI Hype vs Evidence",
@@ -87,7 +111,7 @@
     },
     {
       "id": "PXSVmJcW9cY",
-      "title": "AI狂飙，谁踩刹车？Grok 5路线与Anthropic警告 | AI Accelerates—Who Hits the Brakes?",
+      "title": "Grok、Gemini、Claude一边狂飙一边踩刹车 | Full Speed, Brakes On",
       "publishedAt": "2026-09-15T10:19:47+00:00",
       "date": "2026-09-15",
       "duration": "12:07",
@@ -95,35 +119,11 @@
     },
     {
       "id": "j1Z2Z967sX4",
-      "title": "Opus 5.2、GPT-6 Sol、DeepSeek Code 2.0：全是传闻？",
+      "title": "GPT-6 Sol 真来了？9分钟造出“死星”，身份却无法验证",
       "publishedAt": "2026-09-14T16:00:06+00:00",
       "date": "2026-09-15",
       "duration": "7:31",
       "url": "https://www.youtube.com/watch?v=j1Z2Z967sX4"
-    },
-    {
-      "id": "ITDNPWeHhvs",
-      "title": "Google DeepMind RSI传闻：证据到哪了？",
-      "publishedAt": "2026-09-14T03:57:06+00:00",
-      "date": "2026-09-14",
-      "duration": "6:44",
-      "url": "https://www.youtube.com/watch?v=ITDNPWeHhvs"
-    },
-    {
-      "id": "EXxxbuiZpOU",
-      "title": "我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build",
-      "publishedAt": "2026-09-14T00:42:06+00:00",
-      "date": "2026-09-14",
-      "duration": "5:07",
-      "url": "https://www.youtube.com/watch?v=EXxxbuiZpOU"
-    },
-    {
-      "id": "bedd5n61rUA",
-      "title": "2026最新北京环球影城实游｜霸天虎刺激到腿软！和娜娜的纪念日旅行",
-      "publishedAt": "2026-09-12T14:40:38+00:00",
-      "date": "2026-09-12",
-      "duration": "8:12",
-      "url": "https://www.youtube.com/watch?v=bedd5n61rUA"
     }
   ]
 }

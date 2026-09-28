@@ -1,6 +1,6 @@
 import copy
 import unittest
-from sync_youtube import CHANNEL_ID, duration_label, parse_sources, update_readme
+from sync_youtube import CHANNEL_ID, duration_label, parse_sources, update_episode_metadata, update_readme
 
 
 class SyncTests(unittest.TestCase):
@@ -61,10 +61,25 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(updated.count("### 2026"), 1)
         self.assertTrue(updated.endswith("Footer\n"))
 
-    def test_existing_note_with_utc_date_not_duplicated(self):
+    def test_existing_index_row_refreshes_metadata_in_place(self):
         rows, _ = parse_sources(*self.sources())
         original = "## 📺 视频索引\n\n### 2026\n\n#### 1月\n| 日期 | 标题 | 时长 |\n|------|------|------|\n| 01-07 | [人工笔记](episodes/2026-01/abcdefghij6.md) | 7:18 |\n"
-        self.assertEqual(update_readme(original, rows[:1]), original)
+        updated = update_readme(original, rows[:1])
+        self.assertIn("| 01-08 | [当前标题 6](episodes/2026-01/abcdefghij6.md) | 7:18 |", updated)
+        self.assertNotIn("[人工笔记]", updated)
+        self.assertEqual(update_readme(updated, rows[:1]), updated)
+
+    def test_episode_metadata_refresh_preserves_editorial_body(self):
+        video = {"title": "当前标题", "date": "2026-01-08", "duration": "7:18"}
+        original = (
+            "# 旧标题\n\n"
+            "> **发布日期（北京时间）**：2026-01-07 | **时长**：7:00\n\n"
+            "## 人工笔记\n\n保留这一段人工整理的内容。\n"
+        )
+        updated = update_episode_metadata(original, video)
+        self.assertTrue(updated.startswith("# 当前标题\n\n"))
+        self.assertIn("> **发布日期（北京时间）**：2026-01-08 | **时长**：7:18\n\n", updated)
+        self.assertTrue(updated.endswith("## 人工笔记\n\n保留这一段人工整理的内容。\n"))
 
     def test_duration(self):
         self.assertEqual(duration_label(3601), "1:00:01")

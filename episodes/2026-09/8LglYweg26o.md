@@ -1,4 +1,4 @@
-# Gemini 整合音频视频概览与思维导图 Gemini Integrates Audio, Video Summaries and Mind Maps
+# Gemini Notebook 新增安全云计算机 Gemini Notebook Adds Secure Cloud Computer
 
 > **发布日期（北京时间）**：2026-09-18 | **时长**：7:23
 
