@@ -1,4 +1,4 @@
-# Grok、Gemini、Claude一边狂飙一边踩刹车 | Full Speed, Brakes On
+# AI狂飙，谁踩刹车？Grok 5路线与Anthropic警告 | AI Accelerates—Who Hits the Brakes?
 
 > **发布日期（北京时间）**：2026-09-15 | **时长**：12:07
 
