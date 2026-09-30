@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-29T01:03:42+00:00",
+  "updatedAt": "2026-09-30T01:01:48+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "9PuqpJ3iqh4",
+      "title": "Jev 的 4 个 AI 案例：它到底在选什么？ | 4 Jev AI Demos: What Is It Actually Choosing?",
+      "publishedAt": "2026-09-29T23:27:07+00:00",
+      "date": "2026-09-30",
+      "duration": "10:03",
+      "url": "https://www.youtube.com/watch?v=9PuqpJ3iqh4"
+    },
+    {
+      "id": "m3HeeSnXRLo",
+      "title": "AI 集体放风？GPT-7、Qwen 4、DeepSeek 新消息哪些有实锤？ | AI Model Rumors: What’s Confirmed?",
+      "publishedAt": "2026-09-29T02:29:11+00:00",
+      "date": "2026-09-29",
+      "duration": "6:46",
+      "url": "https://www.youtube.com/watch?v=m3HeeSnXRLo"
+    },
     {
       "id": "lTWrzIO435c",
       "title": "AI 生成只是开始：它能把作品做出来，还能接着改吗？ | Beyond Generation: Can AI Build and Iterate?",
@@ -108,22 +124,6 @@
       "date": "2026-09-16",
       "duration": "6:36",
       "url": "https://www.youtube.com/watch?v=brNygGxzJTU"
-    },
-    {
-      "id": "PXSVmJcW9cY",
-      "title": "AI狂飙，谁踩刹车？Grok 5路线与Anthropic警告 | AI Accelerates—Who Hits the Brakes?",
-      "publishedAt": "2026-09-15T10:19:47+00:00",
-      "date": "2026-09-15",
-      "duration": "12:07",
-      "url": "https://www.youtube.com/watch?v=PXSVmJcW9cY"
-    },
-    {
-      "id": "j1Z2Z967sX4",
-      "title": "Opus 5.2、GPT-6 Sol、DeepSeek Code 2.0：全是传闻？",
-      "publishedAt": "2026-09-14T16:00:06+00:00",
-      "date": "2026-09-15",
-      "duration": "7:31",
-      "url": "https://www.youtube.com/watch?v=j1Z2Z967sX4"
     }
   ]
 }

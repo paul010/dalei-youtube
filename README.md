@@ -43,6 +43,8 @@
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 09-30 | [Jev 的 4 个 AI 案例：它到底在选什么？ &#124; 4 Jev AI Demos: What Is It Actually Choosing?](episodes/2026-09/9PuqpJ3iqh4.md) | 10:03 |
+| 09-29 | [AI 集体放风？GPT-7、Qwen 4、DeepSeek 新消息哪些有实锤？ &#124; AI Model Rumors: What’s Confirmed?](episodes/2026-09/m3HeeSnXRLo.md) | 6:46 |
 | 09-28 | [AI 生成只是开始：它能把作品做出来，还能接着改吗？ &#124; Beyond Generation: Can AI Build and Iterate?](episodes/2026-09/lTWrzIO435c.md) | 6:03 |
 | 09-27 | [一条工单该交给谁？Jev 如何帮 Agent 快速分流](episodes/2026-09/JPV1VsUv1aY.md) | 8:44 |
 | 09-27 | [Copilot 三种新招：Home、Code、Autopilot 变了什么？ &#124; What’s New in Copilot Home, Code & Autopilot?](episodes/2026-09/meJmG8kOkE0.md) | 2:07 |
