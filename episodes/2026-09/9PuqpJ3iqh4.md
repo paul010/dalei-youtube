@@ -1,4 +1,4 @@
-# Jev 的 4 个 AI 案例：它到底在选什么？ | 4 Jev AI Demos: What Is It Actually Choosing?
+# Jev 的 4 个 AI 案例：它到底在选什么？ 4 Jev AI Demos: What Is It Actually Choosing?
 
 > **发布日期（北京时间）**：2026-09-30 | **时长**：10:03
 

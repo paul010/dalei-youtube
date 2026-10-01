@@ -40,10 +40,16 @@
 
 ### 2026
 
+#### 10月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 10-01 | [GPT-6.1 Sol 能做出能玩的 3D 游戏？OpenAI DevDay &#124; AI Games & Agents](episodes/2026-10/vRwjof06A-s.md) | 11:33 |
+
 #### 9月
 | 日期 | 标题 | 时长 |
 |------|------|------|
-| 09-30 | [Jev 的 4 个 AI 案例：它到底在选什么？ &#124; 4 Jev AI Demos: What Is It Actually Choosing?](episodes/2026-09/9PuqpJ3iqh4.md) | 10:03 |
+| 09-30 | [AI开始接活，真能交付吗？｜OpenAI DevDay: Can AI Actually Deliver?](episodes/2026-09/2-zkfFGwUdk.md) | 7:23 |
+| 09-30 | [Jev 的 4 个 AI 案例：它到底在选什么？ 4 Jev AI Demos: What Is It Actually Choosing?](episodes/2026-09/9PuqpJ3iqh4.md) | 10:03 |
 | 09-29 | [AI 集体放风？GPT-7、Qwen 4、DeepSeek 新消息哪些有实锤？ &#124; AI Model Rumors: What’s Confirmed?](episodes/2026-09/m3HeeSnXRLo.md) | 6:46 |
 | 09-28 | [AI 生成只是开始：它能把作品做出来，还能接着改吗？ &#124; Beyond Generation: Can AI Build and Iterate?](episodes/2026-09/lTWrzIO435c.md) | 6:03 |
 | 09-27 | [一条工单该交给谁？Jev 如何帮 Agent 快速分流](episodes/2026-09/JPV1VsUv1aY.md) | 8:44 |

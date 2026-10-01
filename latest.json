@@ -2,12 +2,28 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-09-30T01:01:48+00:00",
+  "updatedAt": "2026-10-01T01:02:47+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
     {
+      "id": "vRwjof06A-s",
+      "title": "GPT-6.1 Sol 能做出能玩的 3D 游戏？OpenAI DevDay | AI Games & Agents",
+      "publishedAt": "2026-09-30T23:03:30+00:00",
+      "date": "2026-10-01",
+      "duration": "11:33",
+      "url": "https://www.youtube.com/watch?v=vRwjof06A-s"
+    },
+    {
+      "id": "2-zkfFGwUdk",
+      "title": "AI开始接活，真能交付吗？｜OpenAI DevDay: Can AI Actually Deliver?",
+      "publishedAt": "2026-09-30T06:02:26+00:00",
+      "date": "2026-09-30",
+      "duration": "7:23",
+      "url": "https://www.youtube.com/watch?v=2-zkfFGwUdk"
+    },
+    {
       "id": "9PuqpJ3iqh4",
-      "title": "Jev 的 4 个 AI 案例：它到底在选什么？ | 4 Jev AI Demos: What Is It Actually Choosing?",
+      "title": "Jev 的 4 个 AI 案例：它到底在选什么？ 4 Jev AI Demos: What Is It Actually Choosing?",
       "publishedAt": "2026-09-29T23:27:07+00:00",
       "date": "2026-09-30",
       "duration": "10:03",
@@ -108,22 +124,6 @@
       "date": "2026-09-17",
       "duration": "14:52",
       "url": "https://www.youtube.com/watch?v=-MzqW0IJOEs"
-    },
-    {
-      "id": "Wdze2G6Oebk",
-      "title": "赫拉利谈AI：你只按确认，决定权还在你手里吗？ | Harari on AI: If You Only Click Approve, Who Is Really Deciding?",
-      "publishedAt": "2026-09-16T21:56:31+00:00",
-      "date": "2026-09-17",
-      "duration": "15:26",
-      "url": "https://www.youtube.com/watch?v=Wdze2G6Oebk"
-    },
-    {
-      "id": "brNygGxzJTU",
-      "title": "奥特曼预告本周大更新：GPT-6 Sol 会来吗？｜OpenAI Update Signals",
-      "publishedAt": "2026-09-16T00:53:00+00:00",
-      "date": "2026-09-16",
-      "duration": "6:36",
-      "url": "https://www.youtube.com/watch?v=brNygGxzJTU"
     }
   ]
 }
