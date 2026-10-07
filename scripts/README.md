@@ -7,7 +7,7 @@ python3 -m unittest discover -s scripts -p 'test_*.py'
 
 需要 Python 3.9+、curl、yt-dlp。只读取公开 metadata，不下载视频、不读取登录 cookie、不使用付费 API。
 
-- YouTube 官方 RSS 提供精确发布时间和简介；频道 Videos 列表优先提供当前标题、时长与访问状态。若公开RSS中有节目暂未出现在 Videos 列表（例如Shorts），同步器逐条直接核验视频ID、频道归属、公开状态和时长；无法确认时安全停止，不推进旧feed。
+- YouTube 官方 RSS 提供精确发布时间和简介；频道 Videos 列表优先提供当前标题、时长与访问状态，Shorts 列表用于排除竖屏/方形短视频。命中频道 Shorts 列表的 ID 不进入首页feed、Notion或新节目索引。其余 RSS 视频若暂未出现在 Videos 列表，则按ID直接核验频道归属与公开状态；无法确认时安全停止、不推进feed。按 YouTube 当前规则，2024-10-15 后上传且方形/竖屏、时长不超过3分钟的视频可归为Shorts，因此不只按60秒时长过滤。
 - `latest.json` 保存 RSS 最近一批公开节目（通常 15 条），按发布时间倒序，日期转换为北京时间。首页读取前 6 条。
 - 会员专享、私密、待播与正在直播的条目不进入本 feed。
 - README 补充缺失档案索引，并按当前公开列表刷新已收录条目的标题、日期和时长；节目页只更新标题与 metadata 行，已有人工笔记正文不覆盖。新节目页只提供来源信息和原简介节选，不冒充完整笔记。

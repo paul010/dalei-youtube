@@ -34,7 +34,7 @@
 
 ## 📺 视频索引
 
-公开节目的最新信息会同步到 [latest.json](latest.json)，供 [我的主页](https://dailycosmos.net/#videos) 自动读取。日期按北京时间展示，新节目排在前面；旧档案保留原日期。标题来自频道，可能随作者调整或标题测试变化。
+公开长节目的最新信息（排除频道 Shorts）会同步到 [latest.json](latest.json)，供 [我的主页](https://dailycosmos.net/#videos) 自动读取。日期按北京时间展示，新节目排在前面；旧档案保留原日期。标题来自频道，可能随作者调整或标题测试变化。
 
 同步说明见 [scripts/README.md](scripts/README.md)。
 
@@ -45,7 +45,6 @@
 |------|------|------|
 | 10-07 | [AI作品做出来，就能接着用？从宝塔游戏到Codex &#124; Beyond the Demo](episodes/2026-10/FQf9gjl29fo.md) | 5:24 |
 | 10-07 | [Copilot Studio把邮件接成流程：AI先审，人再批准 &#124; From Email to Approval](episodes/2026-10/iZ3E_5E9P9M.md) | 6:42 |
-| 10-06 | [《The Why Café》：这3个问题，你答得出来吗？](episodes/2026-10/o4QuLnYmOiM.md) | 0:32 |
 | 10-06 | [GPT-Next是谁？先看宝塔，再看Codex提速 &#124; Demos & Codex](episodes/2026-10/jNVKo0KqgvE.md) | 4:02 |
 | 10-06 | [同样200美元，ChatGPT和Claude谁更值？｜Same $200, Better AI Value?](episodes/2026-10/LGaw2Iy_TVo.md) | 4:57 |
 | 10-06 | [Copilot做完第一版，还能接着改吗？ &#124; Copilot Beyond the First Draft: Can It Keep Editing?](episodes/2026-10/SXPqpNd5r8s.md) | 6:55 |

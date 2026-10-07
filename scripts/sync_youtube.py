@@ -16,6 +16,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 CHANNEL_ID = "UCk9tu0mFtXj_rOEfIncxuJQ"
 CHANNEL_URL = "https://www.youtube.com/@dalei2025/videos"
+SHORTS_URL = "https://www.youtube.com/@dalei2025/shorts"
 RSS_URL = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015", "m": "http://search.yahoo.com/mrss/"}
 
@@ -35,10 +36,18 @@ def markdown_title(title):
     return title.replace("|", "&#124;").replace("[", "&#91;").replace("]", "&#93;").replace("\n", " ")
 
 
-def parse_sources(xml, playlist, fetch_public_video=None):
+def parse_sources(xml, playlist, fetch_public_video=None, shorts_playlist=None):
     root = ET.fromstring(xml)
     if root.findtext("yt:channelId", namespaces=NS) not in {CHANNEL_ID, CHANNEL_ID[2:]} or playlist.get("channel_id") != CHANNEL_ID:
         raise ValueError("Unexpected source channel")
+    if shorts_playlist is None or shorts_playlist.get("id") != CHANNEL_ID or not isinstance(shorts_playlist.get("entries"), list):
+        raise ValueError("Unexpected or incomplete channel Shorts source")
+    shorts = set()
+    for item in shorts_playlist["entries"]:
+        video_id = item.get("id") if isinstance(item, dict) else None
+        if not isinstance(video_id, str) or not re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
+            raise ValueError("Invalid video ID in channel Shorts source")
+        shorts.add(video_id)
     listed = {item["id"]: item for item in playlist["entries"]}
     videos, excerpts = [], {}
     now = datetime.now(timezone.utc)
@@ -46,11 +55,14 @@ def parse_sources(xml, playlist, fetch_public_video=None):
         video_id = entry.findtext("yt:videoId", namespaces=NS)
         if not video_id or not re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
             raise ValueError("Invalid video ID")
+        # Trust YouTube's channel Shorts tab, not duration heuristics: Shorts can
+        # be up to three minutes, while ordinary episodes can also be brief.
+        if video_id in shorts:
+            continue
         item = listed.get(video_id)
         if item is None:
-            # Shorts and other public uploads can appear in channel RSS before
-            # they appear in the Videos tab. Verify those IDs directly instead
-            # of letting one valid public upload freeze the whole homepage feed.
+            # Recent public uploads can appear in channel RSS before they appear
+            # in the Videos tab. Verify those IDs directly without syncing Shorts.
             if fetch_public_video is None:
                 raise ValueError(f"RSS video missing from channel Videos tab: {video_id}")
             item = fetch_public_video(video_id)
@@ -143,7 +155,8 @@ def update_episode_metadata(content, video):
 def main():
     xml = command(["curl", "-fLsS", "--retry", "2", "--max-time", "30", RSS_URL])
     playlist = json.loads(command(["yt-dlp", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", CHANNEL_URL]))
-    videos, excerpts = parse_sources(xml, playlist, fetch_public_video)
+    shorts_playlist = json.loads(command(["yt-dlp", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", SHORTS_URL]))
+    videos, excerpts = parse_sources(xml, playlist, fetch_public_video, shorts_playlist)
     readme_path = ROOT / "README.md"
     original = readme_path.read_text()
     readme = update_readme(original, videos)
