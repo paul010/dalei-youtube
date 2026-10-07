@@ -39,6 +39,31 @@ class SyncTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             parse_sources(xml, playlist)
 
+    def test_public_video_missing_from_videos_tab_is_directly_verified(self):
+        xml, playlist = self.sources()
+        playlist["entries"].pop()
+        direct = {"id": "abcdefghij6", "title": "Short in RSS", "duration": 32,
+                  "channel_id": CHANNEL_ID, "availability": "public", "live_status": "not_live"}
+        rows, _ = parse_sources(xml, playlist, lambda video_id: direct)
+        self.assertIn("abcdefghij6", [video["id"] for video in rows])
+        self.assertEqual(next(video for video in rows if video["id"] == "abcdefghij6")["duration"], "0:32")
+
+    def test_missing_restricted_video_is_excluded(self):
+        xml, playlist = self.sources()
+        playlist["entries"].pop()
+        direct = {"id": "abcdefghij6", "channel_id": CHANNEL_ID,
+                  "availability": "subscriber_only", "live_status": "not_live"}
+        rows, _ = parse_sources(xml, playlist, lambda video_id: direct)
+        self.assertNotIn("abcdefghij6", [video["id"] for video in rows])
+
+    def test_missing_video_from_wrong_channel_is_rejected(self):
+        xml, playlist = self.sources()
+        playlist["entries"].pop()
+        direct = {"id": "abcdefghij6", "channel_id": "other", "availability": "public",
+                  "live_status": "not_live", "title": "Wrong channel", "duration": 32}
+        with self.assertRaises(ValueError):
+            parse_sources(xml, playlist, lambda video_id: direct)
+
     def test_missing_duration_rejected(self):
         xml, playlist = self.sources()
         playlist["entries"][0]["duration"] = None

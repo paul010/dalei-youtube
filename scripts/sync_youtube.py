@@ -35,7 +35,7 @@ def markdown_title(title):
     return title.replace("|", "&#124;").replace("[", "&#91;").replace("]", "&#93;").replace("\n", " ")
 
 
-def parse_sources(xml, playlist):
+def parse_sources(xml, playlist, fetch_public_video=None):
     root = ET.fromstring(xml)
     if root.findtext("yt:channelId", namespaces=NS) not in {CHANNEL_ID, CHANNEL_ID[2:]} or playlist.get("channel_id") != CHANNEL_ID:
         raise ValueError("Unexpected source channel")
@@ -48,8 +48,18 @@ def parse_sources(xml, playlist):
             raise ValueError("Invalid video ID")
         item = listed.get(video_id)
         if item is None:
-            # Do not silently publish an incomplete feed on source disagreement.
-            raise ValueError(f"RSS video missing from channel Videos tab: {video_id}")
+            # Shorts and other public uploads can appear in channel RSS before
+            # they appear in the Videos tab. Verify those IDs directly instead
+            # of letting one valid public upload freeze the whole homepage feed.
+            if fetch_public_video is None:
+                raise ValueError(f"RSS video missing from channel Videos tab: {video_id}")
+            item = fetch_public_video(video_id)
+            if item.get("id") != video_id or item.get("channel_id") != CHANNEL_ID:
+                raise ValueError(f"Direct video metadata does not match the expected channel: {video_id}")
+            if item.get("availability") in {"subscriber_only", "premium_only", "private", "needs_auth"}:
+                continue
+            if item.get("availability") != "public":
+                raise ValueError(f"Direct video availability is unknown: {video_id}")
         if item.get("availability") in {"subscriber_only", "premium_only", "private", "needs_auth"} or item.get("live_status") in {"is_live", "is_upcoming"}:
             continue
         published = entry.findtext("a:published", namespaces=NS)
@@ -70,6 +80,15 @@ def parse_sources(xml, playlist):
     if len(videos) < 6 or len({v["id"] for v in videos}) != len(videos):
         raise ValueError("Too few public videos, or duplicate IDs")
     return videos, excerpts
+
+
+def fetch_public_video(video_id):
+    raw = command(["yt-dlp", "--no-warnings", "--skip-download", "--dump-single-json",
+                   f"https://www.youtube.com/watch?v={video_id}"])
+    item = json.loads(raw)
+    if item.get("id") != video_id or item.get("channel_id") != CHANNEL_ID:
+        raise ValueError(f"Direct video lookup returned the wrong channel or ID: {video_id}")
+    return item
 
 
 def update_readme(readme, videos):
@@ -124,7 +143,7 @@ def update_episode_metadata(content, video):
 def main():
     xml = command(["curl", "-fLsS", "--retry", "2", "--max-time", "30", RSS_URL])
     playlist = json.loads(command(["yt-dlp", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", CHANNEL_URL]))
-    videos, excerpts = parse_sources(xml, playlist)
+    videos, excerpts = parse_sources(xml, playlist, fetch_public_video)
     readme_path = ROOT / "README.md"
     original = readme_path.read_text()
     readme = update_readme(original, videos)

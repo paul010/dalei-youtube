@@ -43,6 +43,21 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-07 | [AI作品做出来，就能接着用？从宝塔游戏到Codex &#124; Beyond the Demo](episodes/2026-10/FQf9gjl29fo.md) | 5:24 |
+| 10-07 | [Copilot Studio把邮件接成流程：AI先审，人再批准 &#124; From Email to Approval](episodes/2026-10/iZ3E_5E9P9M.md) | 6:42 |
+| 10-06 | [《The Why Café》：这3个问题，你答得出来吗？](episodes/2026-10/o4QuLnYmOiM.md) | 0:32 |
+| 10-06 | [GPT-Next是谁？先看宝塔，再看Codex提速 &#124; Demos & Codex](episodes/2026-10/jNVKo0KqgvE.md) | 4:02 |
+| 10-06 | [同样200美元，ChatGPT和Claude谁更值？｜Same $200, Better AI Value?](episodes/2026-10/LGaw2Iy_TVo.md) | 4:57 |
+| 10-06 | [Copilot做完第一版，还能接着改吗？ &#124; Copilot Beyond the First Draft: Can It Keep Editing?](episodes/2026-10/SXPqpNd5r8s.md) | 6:55 |
+| 10-05 | [读书之后，我更懂妈妈了｜《世界尽头的咖啡馆》The Why Cafe 读后感](episodes/2026-10/Owzw5Phzda4.md) | 9:24 |
+| 10-05 | [一张图走进3D，AI开始造整片世界｜3D AI News](episodes/2026-10/l5WtsClxLs4.md) | 8:01 |
+| 10-04 | [画风狂变，舞步还在：AI动画能接着讲故事吗？ &#124; Beyond the First Frame](episodes/2026-10/EowXwbmyWIw.md) | 6:52 |
+| 10-04 | [总觉得自己还不够好？我决定先完成这一期｜Start Before Perfect](episodes/2026-10/1nxS1ENKHmo.md) | 2:02 |
+| 10-04 | [Claude 作者展示：一句话做出三分钟文明动画？&#124; One Prompt, Three Minutes of Civilization](episodes/2026-10/ESPHv6GimD0.md) | 6:07 |
+| 10-03 | [MiniMax M3.1：游戏真能玩？从射击到桌面 &#124; Can AI Build a Playable Game?](episodes/2026-10/d3Oi1cfNykI.md) | 8:45 |
+| 10-03 | [Copilot 别只聊天：从资料到专用助手 &#124; Copilot: From Notes to Agents](episodes/2026-10/eVsTR91Za7s.md) | 10:38 |
+| 10-02 | [把每天三件小事，变成口袋里的冒险｜Life Quest on AI Passport](episodes/2026-10/zclnRmatV78.md) | 1:50 |
+| 10-02 | [AI演示惊艳，真把活干完了吗？｜Amazing Demos. Finished Work?](episodes/2026-10/i_GxbRQzLKc.md) | 4:50 |
 | 10-01 | [GPT-6.1 Sol 能做出能玩的 3D 游戏？OpenAI DevDay &#124; AI Games & Agents](episodes/2026-10/vRwjof06A-s.md) | 11:33 |
 
 #### 9月
