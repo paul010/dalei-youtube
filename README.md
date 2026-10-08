@@ -43,6 +43,7 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-08 | [AI会干活了？Claude Code、OpenAI与Mistral演示 &#124; AI That Gets Work Done?](episodes/2026-10/ciKsq4x5LoU.md) | 8:37 |
 | 10-07 | [AI作品做出来，就能接着用？从宝塔游戏到Codex &#124; Beyond the Demo](episodes/2026-10/FQf9gjl29fo.md) | 5:24 |
 | 10-07 | [Copilot Studio把邮件接成流程：AI先审，人再批准 &#124; From Email to Approval](episodes/2026-10/iZ3E_5E9P9M.md) | 6:42 |
 | 10-06 | [GPT-Next是谁？先看宝塔，再看Codex提速 &#124; Demos & Codex](episodes/2026-10/jNVKo0KqgvE.md) | 4:02 |

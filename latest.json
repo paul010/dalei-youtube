@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-07T09:37:11+00:00",
+  "updatedAt": "2026-10-08T00:58:56+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "ciKsq4x5LoU",
+      "title": "AI会干活了？Claude Code、OpenAI与Mistral演示 | AI That Gets Work Done?",
+      "publishedAt": "2026-10-07T22:01:39+00:00",
+      "date": "2026-10-08",
+      "duration": "8:37",
+      "url": "https://www.youtube.com/watch?v=ciKsq4x5LoU"
+    },
     {
       "id": "FQf9gjl29fo",
       "title": "AI作品做出来，就能接着用？从宝塔游戏到Codex | Beyond the Demo",
@@ -108,14 +116,6 @@
       "date": "2026-10-02",
       "duration": "1:50",
       "url": "https://www.youtube.com/watch?v=zclnRmatV78"
-    },
-    {
-      "id": "i_GxbRQzLKc",
-      "title": "AI演示惊艳，真把活干完了吗？｜Amazing Demos. Finished Work?",
-      "publishedAt": "2026-10-02T06:25:51+00:00",
-      "date": "2026-10-02",
-      "duration": "4:50",
-      "url": "https://www.youtube.com/watch?v=i_GxbRQzLKc"
     }
   ]
 }
