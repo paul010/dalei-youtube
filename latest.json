@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-08T00:58:56+00:00",
+  "updatedAt": "2026-10-09T02:06:54+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "P0ETYHP2IWg",
+      "title": "AI能动手了，哪步真省钱？GPT-6、Windows本地模型与Haiku 5.5 | AI News & Analysis",
+      "publishedAt": "2026-10-08T11:21:54+00:00",
+      "date": "2026-10-08",
+      "duration": "10:27",
+      "url": "https://www.youtube.com/watch?v=P0ETYHP2IWg"
+    },
     {
       "id": "ciKsq4x5LoU",
       "title": "AI会干活了？Claude Code、OpenAI与Mistral演示 | AI That Gets Work Done?",
@@ -108,14 +116,6 @@
       "date": "2026-10-03",
       "duration": "10:38",
       "url": "https://www.youtube.com/watch?v=eVsTR91Za7s"
-    },
-    {
-      "id": "zclnRmatV78",
-      "title": "把每天三件小事，变成口袋里的冒险｜Life Quest on AI Passport",
-      "publishedAt": "2026-10-02T09:48:26+00:00",
-      "date": "2026-10-02",
-      "duration": "1:50",
-      "url": "https://www.youtube.com/watch?v=zclnRmatV78"
     }
   ]
 }

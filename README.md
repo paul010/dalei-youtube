@@ -43,6 +43,7 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-08 | [AI能动手了，哪步真省钱？GPT-6、Windows本地模型与Haiku 5.5 &#124; AI News & Analysis](episodes/2026-10/P0ETYHP2IWg.md) | 10:27 |
 | 10-08 | [AI会干活了？Claude Code、OpenAI与Mistral演示 &#124; AI That Gets Work Done?](episodes/2026-10/ciKsq4x5LoU.md) | 8:37 |
 | 10-07 | [AI作品做出来，就能接着用？从宝塔游戏到Codex &#124; Beyond the Demo](episodes/2026-10/FQf9gjl29fo.md) | 5:24 |
 | 10-07 | [Copilot Studio把邮件接成流程：AI先审，人再批准 &#124; From Email to Approval](episodes/2026-10/iZ3E_5E9P9M.md) | 6:42 |
