@@ -43,6 +43,8 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-10 | [AI不只聊天了：Gemini接任务，GPT做交互，Claude改动画 &#124; Beyond Chat: AI at Work](episodes/2026-10/bYrdISLj87Q.md) | 8:32 |
+| 10-09 | [AI会写代码，缺的资料谁来补？Claude Code、Google和OpenAI演示解读 &#124; Beyond Code](episodes/2026-10/CZdgs_pW3VM.md) | 10:48 |
 | 10-08 | [AI能动手了，哪步真省钱？GPT-6、Windows本地模型与Haiku 5.5 &#124; AI News & Analysis](episodes/2026-10/P0ETYHP2IWg.md) | 10:27 |
 | 10-08 | [AI会干活了？Claude Code、OpenAI与Mistral演示 &#124; AI That Gets Work Done?](episodes/2026-10/ciKsq4x5LoU.md) | 8:37 |
 | 10-07 | [AI作品做出来，就能接着用？从宝塔游戏到Codex &#124; Beyond the Demo](episodes/2026-10/FQf9gjl29fo.md) | 5:24 |
