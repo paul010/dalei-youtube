@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-10T01:04:10+00:00",
+  "updatedAt": "2026-10-11T01:04:47+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "zD2SmtS2nwM",
+      "title": "方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 | Playable AI Worlds & Model Rumors",
+      "publishedAt": "2026-10-10T10:01:33+00:00",
+      "date": "2026-10-10",
+      "duration": "4:04",
+      "url": "https://www.youtube.com/watch?v=zD2SmtS2nwM"
+    },
     {
       "id": "bYrdISLj87Q",
       "title": "AI不只聊天了：Gemini接任务，GPT做交互，Claude改动画 | Beyond Chat: AI at Work",
@@ -108,14 +116,6 @@
       "date": "2026-10-04",
       "duration": "2:02",
       "url": "https://www.youtube.com/watch?v=1nxS1ENKHmo"
-    },
-    {
-      "id": "ESPHv6GimD0",
-      "title": "Claude 作者展示：一句话做出三分钟文明动画？| One Prompt, Three Minutes of Civilization",
-      "publishedAt": "2026-10-04T05:11:27+00:00",
-      "date": "2026-10-04",
-      "duration": "6:07",
-      "url": "https://www.youtube.com/watch?v=ESPHv6GimD0"
     }
   ]
 }

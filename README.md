@@ -43,6 +43,7 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-10 | [方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 &#124; Playable AI Worlds & Model Rumors](episodes/2026-10/zD2SmtS2nwM.md) | 4:04 |
 | 10-10 | [AI不只聊天了：Gemini接任务，GPT做交互，Claude改动画 &#124; Beyond Chat: AI at Work](episodes/2026-10/bYrdISLj87Q.md) | 8:32 |
 | 10-09 | [AI会写代码，缺的资料谁来补？Claude Code、Google和OpenAI演示解读 &#124; Beyond Code](episodes/2026-10/CZdgs_pW3VM.md) | 10:48 |
 | 10-08 | [AI能动手了，哪步真省钱？GPT-6、Windows本地模型与Haiku 5.5 &#124; AI News & Analysis](episodes/2026-10/P0ETYHP2IWg.md) | 10:27 |
