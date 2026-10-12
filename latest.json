@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-11T01:04:47+00:00",
+  "updatedAt": "2026-10-12T02:00:53+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "yguIUSgQdFc",
+      "title": "Codex 会猜你下一句，AI 作品你选谁？｜AI Updates & Demos",
+      "publishedAt": "2026-10-11T23:30:58+00:00",
+      "date": "2026-10-12",
+      "duration": "10:09",
+      "url": "https://www.youtube.com/watch?v=yguIUSgQdFc"
+    },
+    {
+      "id": "J3ArB8f0FRY",
+      "title": "AI做完第一版，谁来接手？Qwen、Codex与Claude | After the First Draft",
+      "publishedAt": "2026-10-11T09:57:57+00:00",
+      "date": "2026-10-11",
+      "duration": "12:02",
+      "url": "https://www.youtube.com/watch?v=J3ArB8f0FRY"
+    },
+    {
+      "id": "tVW_ipHTqkc",
+      "title": "Copilot写完第一版，同事怎么接着改？ | Office in Copilot: What Happens After the First Draft?",
+      "publishedAt": "2026-10-11T07:24:58+00:00",
+      "date": "2026-10-11",
+      "duration": "2:59",
+      "url": "https://www.youtube.com/watch?v=tVW_ipHTqkc"
+    },
     {
       "id": "zD2SmtS2nwM",
       "title": "方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 | Playable AI Worlds & Model Rumors",
@@ -92,30 +116,6 @@
       "date": "2026-10-05",
       "duration": "9:24",
       "url": "https://www.youtube.com/watch?v=Owzw5Phzda4"
-    },
-    {
-      "id": "l5WtsClxLs4",
-      "title": "一张图走进3D，AI开始造整片世界｜3D AI News",
-      "publishedAt": "2026-10-05T10:51:42+00:00",
-      "date": "2026-10-05",
-      "duration": "8:01",
-      "url": "https://www.youtube.com/watch?v=l5WtsClxLs4"
-    },
-    {
-      "id": "EowXwbmyWIw",
-      "title": "画风狂变，舞步还在：AI动画能接着讲故事吗？ | Beyond the First Frame",
-      "publishedAt": "2026-10-04T13:28:20+00:00",
-      "date": "2026-10-04",
-      "duration": "6:52",
-      "url": "https://www.youtube.com/watch?v=EowXwbmyWIw"
-    },
-    {
-      "id": "1nxS1ENKHmo",
-      "title": "总觉得自己还不够好？我决定先完成这一期｜Start Before Perfect",
-      "publishedAt": "2026-10-04T07:42:25+00:00",
-      "date": "2026-10-04",
-      "duration": "2:02",
-      "url": "https://www.youtube.com/watch?v=1nxS1ENKHmo"
     }
   ]
 }

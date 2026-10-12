@@ -43,6 +43,9 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-12 | [Codex 会猜你下一句，AI 作品你选谁？｜AI Updates & Demos](episodes/2026-10/yguIUSgQdFc.md) | 10:09 |
+| 10-11 | [AI做完第一版，谁来接手？Qwen、Codex与Claude &#124; After the First Draft](episodes/2026-10/J3ArB8f0FRY.md) | 12:02 |
+| 10-11 | [Copilot写完第一版，同事怎么接着改？ &#124; Office in Copilot: What Happens After the First Draft?](episodes/2026-10/tVW_ipHTqkc.md) | 2:59 |
 | 10-10 | [方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 &#124; Playable AI Worlds & Model Rumors](episodes/2026-10/zD2SmtS2nwM.md) | 4:04 |
 | 10-10 | [AI不只聊天了：Gemini接任务，GPT做交互，Claude改动画 &#124; Beyond Chat: AI at Work](episodes/2026-10/bYrdISLj87Q.md) | 8:32 |
 | 10-09 | [AI会写代码，缺的资料谁来补？Claude Code、Google和OpenAI演示解读 &#124; Beyond Code](episodes/2026-10/CZdgs_pW3VM.md) | 10:48 |
