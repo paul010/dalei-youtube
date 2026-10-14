@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-12T02:00:53+00:00",
+  "updatedAt": "2026-10-14T02:21:15+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "4kf8vxHBAoc",
+      "title": "微软AI找到漏洞，接下来谁拍板？ | Microsoft Perception: Who Approves the Next Step?",
+      "publishedAt": "2026-10-13T11:51:00+00:00",
+      "date": "2026-10-13",
+      "duration": "9:10",
+      "url": "https://www.youtube.com/watch?v=4kf8vxHBAoc"
+    },
+    {
+      "id": "AJyU61pmmDY",
+      "title": "代码拍片到哪一步了？从作者短片到亲手操作3D作品 | How Far Can Code Filmmaking Go? From Demos to Interactive 3D",
+      "publishedAt": "2026-10-12T22:19:30+00:00",
+      "date": "2026-10-13",
+      "duration": "10:18",
+      "url": "https://www.youtube.com/watch?v=AJyU61pmmDY"
+    },
+    {
+      "id": "0sFuXGft0Z0",
+      "title": "AI作品已经很好看，接着怎么改？从企鹅到动作镜头 | Beautiful AI Work—What Would You Change Next?",
+      "publishedAt": "2026-10-12T11:00:12+00:00",
+      "date": "2026-10-12",
+      "duration": "8:55",
+      "url": "https://www.youtube.com/watch?v=0sFuXGft0Z0"
+    },
     {
       "id": "yguIUSgQdFc",
       "title": "Codex 会猜你下一句，AI 作品你选谁？｜AI Updates & Demos",
@@ -100,22 +124,6 @@
       "date": "2026-10-06",
       "duration": "4:57",
       "url": "https://www.youtube.com/watch?v=LGaw2Iy_TVo"
-    },
-    {
-      "id": "SXPqpNd5r8s",
-      "title": "Copilot做完第一版，还能接着改吗？ | Copilot Beyond the First Draft: Can It Keep Editing?",
-      "publishedAt": "2026-10-05T21:53:30+00:00",
-      "date": "2026-10-06",
-      "duration": "6:55",
-      "url": "https://www.youtube.com/watch?v=SXPqpNd5r8s"
-    },
-    {
-      "id": "Owzw5Phzda4",
-      "title": "读书之后，我更懂妈妈了｜《世界尽头的咖啡馆》The Why Cafe 读后感",
-      "publishedAt": "2026-10-05T14:00:20+00:00",
-      "date": "2026-10-05",
-      "duration": "9:24",
-      "url": "https://www.youtube.com/watch?v=Owzw5Phzda4"
     }
   ]
 }

@@ -94,6 +94,88 @@ def parse_sources(xml, playlist, fetch_public_video=None, shorts_playlist=None):
     return videos, excerpts
 
 
+def parse_playlist_fallback(playlist, shorts_playlist, previous_feed, fetch_public_video=None, limit=15):
+    """Build a current feed from the channel's Videos tab when RSS is unavailable.
+
+    Reuse only entries from the already-published feed, and resolve every new
+    playlist ID through yt-dlp so channel, availability, date and duration are
+    checked before any repository files are written. Shorts are excluded by
+    exact membership in the channel's Shorts tab, never by duration or title.
+    """
+    if playlist.get("id") != CHANNEL_ID or playlist.get("channel_id") != CHANNEL_ID:
+        raise ValueError("Unexpected channel Videos source")
+    if shorts_playlist is None or shorts_playlist.get("id") != CHANNEL_ID or shorts_playlist.get("channel_id") != CHANNEL_ID or not isinstance(shorts_playlist.get("entries"), list):
+        raise ValueError("Unexpected or incomplete channel Shorts source")
+    shorts = set()
+    for item in shorts_playlist["entries"]:
+        video_id = item.get("id") if isinstance(item, dict) else None
+        if not isinstance(video_id, str) or not re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
+            raise ValueError("Invalid video ID in channel Shorts source")
+        shorts.add(video_id)
+
+    known = {}
+    for item in previous_feed.get("videos", []):
+        video_id = item.get("id") if isinstance(item, dict) else None
+        if not isinstance(video_id, str) or not re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
+            raise ValueError("Invalid video ID in the existing published feed")
+        if video_id in shorts:
+            continue
+        if not all(item.get(key) for key in ("title", "publishedAt", "date", "duration", "url")):
+            raise ValueError(f"Incomplete existing feed item: {video_id}")
+        known[video_id] = item
+
+    videos = []
+    excerpts = {}
+    seen = set()
+    fetch_public_video = fetch_public_video or globals()["fetch_public_video"]
+    entries = playlist.get("entries")
+    if not isinstance(entries, list):
+        raise ValueError("Incomplete channel Videos source")
+    for entry in entries:
+        video_id = entry.get("id") if isinstance(entry, dict) else None
+        if not isinstance(video_id, str) or not re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
+            raise ValueError("Invalid video ID in channel Videos source")
+        if video_id in shorts or video_id in seen:
+            continue
+        if video_id in known:
+            videos.append(known[video_id])
+            seen.add(video_id)
+            if len(videos) >= limit:
+                break
+            continue
+        item = fetch_public_video(video_id)
+        if item.get("id") != video_id or item.get("channel_id") != CHANNEL_ID:
+            raise ValueError(f"Direct video metadata does not match the expected channel: {video_id}")
+        if item.get("availability") in {"subscriber_only", "premium_only", "private", "needs_auth"}:
+            continue
+        if item.get("availability") != "public" or item.get("live_status") in {"is_live", "is_upcoming"}:
+            raise ValueError(f"Direct video availability is unknown or not publishable: {video_id}")
+        published_ts = item.get("release_timestamp") or item.get("timestamp")
+        duration = item.get("duration")
+        title = (item.get("title") or "").strip()
+        if not isinstance(published_ts, (int, float)) or published_ts <= 0 or not isinstance(duration, (int, float)) or duration <= 0 or not title:
+            raise ValueError(f"Incomplete public video metadata: {video_id}")
+        instant = datetime.fromtimestamp(published_ts, timezone.utc)
+        if instant > datetime.now(timezone.utc):
+            continue
+        published = instant.isoformat(timespec="seconds")
+        videos.append({"id": video_id, "title": title, "publishedAt": published,
+                       "date": instant.astimezone(ZoneInfo("Asia/Shanghai")).date().isoformat(),
+                       "duration": duration_label(duration), "url": f"https://www.youtube.com/watch?v={video_id}"})
+        description = item.get("description", "")
+        paragraphs = [p.strip() for p in description.split("\n\n") if p.strip()]
+        excerpts[video_id] = next((p for p in paragraphs if "/join" not in p and "成为此频道的会员" not in p), "")
+        seen.add(video_id)
+        if len(videos) >= limit:
+            break
+
+    videos.sort(key=lambda video: video["publishedAt"], reverse=True)
+    videos = videos[:limit]
+    if len(videos) < 6 or len({v["id"] for v in videos}) != len(videos):
+        raise ValueError("Too few public videos, or duplicate IDs in playlist fallback")
+    return videos, excerpts
+
+
 def fetch_public_video(video_id):
     raw = command(["yt-dlp", "--no-warnings", "--skip-download", "--dump-single-json",
                    f"https://www.youtube.com/watch?v={video_id}"])
@@ -153,15 +235,21 @@ def update_episode_metadata(content, video):
 
 
 def main():
-    xml = command(["curl", "-fLsS", "--retry", "2", "--max-time", "30", RSS_URL])
     playlist = json.loads(command(["yt-dlp", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", CHANNEL_URL]))
     shorts_playlist = json.loads(command(["yt-dlp", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", SHORTS_URL]))
-    videos, excerpts = parse_sources(xml, playlist, fetch_public_video, shorts_playlist)
+    feed_path = ROOT / "latest.json"
+    previous = json.loads(feed_path.read_text()) if feed_path.exists() else {}
+    try:
+        xml = command(["curl", "-fLsS", "--retry", "2", "--max-time", "30", RSS_URL])
+    except subprocess.CalledProcessError:
+        videos, excerpts = parse_playlist_fallback(playlist, shorts_playlist, previous, fetch_public_video)
+        source_mode = "videos_playlist_fallback"
+    else:
+        videos, excerpts = parse_sources(xml, playlist, fetch_public_video, shorts_playlist)
+        source_mode = "youtube_rss"
     readme_path = ROOT / "README.md"
     original = readme_path.read_text()
     readme = update_readme(original, videos)
-    feed_path = ROOT / "latest.json"
-    previous = json.loads(feed_path.read_text()) if feed_path.exists() else {}
     # A stale CDN response must not regress the homepage's newest episode.
     if previous.get("videos") and videos[0]["publishedAt"] < previous["videos"][0]["publishedAt"]:
         raise ValueError("Source looks older than the saved feed; refusing regression")
@@ -193,7 +281,8 @@ def main():
     if original != readme:
         readme_path.write_text(readme)
     print(json.dumps({"publicVideos": len(videos), "newEpisodePages": created, "updatedEpisodePages": updated,
-                      "latest": videos[0], "feedChanged": previous.get("videos") != videos}, ensure_ascii=False))
+                      "latest": videos[0], "feedChanged": previous.get("videos") != videos,
+                      "sourceMode": source_mode}, ensure_ascii=False))
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 import copy
 import unittest
-from sync_youtube import CHANNEL_ID, duration_label, parse_sources, update_episode_metadata, update_readme
+from sync_youtube import CHANNEL_ID, duration_label, parse_playlist_fallback, parse_sources, update_episode_metadata, update_readme
 
 
 class SyncTests(unittest.TestCase):
@@ -135,6 +135,51 @@ class SyncTests(unittest.TestCase):
         xml, playlist = self.sources()
         with self.assertRaises(ValueError):
             parse_sources(xml, playlist)
+
+    def test_playlist_fallback_merges_verified_public_uploads_and_excludes_shorts(self):
+        previous = {"videos": [
+            {"id": f"oldvideo{i:03d}", "title": f"旧节目 {i}",
+             "publishedAt": "2026-10-10T10:00:00+00:00",
+             "date": "2026-10-10", "duration": "7:18",
+             "url": f"https://www.youtube.com/watch?v=oldvideo{i:03d}"}
+            for i in range(14)
+        ]}
+        playlist = {"id": CHANNEL_ID, "channel_id": CHANNEL_ID, "entries": [
+            {"id": "newvideo001"}, {"id": "shortvid001"}, {"id": "newvideo002"},
+            {"id": "newvideo003"}, *[{"id": f"oldvideo{i:03d}"} for i in range(12)],
+        ]}
+        shorts = {"id": CHANNEL_ID, "channel_id": CHANNEL_ID,
+                  "entries": [{"id": "shortvid001"}]}
+        metadata = {
+            "newvideo001": {"id": "newvideo001", "channel_id": CHANNEL_ID, "availability": "public",
+                            "live_status": "not_live", "title": "最新节目 1", "duration": 550,
+                            "timestamp": 1791892260, "description": "节目简介\n\n第二段"},
+            "newvideo002": {"id": "newvideo002", "channel_id": CHANNEL_ID, "availability": "public",
+                            "live_status": "not_live", "title": "最新节目 2", "duration": 618,
+                            "timestamp": 1791843570, "description": "另一个简介"},
+            "newvideo003": {"id": "newvideo003", "channel_id": CHANNEL_ID, "availability": "public",
+                            "live_status": "not_live", "title": "最新节目 3", "duration": 535,
+                            "timestamp": 1791802812, "description": "第三个简介"},
+        }
+        calls = []
+        rows, excerpts = parse_playlist_fallback(
+            playlist, shorts, previous,
+            lambda video_id: calls.append(video_id) or metadata[video_id],
+        )
+        self.assertEqual(len(rows), 15)
+        self.assertEqual([v["id"] for v in rows[:3]], ["newvideo001", "newvideo002", "newvideo003"])
+        self.assertNotIn("shortvid001", [v["id"] for v in rows])
+        self.assertEqual(calls, ["newvideo001", "newvideo002", "newvideo003"])
+        self.assertEqual(rows[0]["date"], "2026-10-13")
+        self.assertEqual(excerpts["newvideo001"], "节目简介")
+
+    def test_playlist_fallback_rejects_incomplete_shorts_or_wrong_channel(self):
+        playlist = {"id": CHANNEL_ID, "channel_id": CHANNEL_ID, "entries": []}
+        with self.assertRaises(ValueError):
+            parse_playlist_fallback(playlist, None, {"videos": []}, lambda _: {})
+        wrong = {"id": "other", "channel_id": "other", "entries": []}
+        with self.assertRaises(ValueError):
+            parse_playlist_fallback(wrong, self.shorts(), {"videos": []}, lambda _: {})
 
 
 if __name__ == "__main__":
