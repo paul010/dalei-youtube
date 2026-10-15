@@ -1,6 +1,6 @@
 # 微软AI找到漏洞，接下来谁拍板？ | Microsoft Perception: Who Approves the Next Step?
 
-> **发布日期（北京时间）**：2026-10-13 | **时长**：9:10
+> **发布日期（北京时间）**：2026-10-13 | **时长**：9:11
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=4kf8vxHBAoc)
 

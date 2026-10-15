@@ -2,15 +2,23 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-14T02:21:15+00:00",
+  "updatedAt": "2026-10-15T14:01:07+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "n7O2cYGwxMI",
+      "title": "Meta Muse Wonder：分数很猛，作品能用到哪一步？ | Beyond the Scores",
+      "publishedAt": "2026-10-14T09:12:43+00:00",
+      "date": "2026-10-14",
+      "duration": "10:14",
+      "url": "https://www.youtube.com/watch?v=n7O2cYGwxMI"
+    },
     {
       "id": "4kf8vxHBAoc",
       "title": "微软AI找到漏洞，接下来谁拍板？ | Microsoft Perception: Who Approves the Next Step?",
       "publishedAt": "2026-10-13T11:51:00+00:00",
       "date": "2026-10-13",
-      "duration": "9:10",
+      "duration": "9:11",
       "url": "https://www.youtube.com/watch?v=4kf8vxHBAoc"
     },
     {
@@ -108,22 +116,6 @@
       "date": "2026-10-07",
       "duration": "6:42",
       "url": "https://www.youtube.com/watch?v=iZ3E_5E9P9M"
-    },
-    {
-      "id": "jNVKo0KqgvE",
-      "title": "GPT-Next是谁？先看宝塔，再看Codex提速 | Demos & Codex",
-      "publishedAt": "2026-10-06T06:25:57+00:00",
-      "date": "2026-10-06",
-      "duration": "4:02",
-      "url": "https://www.youtube.com/watch?v=jNVKo0KqgvE"
-    },
-    {
-      "id": "LGaw2Iy_TVo",
-      "title": "同样200美元，ChatGPT和Claude谁更值？｜Same $200, Better AI Value?",
-      "publishedAt": "2026-10-06T05:48:20+00:00",
-      "date": "2026-10-06",
-      "duration": "4:57",
-      "url": "https://www.youtube.com/watch?v=LGaw2Iy_TVo"
     }
   ]
 }

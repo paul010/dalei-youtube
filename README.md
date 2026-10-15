@@ -43,7 +43,8 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
-| 10-13 | [微软AI找到漏洞，接下来谁拍板？ &#124; Microsoft Perception: Who Approves the Next Step?](episodes/2026-10/4kf8vxHBAoc.md) | 9:10 |
+| 10-14 | [Meta Muse Wonder：分数很猛，作品能用到哪一步？ &#124; Beyond the Scores](episodes/2026-10/n7O2cYGwxMI.md) | 10:14 |
+| 10-13 | [微软AI找到漏洞，接下来谁拍板？ &#124; Microsoft Perception: Who Approves the Next Step?](episodes/2026-10/4kf8vxHBAoc.md) | 9:11 |
 | 10-13 | [代码拍片到哪一步了？从作者短片到亲手操作3D作品 &#124; How Far Can Code Filmmaking Go? From Demos to Interactive 3D](episodes/2026-10/AJyU61pmmDY.md) | 10:18 |
 | 10-12 | [AI作品已经很好看，接着怎么改？从企鹅到动作镜头 &#124; Beautiful AI Work—What Would You Change Next?](episodes/2026-10/0sFuXGft0Z0.md) | 8:55 |
 | 10-12 | [Codex 会猜你下一句，AI 作品你选谁？｜AI Updates & Demos](episodes/2026-10/yguIUSgQdFc.md) | 10:09 |
