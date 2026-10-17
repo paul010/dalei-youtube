@@ -43,6 +43,8 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-17 | [马斯克的飞天 Roadster：真的离地，能上路吗？](episodes/2026-10/IZ5qzZtKheQ.md) | 12:04 |
+| 10-16 | [AI 做完第一版，后面的活怎么接？｜Claude Code 新变化 &#124; After the First Draft](episodes/2026-10/ysLr-Zmrf2s.md) | 9:26 |
 | 10-14 | [Meta Muse Wonder：分数很猛，作品能用到哪一步？ &#124; Beyond the Scores](episodes/2026-10/n7O2cYGwxMI.md) | 10:14 |
 | 10-13 | [微软AI找到漏洞，接下来谁拍板？ &#124; Microsoft Perception: Who Approves the Next Step?](episodes/2026-10/4kf8vxHBAoc.md) | 9:11 |
 | 10-13 | [代码拍片到哪一步了？从作者短片到亲手操作3D作品 &#124; How Far Can Code Filmmaking Go? From Demos to Interactive 3D](episodes/2026-10/AJyU61pmmDY.md) | 10:18 |

@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-15T14:01:07+00:00",
+  "updatedAt": "2026-10-17T01:07:07+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "IZ5qzZtKheQ",
+      "title": "马斯克的飞天 Roadster：真的离地，能上路吗？",
+      "publishedAt": "2026-10-16T23:02:49+00:00",
+      "date": "2026-10-17",
+      "duration": "12:04",
+      "url": "https://www.youtube.com/watch?v=IZ5qzZtKheQ"
+    },
+    {
+      "id": "ysLr-Zmrf2s",
+      "title": "AI 做完第一版，后面的活怎么接？｜Claude Code 新变化 | After the First Draft",
+      "publishedAt": "2026-10-16T03:27:41+00:00",
+      "date": "2026-10-16",
+      "duration": "9:26",
+      "url": "https://www.youtube.com/watch?v=ysLr-Zmrf2s"
+    },
     {
       "id": "n7O2cYGwxMI",
       "title": "Meta Muse Wonder：分数很猛，作品能用到哪一步？ | Beyond the Scores",
@@ -108,14 +124,6 @@
       "date": "2026-10-07",
       "duration": "5:24",
       "url": "https://www.youtube.com/watch?v=FQf9gjl29fo"
-    },
-    {
-      "id": "iZ3E_5E9P9M",
-      "title": "Copilot Studio把邮件接成流程：AI先审，人再批准 | From Email to Approval",
-      "publishedAt": "2026-10-06T16:00:36+00:00",
-      "date": "2026-10-07",
-      "duration": "6:42",
-      "url": "https://www.youtube.com/watch?v=iZ3E_5E9P9M"
     }
   ]
 }
