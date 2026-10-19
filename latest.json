@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-17T01:07:07+00:00",
+  "updatedAt": "2026-10-19T00:58:01+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "wVm5S0e7ZhI",
+      "title": "作者给我点了个赞｜《无路之路》The Pathless Path 阅读分享",
+      "publishedAt": "2026-10-18T13:12:40+00:00",
+      "date": "2026-10-18",
+      "duration": "5:23",
+      "url": "https://www.youtube.com/watch?v=wVm5S0e7ZhI"
+    },
+    {
+      "id": "0n_IkA0Pri8",
+      "title": "DeepSeek 1017：小店做活了，游戏能玩吗？| Beautiful Scenes, Playable Games?",
+      "publishedAt": "2026-10-18T12:54:39+00:00",
+      "date": "2026-10-18",
+      "duration": "9:09",
+      "url": "https://www.youtube.com/watch?v=0n_IkA0Pri8"
+    },
+    {
+      "id": "EV800XzL7MI",
+      "title": "作者花5美元做出方块城堡？DeepSeek Flash1017 与同题作品 | A $5 Voxel Castle?",
+      "publishedAt": "2026-10-18T01:29:12+00:00",
+      "date": "2026-10-18",
+      "duration": "9:12",
+      "url": "https://www.youtube.com/watch?v=EV800XzL7MI"
+    },
+    {
+      "id": "i6T1CaeEaOE",
+      "title": "Copilot 六项更新：操作录成技能，下次还要重来吗？ | Six Updates, Less Starting Over",
+      "publishedAt": "2026-10-18T00:19:52+00:00",
+      "date": "2026-10-18",
+      "duration": "10:44",
+      "url": "https://www.youtube.com/watch?v=i6T1CaeEaOE"
+    },
+    {
+      "id": "lVCL6eQ3YVM",
+      "title": "Muse Spark Open 游戏做出来了，真能玩吗？ | Can You Play It?",
+      "publishedAt": "2026-10-17T01:56:39+00:00",
+      "date": "2026-10-17",
+      "duration": "9:20",
+      "url": "https://www.youtube.com/watch?v=lVCL6eQ3YVM"
+    },
     {
       "id": "IZ5qzZtKheQ",
       "title": "马斯克的飞天 Roadster：真的离地，能上路吗？",
@@ -84,46 +124,6 @@
       "date": "2026-10-10",
       "duration": "4:04",
       "url": "https://www.youtube.com/watch?v=zD2SmtS2nwM"
-    },
-    {
-      "id": "bYrdISLj87Q",
-      "title": "AI不只聊天了：Gemini接任务，GPT做交互，Claude改动画 | Beyond Chat: AI at Work",
-      "publishedAt": "2026-10-09T23:57:35+00:00",
-      "date": "2026-10-10",
-      "duration": "8:32",
-      "url": "https://www.youtube.com/watch?v=bYrdISLj87Q"
-    },
-    {
-      "id": "CZdgs_pW3VM",
-      "title": "AI会写代码，缺的资料谁来补？Claude Code、Google和OpenAI演示解读 | Beyond Code",
-      "publishedAt": "2026-10-09T15:00:52+00:00",
-      "date": "2026-10-09",
-      "duration": "10:48",
-      "url": "https://www.youtube.com/watch?v=CZdgs_pW3VM"
-    },
-    {
-      "id": "P0ETYHP2IWg",
-      "title": "AI能动手了，哪步真省钱？GPT-6、Windows本地模型与Haiku 5.5 | AI News & Analysis",
-      "publishedAt": "2026-10-08T11:21:54+00:00",
-      "date": "2026-10-08",
-      "duration": "10:27",
-      "url": "https://www.youtube.com/watch?v=P0ETYHP2IWg"
-    },
-    {
-      "id": "ciKsq4x5LoU",
-      "title": "AI会干活了？Claude Code、OpenAI与Mistral演示 | AI That Gets Work Done?",
-      "publishedAt": "2026-10-07T22:01:39+00:00",
-      "date": "2026-10-08",
-      "duration": "8:37",
-      "url": "https://www.youtube.com/watch?v=ciKsq4x5LoU"
-    },
-    {
-      "id": "FQf9gjl29fo",
-      "title": "AI作品做出来，就能接着用？从宝塔游戏到Codex | Beyond the Demo",
-      "publishedAt": "2026-10-06T22:00:33+00:00",
-      "date": "2026-10-07",
-      "duration": "5:24",
-      "url": "https://www.youtube.com/watch?v=FQf9gjl29fo"
     }
   ]
 }

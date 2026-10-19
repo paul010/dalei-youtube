@@ -43,6 +43,11 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-18 | [作者给我点了个赞｜《无路之路》The Pathless Path 阅读分享](episodes/2026-10/wVm5S0e7ZhI.md) | 5:23 |
+| 10-18 | [DeepSeek 1017：小店做活了，游戏能玩吗？&#124; Beautiful Scenes, Playable Games?](episodes/2026-10/0n_IkA0Pri8.md) | 9:09 |
+| 10-18 | [作者花5美元做出方块城堡？DeepSeek Flash1017 与同题作品 &#124; A $5 Voxel Castle?](episodes/2026-10/EV800XzL7MI.md) | 9:12 |
+| 10-18 | [Copilot 六项更新：操作录成技能，下次还要重来吗？ &#124; Six Updates, Less Starting Over](episodes/2026-10/i6T1CaeEaOE.md) | 10:44 |
+| 10-17 | [Muse Spark Open 游戏做出来了，真能玩吗？ &#124; Can You Play It?](episodes/2026-10/lVCL6eQ3YVM.md) | 9:20 |
 | 10-17 | [马斯克的飞天 Roadster：真的离地，能上路吗？](episodes/2026-10/IZ5qzZtKheQ.md) | 12:04 |
 | 10-16 | [AI 做完第一版，后面的活怎么接？｜Claude Code 新变化 &#124; After the First Draft](episodes/2026-10/ysLr-Zmrf2s.md) | 9:26 |
 | 10-14 | [Meta Muse Wonder：分数很猛，作品能用到哪一步？ &#124; Beyond the Scores](episodes/2026-10/n7O2cYGwxMI.md) | 10:14 |
