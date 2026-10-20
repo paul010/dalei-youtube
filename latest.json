@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-19T00:58:01+00:00",
+  "updatedAt": "2026-10-20T01:06:35+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "e-v67JBwNDE",
+      "title": "这段超人动画，作者说靠代码做成？ | Fable 5.5 Art in Motion",
+      "publishedAt": "2026-10-19T10:04:30+00:00",
+      "date": "2026-10-19",
+      "duration": "10:29",
+      "url": "https://www.youtube.com/watch?v=e-v67JBwNDE"
+    },
+    {
+      "id": "IEoXwJG-wmg",
+      "title": "神秘Aurora先画了两只猫：新模型值不值得等？ | AI News",
+      "publishedAt": "2026-10-19T02:07:30+00:00",
+      "date": "2026-10-19",
+      "duration": "9:04",
+      "url": "https://www.youtube.com/watch?v=IEoXwJG-wmg"
+    },
     {
       "id": "wVm5S0e7ZhI",
       "title": "作者给我点了个赞｜《无路之路》The Pathless Path 阅读分享",
@@ -108,22 +124,6 @@
       "date": "2026-10-11",
       "duration": "12:02",
       "url": "https://www.youtube.com/watch?v=J3ArB8f0FRY"
-    },
-    {
-      "id": "tVW_ipHTqkc",
-      "title": "Copilot写完第一版，同事怎么接着改？ | Office in Copilot: What Happens After the First Draft?",
-      "publishedAt": "2026-10-11T07:24:58+00:00",
-      "date": "2026-10-11",
-      "duration": "2:59",
-      "url": "https://www.youtube.com/watch?v=tVW_ipHTqkc"
-    },
-    {
-      "id": "zD2SmtS2nwM",
-      "title": "方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 | Playable AI Worlds & Model Rumors",
-      "publishedAt": "2026-10-10T10:01:33+00:00",
-      "date": "2026-10-10",
-      "duration": "4:04",
-      "url": "https://www.youtube.com/watch?v=zD2SmtS2nwM"
     }
   ]
 }

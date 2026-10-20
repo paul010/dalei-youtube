@@ -43,6 +43,8 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-19 | [这段超人动画，作者说靠代码做成？ &#124; Fable 5.5 Art in Motion](episodes/2026-10/e-v67JBwNDE.md) | 10:29 |
+| 10-19 | [神秘Aurora先画了两只猫：新模型值不值得等？ &#124; AI News](episodes/2026-10/IEoXwJG-wmg.md) | 9:04 |
 | 10-18 | [作者给我点了个赞｜《无路之路》The Pathless Path 阅读分享](episodes/2026-10/wVm5S0e7ZhI.md) | 5:23 |
 | 10-18 | [DeepSeek 1017：小店做活了，游戏能玩吗？&#124; Beautiful Scenes, Playable Games?](episodes/2026-10/0n_IkA0Pri8.md) | 9:09 |
 | 10-18 | [作者花5美元做出方块城堡？DeepSeek Flash1017 与同题作品 &#124; A $5 Voxel Castle?](episodes/2026-10/EV800XzL7MI.md) | 9:12 |
