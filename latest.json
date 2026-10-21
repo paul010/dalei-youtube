@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-20T01:06:35+00:00",
+  "updatedAt": "2026-10-21T01:04:30+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "M2LahYRwORo",
+      "title": "Meta 开放模型，真能干活？从画图到改坏文件 | Muse Spark Open",
+      "publishedAt": "2026-10-20T13:00:03+00:00",
+      "date": "2026-10-20",
+      "duration": "11:01",
+      "url": "https://www.youtube.com/watch?v=M2LahYRwORo"
+    },
+    {
+      "id": "CBNO2KKGgV4",
+      "title": "MiniMax 新模型真省钱？先看城市、锦鲤池和账单 | AI News & Demos",
+      "publishedAt": "2026-10-20T09:30:41+00:00",
+      "date": "2026-10-20",
+      "duration": "9:43",
+      "url": "https://www.youtube.com/watch?v=CBNO2KKGgV4"
+    },
+    {
+      "id": "4lDbhyM_9kY",
+      "title": "做给 AI 看，下次照着改？Copilot 录制技能与 Excel 规则 | Teach Copilot Once?",
+      "publishedAt": "2026-10-20T09:29:38+00:00",
+      "date": "2026-10-20",
+      "duration": "10:55",
+      "url": "https://www.youtube.com/watch?v=4lDbhyM_9kY"
+    },
     {
       "id": "e-v67JBwNDE",
       "title": "这段超人动画，作者说靠代码做成？ | Fable 5.5 Art in Motion",
@@ -100,30 +124,6 @@
       "date": "2026-10-13",
       "duration": "10:18",
       "url": "https://www.youtube.com/watch?v=AJyU61pmmDY"
-    },
-    {
-      "id": "0sFuXGft0Z0",
-      "title": "AI作品已经很好看，接着怎么改？从企鹅到动作镜头 | Beautiful AI Work—What Would You Change Next?",
-      "publishedAt": "2026-10-12T11:00:12+00:00",
-      "date": "2026-10-12",
-      "duration": "8:55",
-      "url": "https://www.youtube.com/watch?v=0sFuXGft0Z0"
-    },
-    {
-      "id": "yguIUSgQdFc",
-      "title": "Codex 会猜你下一句，AI 作品你选谁？｜AI Updates & Demos",
-      "publishedAt": "2026-10-11T23:30:58+00:00",
-      "date": "2026-10-12",
-      "duration": "10:09",
-      "url": "https://www.youtube.com/watch?v=yguIUSgQdFc"
-    },
-    {
-      "id": "J3ArB8f0FRY",
-      "title": "AI做完第一版，谁来接手？Qwen、Codex与Claude | After the First Draft",
-      "publishedAt": "2026-10-11T09:57:57+00:00",
-      "date": "2026-10-11",
-      "duration": "12:02",
-      "url": "https://www.youtube.com/watch?v=J3ArB8f0FRY"
     }
   ]
 }

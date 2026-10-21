@@ -43,6 +43,9 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-20 | [Meta 开放模型，真能干活？从画图到改坏文件 &#124; Muse Spark Open](episodes/2026-10/M2LahYRwORo.md) | 11:01 |
+| 10-20 | [MiniMax 新模型真省钱？先看城市、锦鲤池和账单 &#124; AI News & Demos](episodes/2026-10/CBNO2KKGgV4.md) | 9:43 |
+| 10-20 | [做给 AI 看，下次照着改？Copilot 录制技能与 Excel 规则 &#124; Teach Copilot Once?](episodes/2026-10/4lDbhyM_9kY.md) | 10:55 |
 | 10-19 | [这段超人动画，作者说靠代码做成？ &#124; Fable 5.5 Art in Motion](episodes/2026-10/e-v67JBwNDE.md) | 10:29 |
 | 10-19 | [神秘Aurora先画了两只猫：新模型值不值得等？ &#124; AI News](episodes/2026-10/IEoXwJG-wmg.md) | 9:04 |
 | 10-18 | [作者给我点了个赞｜《无路之路》The Pathless Path 阅读分享](episodes/2026-10/wVm5S0e7ZhI.md) | 5:23 |
