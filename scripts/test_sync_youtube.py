@@ -1,6 +1,8 @@
 import copy
+import subprocess
 import unittest
-from sync_youtube import CHANNEL_ID, duration_label, parse_playlist_fallback, parse_sources, update_episode_metadata, update_readme
+from unittest.mock import patch
+from sync_youtube import CHANNEL_ID, duration_label, fetch_public_video, parse_playlist_fallback, parse_sources, update_episode_metadata, update_readme
 
 
 class SyncTests(unittest.TestCase):
@@ -23,6 +25,22 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(rows[0]["date"], "2026-01-08")
         self.assertEqual(rows[0]["title"], "当前标题 6")
         self.assertEqual(rows[0]["duration"], "7:18")
+
+    def test_rss_short_gap_backfills_only_verified_prior_long_form(self):
+        xml, playlist = self.sources()
+        playlist["entries"].extend([
+            {"id": "oldvideo001", "title": "旧短视频", "availability": "public"},
+            {"id": "oldvideo002", "title": "旧正片", "availability": "public"},
+        ])
+        previous = {"videos": [
+            {"id": "oldvideo001", "title": "旧短视频", "publishedAt": "2025-12-02T00:00:00+00:00",
+             "date": "2025-12-02", "duration": "0:32"},
+            {"id": "oldvideo002", "title": "旧正片", "publishedAt": "2025-12-01T00:00:00+00:00",
+             "date": "2025-12-01", "duration": "8:00"},
+        ]}
+        rows, _ = parse_sources(xml, playlist, shorts_playlist=self.shorts("oldvideo001"), previous_feed=previous)
+        self.assertIn("oldvideo002", [video["id"] for video in rows])
+        self.assertNotIn("oldvideo001", [video["id"] for video in rows])
 
     def test_members_excluded(self):
         xml, playlist = self.sources()
@@ -73,6 +91,15 @@ class SyncTests(unittest.TestCase):
         playlist["entries"][0]["duration"] = None
         with self.assertRaises(ValueError):
             parse_sources(xml, playlist, shorts_playlist=self.shorts())
+
+    def test_members_only_video_is_classified_and_skipped(self):
+        error = subprocess.CalledProcessError(
+            1, ["yt-dlp"], stderr="ERROR: Join this channel to get access to members-only content"
+        )
+        with patch("sync_youtube.command", side_effect=error):
+            item = fetch_public_video("members0001")
+        self.assertEqual(item["availability"], "subscriber_only")
+        self.assertEqual(item["channel_id"], CHANNEL_ID)
 
     def test_duplicates_rejected(self):
         xml, playlist = self.sources()

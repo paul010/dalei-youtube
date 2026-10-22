@@ -43,6 +43,8 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-21 | [Gemini Carbon新线索，Qwen/Kimi在路上？&#124; AI Model News](episodes/2026-10/TB2gJ4es47Y.md) | 11:21 |
+| 10-21 | [先砍token，AI真的更省钱？微软Model Router与Agent Optimizer &#124; Cheaper AI Agents?](episodes/2026-10/LPwEgCfJ8M4.md) | 12:40 |
 | 10-20 | [Meta 开放模型，真能干活？从画图到改坏文件 &#124; Muse Spark Open](episodes/2026-10/M2LahYRwORo.md) | 11:01 |
 | 10-20 | [MiniMax 新模型真省钱？先看城市、锦鲤池和账单 &#124; AI News & Demos](episodes/2026-10/CBNO2KKGgV4.md) | 9:43 |
 | 10-20 | [做给 AI 看，下次照着改？Copilot 录制技能与 Excel 规则 &#124; Teach Copilot Once?](episodes/2026-10/4lDbhyM_9kY.md) | 10:55 |

@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-21T01:04:30+00:00",
+  "updatedAt": "2026-10-22T01:22:07+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "TB2gJ4es47Y",
+      "title": "Gemini Carbon新线索，Qwen/Kimi在路上？| AI Model News",
+      "publishedAt": "2026-10-21T13:00:33+00:00",
+      "date": "2026-10-21",
+      "duration": "11:21",
+      "url": "https://www.youtube.com/watch?v=TB2gJ4es47Y"
+    },
+    {
+      "id": "LPwEgCfJ8M4",
+      "title": "先砍token，AI真的更省钱？微软Model Router与Agent Optimizer | Cheaper AI Agents?",
+      "publishedAt": "2026-10-21T11:09:04+00:00",
+      "date": "2026-10-21",
+      "duration": "12:40",
+      "url": "https://www.youtube.com/watch?v=LPwEgCfJ8M4"
+    },
     {
       "id": "M2LahYRwORo",
       "title": "Meta 开放模型，真能干活？从画图到改坏文件 | Muse Spark Open",
@@ -108,22 +124,6 @@
       "date": "2026-10-14",
       "duration": "10:14",
       "url": "https://www.youtube.com/watch?v=n7O2cYGwxMI"
-    },
-    {
-      "id": "4kf8vxHBAoc",
-      "title": "微软AI找到漏洞，接下来谁拍板？ | Microsoft Perception: Who Approves the Next Step?",
-      "publishedAt": "2026-10-13T11:51:00+00:00",
-      "date": "2026-10-13",
-      "duration": "9:11",
-      "url": "https://www.youtube.com/watch?v=4kf8vxHBAoc"
-    },
-    {
-      "id": "AJyU61pmmDY",
-      "title": "代码拍片到哪一步了？从作者短片到亲手操作3D作品 | How Far Can Code Filmmaking Go? From Demos to Interactive 3D",
-      "publishedAt": "2026-10-12T22:19:30+00:00",
-      "date": "2026-10-13",
-      "duration": "10:18",
-      "url": "https://www.youtube.com/watch?v=AJyU61pmmDY"
     }
   ]
 }

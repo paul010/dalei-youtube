@@ -36,7 +36,7 @@ def markdown_title(title):
     return title.replace("|", "&#124;").replace("[", "&#91;").replace("]", "&#93;").replace("\n", " ")
 
 
-def parse_sources(xml, playlist, fetch_public_video=None, shorts_playlist=None):
+def parse_sources(xml, playlist, fetch_public_video=None, shorts_playlist=None, previous_feed=None, limit=15):
     root = ET.fromstring(xml)
     if root.findtext("yt:channelId", namespaces=NS) not in {CHANNEL_ID, CHANNEL_ID[2:]} or playlist.get("channel_id") != CHANNEL_ID:
         raise ValueError("Unexpected source channel")
@@ -50,6 +50,7 @@ def parse_sources(xml, playlist, fetch_public_video=None, shorts_playlist=None):
         shorts.add(video_id)
     listed = {item["id"]: item for item in playlist["entries"]}
     videos, excerpts = [], {}
+    seen = set()
     now = datetime.now(timezone.utc)
     for entry in root.findall("a:entry", NS):
         video_id = entry.findtext("yt:videoId", namespaces=NS)
@@ -85,9 +86,28 @@ def parse_sources(xml, playlist, fetch_public_video=None, shorts_playlist=None):
         videos.append({"id": video_id, "title": title, "publishedAt": published,
                        "date": instant.astimezone(ZoneInfo("Asia/Shanghai")).date().isoformat(),
                        "duration": duration_label(duration), "url": f"https://www.youtube.com/watch?v={video_id}"})
+        seen.add(video_id)
         description = entry.findtext("m:group/m:description", default="", namespaces=NS)
         paragraphs = [p.strip() for p in description.split("\n\n") if p.strip()]
         excerpts[video_id] = next((p for p in paragraphs if "/join" not in p and "成为此频道的会员" not in p), "")
+    # RSS is capped at 15 entries and may contain a Short. Backfill that gap
+    # only with previously published long-form IDs still present in Videos and
+    # absent from the current Shorts tab.
+    if previous_feed is not None and len(videos) < limit:
+        for old in sorted(previous_feed.get("videos", []), key=lambda item: item.get("publishedAt", ""), reverse=True):
+            video_id = old.get("id") if isinstance(old, dict) else None
+            if not isinstance(video_id, str) or not re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
+                raise ValueError("Invalid previous public feed video ID")
+            if video_id in seen or video_id in shorts or video_id not in listed:
+                continue
+            if not all(old.get(key) for key in ("title", "publishedAt", "date", "duration")):
+                raise ValueError(f"Incomplete previously published video metadata: {video_id}")
+            videos.append({"id": video_id, "title": old["title"], "publishedAt": old["publishedAt"],
+                           "date": old["date"], "duration": old["duration"],
+                           "url": f"https://www.youtube.com/watch?v={video_id}"})
+            seen.add(video_id)
+            if len(videos) >= limit:
+                break
     videos.sort(key=lambda video: video["publishedAt"], reverse=True)
     if len(videos) < 6 or len({v["id"] for v in videos}) != len(videos):
         raise ValueError("Too few public videos, or duplicate IDs")
@@ -177,8 +197,13 @@ def parse_playlist_fallback(playlist, shorts_playlist, previous_feed, fetch_publ
 
 
 def fetch_public_video(video_id):
-    raw = command(["yt-dlp", "--no-warnings", "--skip-download", "--dump-single-json",
-                   f"https://www.youtube.com/watch?v={video_id}"])
+    try:
+        raw = command(["yt-dlp", "--no-warnings", "--skip-download", "--dump-single-json",
+                       f"https://www.youtube.com/watch?v={video_id}"])
+    except subprocess.CalledProcessError as exc:
+        if "Join this channel to get access to members-only content" in (exc.stderr or ""):
+            return {"id": video_id, "channel_id": CHANNEL_ID, "availability": "subscriber_only"}
+        raise
     item = json.loads(raw)
     if item.get("id") != video_id or item.get("channel_id") != CHANNEL_ID:
         raise ValueError(f"Direct video lookup returned the wrong channel or ID: {video_id}")
@@ -240,13 +265,15 @@ def main():
     feed_path = ROOT / "latest.json"
     previous = json.loads(feed_path.read_text()) if feed_path.exists() else {}
     try:
-        xml = command(["curl", "-fLsS", "--retry", "2", "--max-time", "30", RSS_URL])
+        xml = command(["curl", "-4", "-fLsS", "--retry", "2", "--max-time", "30", RSS_URL])
     except subprocess.CalledProcessError:
         videos, excerpts = parse_playlist_fallback(playlist, shorts_playlist, previous, fetch_public_video)
         source_mode = "videos_playlist_fallback"
     else:
-        videos, excerpts = parse_sources(xml, playlist, fetch_public_video, shorts_playlist)
+        videos, excerpts = parse_sources(xml, playlist, fetch_public_video, shorts_playlist, previous)
         source_mode = "youtube_rss"
+    if len(videos) != 15:
+        raise ValueError(f"Expected 15 verified long-form items, got {len(videos)}")
     readme_path = ROOT / "README.md"
     original = readme_path.read_text()
     readme = update_readme(original, videos)
