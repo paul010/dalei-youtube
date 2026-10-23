@@ -43,6 +43,12 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-23 | [表格变成网页，SharePoint这次能接着改吗？ &#124; SharePoint HTML Pages](episodes/2026-10/gyU5d4yuSQQ.md) | 8:52 |
+| 10-23 | [AI帮你挑好了，订单还得自己看｜OpenAI购物Agent &#124; AI Shopping: Check the Cart](episodes/2026-10/yMvpVgCXYYU.md) | 9:44 |
+| 10-23 | [功夫机器人 TOP5：我最想回看的五段动作 &#124; Kung Fu Robots: My Top 5 Moments](episodes/2026-10/d91TJ6ge6ks.md) | 8:52 |
+| 10-22 | [作者花20分钟做个柑橘，值吗？&#124; AI Demos: What Comes Next?](episodes/2026-10/ns1H0s3HQms.md) | 10:47 |
+| 10-22 | [AI报告做完，想改一句怎么办？OneDrive + Copilot &#124; Edit, Collaborate & Share](episodes/2026-10/Iwlyw6DOCKo.md) | 11:19 |
+| 10-22 | [公司资料，AI怎么找？微软 Work IQ Retrieve 解读 &#124; Work IQ Retrieve Explained](episodes/2026-10/KRxkcrDIUM4.md) | 10:34 |
 | 10-21 | [Gemini Carbon新线索，Qwen/Kimi在路上？&#124; AI Model News](episodes/2026-10/TB2gJ4es47Y.md) | 11:21 |
 | 10-21 | [先砍token，AI真的更省钱？微软Model Router与Agent Optimizer &#124; Cheaper AI Agents?](episodes/2026-10/LPwEgCfJ8M4.md) | 12:40 |
 | 10-20 | [Meta 开放模型，真能干活？从画图到改坏文件 &#124; Muse Spark Open](episodes/2026-10/M2LahYRwORo.md) | 11:01 |

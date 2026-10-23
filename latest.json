@@ -2,9 +2,57 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-22T01:22:07+00:00",
+  "updatedAt": "2026-10-23T00:58:24+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "gyU5d4yuSQQ",
+      "title": "表格变成网页，SharePoint这次能接着改吗？ | SharePoint HTML Pages",
+      "publishedAt": "2026-10-22T23:28:13+00:00",
+      "date": "2026-10-23",
+      "duration": "8:52",
+      "url": "https://www.youtube.com/watch?v=gyU5d4yuSQQ"
+    },
+    {
+      "id": "yMvpVgCXYYU",
+      "title": "AI帮你挑好了，订单还得自己看｜OpenAI购物Agent | AI Shopping: Check the Cart",
+      "publishedAt": "2026-10-22T23:07:04+00:00",
+      "date": "2026-10-23",
+      "duration": "9:44",
+      "url": "https://www.youtube.com/watch?v=yMvpVgCXYYU"
+    },
+    {
+      "id": "d91TJ6ge6ks",
+      "title": "功夫机器人 TOP5：我最想回看的五段动作 | Kung Fu Robots: My Top 5 Moments",
+      "publishedAt": "2026-10-22T23:03:53+00:00",
+      "date": "2026-10-23",
+      "duration": "8:52",
+      "url": "https://www.youtube.com/watch?v=d91TJ6ge6ks"
+    },
+    {
+      "id": "ns1H0s3HQms",
+      "title": "作者花20分钟做个柑橘，值吗？| AI Demos: What Comes Next?",
+      "publishedAt": "2026-10-22T11:00:14+00:00",
+      "date": "2026-10-22",
+      "duration": "10:47",
+      "url": "https://www.youtube.com/watch?v=ns1H0s3HQms"
+    },
+    {
+      "id": "Iwlyw6DOCKo",
+      "title": "AI报告做完，想改一句怎么办？OneDrive + Copilot | Edit, Collaborate & Share",
+      "publishedAt": "2026-10-22T10:00:24+00:00",
+      "date": "2026-10-22",
+      "duration": "11:19",
+      "url": "https://www.youtube.com/watch?v=Iwlyw6DOCKo"
+    },
+    {
+      "id": "KRxkcrDIUM4",
+      "title": "公司资料，AI怎么找？微软 Work IQ Retrieve 解读 | Work IQ Retrieve Explained",
+      "publishedAt": "2026-10-22T03:51:14+00:00",
+      "date": "2026-10-22",
+      "duration": "10:34",
+      "url": "https://www.youtube.com/watch?v=KRxkcrDIUM4"
+    },
     {
       "id": "TB2gJ4es47Y",
       "title": "Gemini Carbon新线索，Qwen/Kimi在路上？| AI Model News",
@@ -76,54 +124,6 @@
       "date": "2026-10-18",
       "duration": "9:09",
       "url": "https://www.youtube.com/watch?v=0n_IkA0Pri8"
-    },
-    {
-      "id": "EV800XzL7MI",
-      "title": "作者花5美元做出方块城堡？DeepSeek Flash1017 与同题作品 | A $5 Voxel Castle?",
-      "publishedAt": "2026-10-18T01:29:12+00:00",
-      "date": "2026-10-18",
-      "duration": "9:12",
-      "url": "https://www.youtube.com/watch?v=EV800XzL7MI"
-    },
-    {
-      "id": "i6T1CaeEaOE",
-      "title": "Copilot 六项更新：操作录成技能，下次还要重来吗？ | Six Updates, Less Starting Over",
-      "publishedAt": "2026-10-18T00:19:52+00:00",
-      "date": "2026-10-18",
-      "duration": "10:44",
-      "url": "https://www.youtube.com/watch?v=i6T1CaeEaOE"
-    },
-    {
-      "id": "lVCL6eQ3YVM",
-      "title": "Muse Spark Open 游戏做出来了，真能玩吗？ | Can You Play It?",
-      "publishedAt": "2026-10-17T01:56:39+00:00",
-      "date": "2026-10-17",
-      "duration": "9:20",
-      "url": "https://www.youtube.com/watch?v=lVCL6eQ3YVM"
-    },
-    {
-      "id": "IZ5qzZtKheQ",
-      "title": "马斯克的飞天 Roadster：真的离地，能上路吗？",
-      "publishedAt": "2026-10-16T23:02:49+00:00",
-      "date": "2026-10-17",
-      "duration": "12:04",
-      "url": "https://www.youtube.com/watch?v=IZ5qzZtKheQ"
-    },
-    {
-      "id": "ysLr-Zmrf2s",
-      "title": "AI 做完第一版，后面的活怎么接？｜Claude Code 新变化 | After the First Draft",
-      "publishedAt": "2026-10-16T03:27:41+00:00",
-      "date": "2026-10-16",
-      "duration": "9:26",
-      "url": "https://www.youtube.com/watch?v=ysLr-Zmrf2s"
-    },
-    {
-      "id": "n7O2cYGwxMI",
-      "title": "Meta Muse Wonder：分数很猛，作品能用到哪一步？ | Beyond the Scores",
-      "publishedAt": "2026-10-14T09:12:43+00:00",
-      "date": "2026-10-14",
-      "duration": "10:14",
-      "url": "https://www.youtube.com/watch?v=n7O2cYGwxMI"
     }
   ]
 }
