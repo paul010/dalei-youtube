@@ -1,6 +1,6 @@
 # Meta 开放模型，真能干活？从画图到改坏文件 | Muse Spark Open
 
-> **发布日期（北京时间）**：2026-10-20 | **时长**：11:01
+> **发布日期（北京时间）**：2026-10-20 | **时长**：11:02
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=M2LahYRwORo)
 

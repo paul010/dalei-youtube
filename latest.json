@@ -2,15 +2,55 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-23T00:58:24+00:00",
+  "updatedAt": "2026-10-24T00:58:58+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "iU3gxyCBZcw",
+      "title": "AI接到任务，异常谁接手？ | Copilot Studio Harnesses",
+      "publishedAt": "2026-10-23T16:00:06+00:00",
+      "date": "2026-10-24",
+      "duration": "10:39",
+      "url": "https://www.youtube.com/watch?v=iU3gxyCBZcw"
+    },
+    {
+      "id": "ONa77ZySrmA",
+      "title": "Windows 11新版照片值得换吗？找照片、修图到保存 | New Photos App",
+      "publishedAt": "2026-10-23T13:00:20+00:00",
+      "date": "2026-10-23",
+      "duration": "10:17",
+      "url": "https://www.youtube.com/watch?v=ONa77ZySrmA"
+    },
+    {
+      "id": "3xb76uPejy0",
+      "title": "AI造的火车，真能开？｜从3D演示看交互 | Can an AI-Built Train Really Run?",
+      "publishedAt": "2026-10-23T11:00:00+00:00",
+      "date": "2026-10-23",
+      "duration": "10:10",
+      "url": "https://www.youtube.com/watch?v=3xb76uPejy0"
+    },
+    {
+      "id": "1lxW8jx4jcw",
+      "title": "Kimi K3.1亮相之后：做出世界，还能接着改吗？｜Beyond the Teaser",
+      "publishedAt": "2026-10-23T09:18:50+00:00",
+      "date": "2026-10-23",
+      "duration": "10:26",
+      "url": "https://www.youtube.com/watch?v=1lxW8jx4jcw"
+    },
+    {
+      "id": "LjgabqH1yMM",
+      "title": "同事一句话，AI接着改：ChatGPT dots 能持续跟进吗？| Goals to Updates",
+      "publishedAt": "2026-10-23T01:28:19+00:00",
+      "date": "2026-10-23",
+      "duration": "10:07",
+      "url": "https://www.youtube.com/watch?v=LjgabqH1yMM"
+    },
     {
       "id": "gyU5d4yuSQQ",
       "title": "表格变成网页，SharePoint这次能接着改吗？ | SharePoint HTML Pages",
       "publishedAt": "2026-10-22T23:28:13+00:00",
       "date": "2026-10-23",
-      "duration": "8:52",
+      "duration": "8:53",
       "url": "https://www.youtube.com/watch?v=gyU5d4yuSQQ"
     },
     {
@@ -34,7 +74,7 @@
       "title": "作者花20分钟做个柑橘，值吗？| AI Demos: What Comes Next?",
       "publishedAt": "2026-10-22T11:00:14+00:00",
       "date": "2026-10-22",
-      "duration": "10:47",
+      "duration": "10:48",
       "url": "https://www.youtube.com/watch?v=ns1H0s3HQms"
     },
     {
@@ -42,7 +82,7 @@
       "title": "AI报告做完，想改一句怎么办？OneDrive + Copilot | Edit, Collaborate & Share",
       "publishedAt": "2026-10-22T10:00:24+00:00",
       "date": "2026-10-22",
-      "duration": "11:19",
+      "duration": "11:20",
       "url": "https://www.youtube.com/watch?v=Iwlyw6DOCKo"
     },
     {
@@ -50,7 +90,7 @@
       "title": "公司资料，AI怎么找？微软 Work IQ Retrieve 解读 | Work IQ Retrieve Explained",
       "publishedAt": "2026-10-22T03:51:14+00:00",
       "date": "2026-10-22",
-      "duration": "10:34",
+      "duration": "10:35",
       "url": "https://www.youtube.com/watch?v=KRxkcrDIUM4"
     },
     {
@@ -74,7 +114,7 @@
       "title": "Meta 开放模型，真能干活？从画图到改坏文件 | Muse Spark Open",
       "publishedAt": "2026-10-20T13:00:03+00:00",
       "date": "2026-10-20",
-      "duration": "11:01",
+      "duration": "11:02",
       "url": "https://www.youtube.com/watch?v=M2LahYRwORo"
     },
     {
@@ -82,48 +122,8 @@
       "title": "MiniMax 新模型真省钱？先看城市、锦鲤池和账单 | AI News & Demos",
       "publishedAt": "2026-10-20T09:30:41+00:00",
       "date": "2026-10-20",
-      "duration": "9:43",
+      "duration": "9:44",
       "url": "https://www.youtube.com/watch?v=CBNO2KKGgV4"
-    },
-    {
-      "id": "4lDbhyM_9kY",
-      "title": "做给 AI 看，下次照着改？Copilot 录制技能与 Excel 规则 | Teach Copilot Once?",
-      "publishedAt": "2026-10-20T09:29:38+00:00",
-      "date": "2026-10-20",
-      "duration": "10:55",
-      "url": "https://www.youtube.com/watch?v=4lDbhyM_9kY"
-    },
-    {
-      "id": "e-v67JBwNDE",
-      "title": "这段超人动画，作者说靠代码做成？ | Fable 5.5 Art in Motion",
-      "publishedAt": "2026-10-19T10:04:30+00:00",
-      "date": "2026-10-19",
-      "duration": "10:29",
-      "url": "https://www.youtube.com/watch?v=e-v67JBwNDE"
-    },
-    {
-      "id": "IEoXwJG-wmg",
-      "title": "神秘Aurora先画了两只猫：新模型值不值得等？ | AI News",
-      "publishedAt": "2026-10-19T02:07:30+00:00",
-      "date": "2026-10-19",
-      "duration": "9:04",
-      "url": "https://www.youtube.com/watch?v=IEoXwJG-wmg"
-    },
-    {
-      "id": "wVm5S0e7ZhI",
-      "title": "作者给我点了个赞｜《无路之路》The Pathless Path 阅读分享",
-      "publishedAt": "2026-10-18T13:12:40+00:00",
-      "date": "2026-10-18",
-      "duration": "5:23",
-      "url": "https://www.youtube.com/watch?v=wVm5S0e7ZhI"
-    },
-    {
-      "id": "0n_IkA0Pri8",
-      "title": "DeepSeek 1017：小店做活了，游戏能玩吗？| Beautiful Scenes, Playable Games?",
-      "publishedAt": "2026-10-18T12:54:39+00:00",
-      "date": "2026-10-18",
-      "duration": "9:09",
-      "url": "https://www.youtube.com/watch?v=0n_IkA0Pri8"
     }
   ]
 }

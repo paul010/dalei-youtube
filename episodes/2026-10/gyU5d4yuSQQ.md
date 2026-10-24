@@ -1,6 +1,6 @@
 # 表格变成网页，SharePoint这次能接着改吗？ | SharePoint HTML Pages
 
-> **发布日期（北京时间）**：2026-10-23 | **时长**：8:52
+> **发布日期（北京时间）**：2026-10-23 | **时长**：8:53
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=gyU5d4yuSQQ)
 

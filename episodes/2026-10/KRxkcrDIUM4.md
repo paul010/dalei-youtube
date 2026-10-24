@@ -1,6 +1,6 @@
 # 公司资料，AI怎么找？微软 Work IQ Retrieve 解读 | Work IQ Retrieve Explained
 
-> **发布日期（北京时间）**：2026-10-22 | **时长**：10:34
+> **发布日期（北京时间）**：2026-10-22 | **时长**：10:35
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=KRxkcrDIUM4)
 

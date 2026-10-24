@@ -43,16 +43,21 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
-| 10-23 | [表格变成网页，SharePoint这次能接着改吗？ &#124; SharePoint HTML Pages](episodes/2026-10/gyU5d4yuSQQ.md) | 8:52 |
+| 10-24 | [AI接到任务，异常谁接手？ &#124; Copilot Studio Harnesses](episodes/2026-10/iU3gxyCBZcw.md) | 10:39 |
+| 10-23 | [Windows 11新版照片值得换吗？找照片、修图到保存 &#124; New Photos App](episodes/2026-10/ONa77ZySrmA.md) | 10:17 |
+| 10-23 | [AI造的火车，真能开？｜从3D演示看交互 &#124; Can an AI-Built Train Really Run?](episodes/2026-10/3xb76uPejy0.md) | 10:10 |
+| 10-23 | [Kimi K3.1亮相之后：做出世界，还能接着改吗？｜Beyond the Teaser](episodes/2026-10/1lxW8jx4jcw.md) | 10:26 |
+| 10-23 | [同事一句话，AI接着改：ChatGPT dots 能持续跟进吗？&#124; Goals to Updates](episodes/2026-10/LjgabqH1yMM.md) | 10:07 |
+| 10-23 | [表格变成网页，SharePoint这次能接着改吗？ &#124; SharePoint HTML Pages](episodes/2026-10/gyU5d4yuSQQ.md) | 8:53 |
 | 10-23 | [AI帮你挑好了，订单还得自己看｜OpenAI购物Agent &#124; AI Shopping: Check the Cart](episodes/2026-10/yMvpVgCXYYU.md) | 9:44 |
 | 10-23 | [功夫机器人 TOP5：我最想回看的五段动作 &#124; Kung Fu Robots: My Top 5 Moments](episodes/2026-10/d91TJ6ge6ks.md) | 8:52 |
-| 10-22 | [作者花20分钟做个柑橘，值吗？&#124; AI Demos: What Comes Next?](episodes/2026-10/ns1H0s3HQms.md) | 10:47 |
-| 10-22 | [AI报告做完，想改一句怎么办？OneDrive + Copilot &#124; Edit, Collaborate & Share](episodes/2026-10/Iwlyw6DOCKo.md) | 11:19 |
-| 10-22 | [公司资料，AI怎么找？微软 Work IQ Retrieve 解读 &#124; Work IQ Retrieve Explained](episodes/2026-10/KRxkcrDIUM4.md) | 10:34 |
+| 10-22 | [作者花20分钟做个柑橘，值吗？&#124; AI Demos: What Comes Next?](episodes/2026-10/ns1H0s3HQms.md) | 10:48 |
+| 10-22 | [AI报告做完，想改一句怎么办？OneDrive + Copilot &#124; Edit, Collaborate & Share](episodes/2026-10/Iwlyw6DOCKo.md) | 11:20 |
+| 10-22 | [公司资料，AI怎么找？微软 Work IQ Retrieve 解读 &#124; Work IQ Retrieve Explained](episodes/2026-10/KRxkcrDIUM4.md) | 10:35 |
 | 10-21 | [Gemini Carbon新线索，Qwen/Kimi在路上？&#124; AI Model News](episodes/2026-10/TB2gJ4es47Y.md) | 11:21 |
 | 10-21 | [先砍token，AI真的更省钱？微软Model Router与Agent Optimizer &#124; Cheaper AI Agents?](episodes/2026-10/LPwEgCfJ8M4.md) | 12:40 |
-| 10-20 | [Meta 开放模型，真能干活？从画图到改坏文件 &#124; Muse Spark Open](episodes/2026-10/M2LahYRwORo.md) | 11:01 |
-| 10-20 | [MiniMax 新模型真省钱？先看城市、锦鲤池和账单 &#124; AI News & Demos](episodes/2026-10/CBNO2KKGgV4.md) | 9:43 |
+| 10-20 | [Meta 开放模型，真能干活？从画图到改坏文件 &#124; Muse Spark Open](episodes/2026-10/M2LahYRwORo.md) | 11:02 |
+| 10-20 | [MiniMax 新模型真省钱？先看城市、锦鲤池和账单 &#124; AI News & Demos](episodes/2026-10/CBNO2KKGgV4.md) | 9:44 |
 | 10-20 | [做给 AI 看，下次照着改？Copilot 录制技能与 Excel 规则 &#124; Teach Copilot Once?](episodes/2026-10/4lDbhyM_9kY.md) | 10:55 |
 | 10-19 | [这段超人动画，作者说靠代码做成？ &#124; Fable 5.5 Art in Motion](episodes/2026-10/e-v67JBwNDE.md) | 10:29 |
 | 10-19 | [神秘Aurora先画了两只猫：新模型值不值得等？ &#124; AI News](episodes/2026-10/IEoXwJG-wmg.md) | 9:04 |

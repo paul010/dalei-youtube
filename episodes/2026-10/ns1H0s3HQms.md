@@ -1,6 +1,6 @@
 # 作者花20分钟做个柑橘，值吗？| AI Demos: What Comes Next?
 
-> **发布日期（北京时间）**：2026-10-22 | **时长**：10:47
+> **发布日期（北京时间）**：2026-10-22 | **时长**：10:48
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=ns1H0s3HQms)
 

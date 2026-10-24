@@ -1,6 +1,6 @@
 # MiniMax 新模型真省钱？先看城市、锦鲤池和账单 | AI News & Demos
 
-> **发布日期（北京时间）**：2026-10-20 | **时长**：9:43
+> **发布日期（北京时间）**：2026-10-20 | **时长**：9:44
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=CBNO2KKGgV4)
 
