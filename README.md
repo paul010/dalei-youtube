@@ -38,6 +38,8 @@
 
 同步说明见 [scripts/README.md](scripts/README.md)。
 
+找视频对应项目：[已核对的 GitHub 项目与资料说明](VIDEO-PROJECTS.md)。公开源码、练习材料、参考项目及尚未核验到源码的节目分别标注。
+
 ### 2026
 
 #### 10月

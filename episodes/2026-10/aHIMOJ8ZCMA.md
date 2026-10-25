@@ -16,7 +16,7 @@
 
 8 条虚构记录按 2026-10-23 北京时间回放。本人邮箱已做手动与定时收件核对，演示后提醒关闭；跨账号、读取失败、重试和防重复发送仍需测试。
 
-本页是课程笔记与核对说明，尚未核验到本课可导入的公开解决方案包。
+本页为课程笔记与核对说明。[本课公开练习材料](https://github.com/paul010/gemini-kinetic-particles/tree/main/public/copilot-agent-course/materials/lesson-04)已按 2026-10-25 的公开主页仓库核验，包含虚构输入、Agent 说明、搭建步骤和测试表。它们不是可直接导入的 Flow / Agent 解决方案；需要在自己的许可与环境中搭建并验证。
 
 [微软官方 Copilot Studio 示例仓库](https://github.com/microsoft/CopilotStudioSamples) 提供通用样例，供进一步研究；不是本课配套源码，需自行配置环境、连接与权限。
 
