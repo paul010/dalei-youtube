@@ -43,6 +43,9 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-24 | [Kimi K3.1 Pro作品很漂亮，游戏和3D真能接着用？ &#124; From Demos to Usable Work](episodes/2026-10/jb9WKcArVKM.md) | 9:19 |
+| 10-24 | [AI接活了，真做完了吗？OpenAI dot、Codex与企业Agent &#124; From Tasks to Checkable Results](episodes/2026-10/wzrxdi5dHV8.md) | 9:11 |
+| 10-24 | [AI建模真打出来了：Kimi K3.1 的灯具、游戏与修错 &#124; From 3D Models to Prints](episodes/2026-10/sAGY6P7EQmQ.md) | 9:06 |
 | 10-24 | [AI接到任务，异常谁接手？ &#124; Copilot Studio Harnesses](episodes/2026-10/iU3gxyCBZcw.md) | 10:39 |
 | 10-23 | [Windows 11新版照片值得换吗？找照片、修图到保存 &#124; New Photos App](episodes/2026-10/ONa77ZySrmA.md) | 10:17 |
 | 10-23 | [AI造的火车，真能开？｜从3D演示看交互 &#124; Can an AI-Built Train Really Run?](episodes/2026-10/3xb76uPejy0.md) | 10:10 |
