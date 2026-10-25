@@ -1,6 +1,8 @@
 # 视频项目与 GitHub 资料
 
-核验日期：2026-10-25。本批逐一公开读取了 29 期节目元数据，并核对有项目入口的 README。公开视频与当前上游项目分别看待；没有确认到源码的标为「未核验到公开源码」，不表示已经证明源码不存在。
+核验日期：2026-10-25。第一批逐一公开读取了 29 期节目元数据，并核对有项目入口的 README。公开视频与当前上游项目分别看待；没有确认到源码的标为「未核验到公开源码」，不表示已经证明源码不存在。
+
+累计两批已核对 50 期：第二批新增 20 期较早节目，并加入刚公开的 Skill Recorder 新节目；不重复第一批条目。
 
 本页是经核对的精选资料目录，不是全部历史节目的完整源码清单。会员节目和本次无法公开读取的节目未加入推荐。原始笔记保持在各节目页。
 
@@ -38,3 +40,33 @@
 
 Codebuff 已跳转为 Freebuff，现行命令与录制版可能不同。DeerFlow 旧教程链接指向官方 1.x 分支，避免混用 2.0 步骤。Life Quest 视频录制时仓库私有，现在公开的是独立源码快照；历史真机照片不能证明公开修订已刷写。具体边界见各节目页。
 
+
+## 第二批：20 期较早节目 + 1 期新公开节目
+
+模型仓库、工具源码、示例 SDK 和产品平台分别说明。旧标题与原简介保留历史表达，不把当时的免费额度、速度或准确率宣传当作当前结果。
+
+| 日期 | 节目与笔记 | 项目 / 状态 | 功能与范围 |
+|---|---|---|---|
+| 2026-10-25 | [微软 Skill Recorder：录一遍，AI就会了吗？&#124; Record Once, Reuse a Skill?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/VCFSe0UCi5M.md) | [Microsoft Skill Recorder](https://github.com/microsoft/skill-recorder) · 公开项目源码 | 把一次操作记录整理成可编辑技能，再交给 Agent 按意图和步骤复用。 链接为微软官方录制与技能生成工具，不是任意桌面操作的自动回放保证。视频记录的第二份虚构 CSV 结果 230 属于原片实测记录，本轮未重跑；本机测试脚本与作者完整案例的配套公开源码未核验到。使用需相应屏幕录制权限和 Copilot 访问。 |
+| 2026-01-12 | [Gemini CLI 支持Agent Skills，开发者必看！Gemini CLI Adds Agent Skills — A Must for Developers!](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-01/TVq3PGyzkHo.md) | [Gemini CLI · Skills](https://github.com/google-gemini/gemini-cli) · 公开项目源码 | 录制版 Agent Skills 与 Conductor 的上下文驱动开发用法。 视频为 v0.23 预览功能；现行 CLI 和 Conductor 插件已变化。原文中的 Conductor 仓库另列在节目笔记，不能保证仍按旧配置安装，也不承诺旧免费额度；本轮未执行技能。 |
+| 2025-11-28 | [免费AI助手！Gemini CLI让你的终端聪明10倍 Free AI Assistant! Gemini CLI Makes Your Terminal 10x Smarter](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-11/X8sirgASO1U.md) | [Gemini CLI](https://github.com/google-gemini/gemini-cli) · 公开项目源码 | 从终端提出编程任务、读取项目上下文并生成与修改代码。 现行 README 提醒相关免费用户转向 Antigravity CLI，当前命令与模型支持需另查。旧标题中的免费和效率倍数属于录制时表达，不代表当前费用或实测效果，本轮未重新运行。 |
+| 2025-11-22 | [世界最强网页API？Firecrawl V2 5实测 World's Best Web API? Firecrawl V2.5 Hands-on Test](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-11/HRhZAt5oMv4.md) | [Firecrawl](https://github.com/firecrawl/firecrawl) · 公开项目源码 | 把网页搜索、采集与交互结果整理为供模型使用的数据。 当前源码与视频 V2.5 的托管 API 不等同，自部署可用功能、外部服务、许可和调用费用需分别核对。旧可靠性或速度宣传不是本轮实测，本轮未采集第三方网站。 |
+| 2025-10-19 | [Gemini CLI 免费又强大：取消 Warp 的5个理由 Gemini CLI Is Free and Powerful: 5 Reasons to Cancel Warp](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/JQVM-fXTxxQ.md) | [Gemini CLI](https://github.com/google-gemini/gemini-cli) · 公开项目源码 | 录制版交互式 Shell 与终端工具配合的工作流演示。 视频录制于 Gemini CLI 0.9，不能照搬到现行版本。当前 README 的用户迁移与模型提示需先核对；是否替代 Warp、是否免费取决于实际需求与服务条件，本轮未做效率对比。 |
+| 2025-10-17 | [Open Agent Builder vs AgentKit vs n8n：哪个更强？ Open Agent Builder vs AgentKit vs n8n: Which Is Better?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/n9OcjwW_yLU.md) | [Open Agent Builder](https://github.com/firecrawl/open-agent-builder) · 公开项目源码 | 通过可视化节点组织采集、模型调用和人工确认等 Agent 工作流。 链接是 Open Agent Builder 的源码，不代表被比较的 AgentKit 或 n8n 全部开源。身份、数据库、模型与 Firecrawl 等服务需配置；公开代码不等于免费运行，本轮未部署。 |
+| 2025-10-10 | [Gemini CLI重磅升级：免费用上Gemini 2 5 Pro Gemini CLI Major Upgrade: Use Gemini 2.5 Pro for Free](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/AaqTzJwwqpE.md) | [Gemini CLI](https://github.com/google-gemini/gemini-cli) · 公开项目源码 | 录制版 Gemini CLI 的扩展集成与终端编程演示。 现行 README 提醒免费层和 Google One 用户已转向 Antigravity CLI。模型、认证、命令与额度需按现行说明核对；视频中的 Gemini 2.5 与免费条件不能直接套用，本轮未安装运行。 |
+| 2025-10-07 | [OpenAI的AgentKit：5个你必须知道的限制 OpenAI's AgentKit: 5 Limitations You Must Know](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/RwgPxMWz0WQ.md) | [OpenAI Agents SDK（参考）](https://github.com/openai/openai-agents-python) · 参考资料 | 参考 SDK 可组织工具调用、Agent 交接与追踪等工作流。 该链接只对应公开 Agents SDK，不是录制画面里的托管 Agent Builder 或整个 AgentKit 的源码；本期画布与完整流程的公开源码未核验到。API、服务权限与费用需另查，本轮未运行。 |
+| 2025-09-27 | [CWM：Meta如何让AI真正懂代码 CWM: How Meta Makes AI Truly Understand Code](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-09/LM05tO7xdNM.md) | [Code World Model](https://github.com/facebookresearch/cwm) · 公开项目源码 | 研究代码执行与系统状态变化的模型，提供推理和评测起步代码。 这是开放权重研究发布，权重获取与使用许可需按官方条件确认；不是完整训练数据与训练平台公开。本期基准数字未在本轮复测，也未下载模型。 |
+| 2025-09-27 | [柠檬AI：免费开源的可本地部署通用智能体 Lemon AI: Free, Open-Source, Fully Local Deployable Agent](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-09/ED60Or1kzcg.md) | [Lemon AI](https://github.com/hexdocom/lemonai) · 公开项目源码 | 带浏览、研究、文档处理和代码沙箱的通用 Agent 项目。 可配置本地或云模型；部署在本机不保证没有网络请求、日志或数据外传。需检查模型、Docker 沙箱与实际工具访问范围，旧标题中的免费与隐私描述不作为当前保证；本轮未运行。 |
+| 2025-09-19 | [CodeRabbit CLI实测：AI写的代码还能放心吗？CodeRabbit CLI Tested: Can You Trust AI-Generated Code?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-09/RByntb59B8Y.md) | 未核验到公开源码 | 在本地命令行检查代码改动，并根据审查意见继续修复。 尚未核验到本期 CodeRabbit CLI 产品的公开源码。提供节目笔记，不把同名仓库或集成示例当作产品源码；旧标题中的 Bug 减半不是本轮实测，审查结果仍需人工核对。 |
+| 2025-09-06 | [别再把数据传云端！EmbeddingGemma可离线运行 Stop Sending Data to the Cloud! EmbeddingGemma Works Offline](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-09/Nij92dSF0F4.md) | [EmbeddingGemma 官方 RAG 示例](https://github.com/google-gemma/cookbook/blob/main/tutorials/RAG_with_EmbeddingGemma.ipynb) · 参考资料 | 用文本向量与检索组织 RAG 的官方示例笔记本。 原 Gemma Cookbook 已停止维护，链接改为官方新仓库中的 EmbeddingGemma 示例。示例代码不是模型权重或本期完整应用源码；离线需先准备模型与依赖并检查工具联网，本轮未执行。 |
+| 2025-08-31 | [Sim AI：零代码本地部署，秒变你的自动化管家 Sim AI: No-Code Local Deployment Turns It Into Your Automation Butler](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/Uk845AeUBEM.md) | [Sim](https://github.com/simstudioai/sim) · 公开项目源码 | 可视化搭建、运行和管理 AI Agent 与工作流的项目。 链接为现行上游源码，视频里的具体流程未核验到独立仓库。自部署仍需运行环境、模型与连接凭据；云服务及第三方调用的费用与权限按当前条件确认，本轮未部署。 |
+| 2025-08-15 | [Archon OS：首个AI编码操作系统！开源安装教程，彻底改变你的AI编程工作流](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/-y0KHgOqZf8.md) | [Archon](https://github.com/coleam00/Archon) · 公开项目源码 | AI 编程工作流工具，现行仓库以 YAML 组织智能体、脚本与人工决策。 视频是早期知识与任务管理界面，现行 README 已转向工作流与 SDLC；不能把旧录制界面当作当前版本。它不替换操作系统，需配置模型、环境与权限，本轮未运行。 |
+| 2025-08-13 | [Qwen Code评测：我因此放弃了Claude Code！每天2000次免费调用，性能堪比Claude 3.5！](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/8yxWXZAcBQg.md) | [Qwen Code](https://github.com/QwenLM/qwen-code) · 公开项目源码 | 读取项目上下文、调用模型并协助修改与检查代码的工具。 现行工具的认证、模型和平台入口与录制版可能不同。标题中的每天 2000 次不代表当前账号额度，框架公开不等于所接模型免费；生成代码仍需检查，本轮未重新运行。 |
+| 2025-08-06 | [OpenAI GPT-OSS 深度评测：120B模型性能媲美GPT-4 Mini？本地运行完全指南！](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/sfbQLtmkW9M.md) | [gpt-oss](https://github.com/openai/gpt-oss) · 公开项目源码 | 开放权重模型的参考推理实现、格式说明与运行示例。 仓库提供参考代码，模型权重需另行获取；不包含完整预训练数据与训练过程。需匹配硬件、模型格式与许可，不能把旧评测分数当作本轮结果，本轮未下载模型或推理。 |
+| 2025-08-06 | [Claude Flow评测：革命性AI蜂群智能框架，30秒构建企业级应用，彻底颠覆开发工作流！](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/bkTgfDqVGYE.md) | [Claude Flow / Ruflo](https://github.com/ruvnet/ruflo) · 公开项目源码 | 面向 Claude Code 等客户端的社区 Agent 编排与任务协作项目。 旧简介含一个注明为示例的 anthropics/claude-flow-docs 地址，不作为有效来源。原社区 Claude Flow 已转到 Ruflo；这不是 Anthropic 官方产品，现行安装步骤与视频不同，本轮未安装或执行任务。 |
+| 2025-08-05 | [谷歌LangExtract深度解析：告别BERT，用Gemini API革新NLP任务](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/DQJV2BKWwcA.md) | [LangExtract](https://github.com/google/langextract) · 公开项目源码 | 按指令从非结构化文字提取结构化信息，并对应原文位置。 需配置模型提供方或本地模型，并核对提取结果与原文。示例不代表所有文档准确，也不自动保证更省费用；本期 Colab 成果未核验到独立公开仓库，本轮未执行。 |
+| 2025-08-03 | [谷歌A2A协议深度解析：AI智能体协作新纪元与未来生态展望 &#124; NEXT 2025](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/lfxyKXVnaII.md) | [A2A](https://github.com/a2aproject/A2A) · 公开项目源码 | 定义不同 Agent 之间发现能力、交换任务与协作的协议。 这是协议规范及配套代码，不是已部署的企业工作流。对端身份、授权、数据边界和异常处理仍要实现和测试，不能把协议支持当作业务完成证据；本轮未接入 Agent。 |
+| 2025-08-03 | [NVIDIA Parakeet V2：AI语音识别新标杆，极速英文转录挑战Whisper！](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/QpmeaE0PA6w.md) | [NeMo Speech（参考框架）](https://github.com/NVIDIA-NeMo/Speech) · 参考资料 | NVIDIA 语音识别与合成框架，作为 Parakeet 模型运行的参考。 原 NVIDIA/NeMo 地址已迁移到 NVIDIA-NeMo/Speech。框架源码不是 Parakeet V2 模型权重；需分别核对具体权重、版本和硬件，视频中的速度数字未在本轮复测。 |
+| 2025-07-31 | [本地LLM部署新革命：Open WebUI + Docker Model Runner 一步到位安装指南 &#124; 大雷早上好](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-07/0YLtbgol25c.md) | [Open WebUI](https://github.com/open-webui/open-webui) · 公开项目源码 | 自部署的模型交互界面，可连接本地或兼容 API 的模型服务。 链接仅为 Open WebUI 源码，不等于 Docker Model Runner 的全部组件。离线与隐私取决于模型连接、工具和日志配置；当前许可与部署步骤按上游确认，本轮未部署或下载权重。 |
+
+下一批进度见 [核验进度](resources/review-progress.json)。未核对的历史归档不会自动加入两站推荐。

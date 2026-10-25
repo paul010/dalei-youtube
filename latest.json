@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-25T02:02:07+00:00",
+  "updatedAt": "2026-10-25T08:19:13+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "VCFSe0UCi5M",
+      "title": "微软 Skill Recorder：录一遍，AI就会了吗？| Record Once, Reuse a Skill?",
+      "publishedAt": "2026-10-25T07:06:49+00:00",
+      "date": "2026-10-25",
+      "duration": "10:05",
+      "url": "https://www.youtube.com/watch?v=VCFSe0UCi5M"
+    },
     {
       "id": "1K3fVbbBeQg",
       "title": "没刷机也没升级：我用 AI 给安卓5老电视换了个首页",
@@ -116,14 +124,6 @@
       "date": "2026-10-23",
       "duration": "10:07",
       "url": "https://www.youtube.com/watch?v=LjgabqH1yMM"
-    },
-    {
-      "id": "gyU5d4yuSQQ",
-      "title": "表格变成网页，SharePoint这次能接着改吗？ | SharePoint HTML Pages",
-      "publishedAt": "2026-10-22T23:28:13+00:00",
-      "date": "2026-10-23",
-      "duration": "8:53",
-      "url": "https://www.youtube.com/watch?v=gyU5d4yuSQQ"
     }
   ]
 }

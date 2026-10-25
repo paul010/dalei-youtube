@@ -1,0 +1,424 @@
+{
+  "schemaVersion": 1,
+  "batch": "02",
+  "checkedOn": "2026-10-25",
+  "scope": "20 older public episodes plus 1 newly published episode",
+  "records": [
+    {
+      "id": "-y0KHgOqZf8",
+      "title": "Archon OS：首个AI编码操作系统！开源安装教程，彻底改变你的AI编程工作流",
+      "date": "2025-08-15",
+      "publishedAt": "2025-08-15T09:07:06+00:00",
+      "duration": "4:01",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/-y0KHgOqZf8.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Archon",
+        "url": "https://github.com/coleam00/Archon",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "视频是早期知识与任务管理界面，现行 README 已转向工作流与 SDLC；不能把旧录制界面当作当前版本。它不替换操作系统，需配置模型、环境与权限，本轮未运行。",
+        "en": "The video shows an earlier knowledge/task interface; the current README focuses on workflows and SDLC. It does not replace an operating system. Configure models, environment and permissions; not run here."
+      }
+    },
+    {
+      "id": "Uk845AeUBEM",
+      "title": "Sim AI：零代码本地部署，秒变你的自动化管家 Sim AI: No-Code Local Deployment Turns It Into Your Automation Butler",
+      "date": "2025-08-31",
+      "publishedAt": "2025-08-30T21:52:49+00:00",
+      "duration": "8:03",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/Uk845AeUBEM.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Sim",
+        "url": "https://github.com/simstudioai/sim",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "链接为现行上游源码，视频里的具体流程未核验到独立仓库。自部署仍需运行环境、模型与连接凭据；云服务及第三方调用的费用与权限按当前条件确认，本轮未部署。",
+        "en": "This is current upstream source, not a separate repository for the recorded flow. Self-hosting needs a runtime, models and connection credentials; check current cloud/service costs and permissions. Not deployed here."
+      }
+    },
+    {
+      "id": "ED60Or1kzcg",
+      "title": "柠檬AI：免费开源的可本地部署通用智能体 Lemon AI: Free, Open-Source, Fully Local Deployable Agent",
+      "date": "2025-09-27",
+      "publishedAt": "2025-09-27T03:57:32+00:00",
+      "duration": "8:08",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-09/ED60Or1kzcg.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Lemon AI",
+        "url": "https://github.com/hexdocom/lemonai",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "可配置本地或云模型；部署在本机不保证没有网络请求、日志或数据外传。需检查模型、Docker 沙箱与实际工具访问范围，旧标题中的免费与隐私描述不作为当前保证；本轮未运行。",
+        "en": "It supports local or cloud models. Local deployment does not guarantee zero network traffic, logging or data transfer. Review models, the Docker sandbox and tool access; old free/privacy claims are not current guarantees. Not run here."
+      }
+    },
+    {
+      "id": "AaqTzJwwqpE",
+      "title": "Gemini CLI重磅升级：免费用上Gemini 2 5 Pro Gemini CLI Major Upgrade: Use Gemini 2.5 Pro for Free",
+      "date": "2025-10-10",
+      "publishedAt": "2025-10-10T06:13:59+00:00",
+      "duration": "7:28",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/AaqTzJwwqpE.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Gemini CLI",
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "现行 README 提醒免费层和 Google One 用户已转向 Antigravity CLI。模型、认证、命令与额度需按现行说明核对；视频中的 Gemini 2.5 与免费条件不能直接套用，本轮未安装运行。",
+        "en": "The current README notes the transition of unpaid-tier and Google One users to Antigravity CLI. Check current models, authentication, commands and quotas; the recorded Gemini 2.5/free terms are not current guarantees. Not installed or run here."
+      }
+    },
+    {
+      "id": "TVq3PGyzkHo",
+      "title": "Gemini CLI 支持Agent Skills，开发者必看！Gemini CLI Adds Agent Skills — A Must for Developers!",
+      "date": "2026-01-12",
+      "publishedAt": "2026-01-12T00:08:56+00:00",
+      "duration": "7:27",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-01/TVq3PGyzkHo.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Gemini CLI · Skills",
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "视频为 v0.23 预览功能；现行 CLI 和 Conductor 插件已变化。原文中的 Conductor 仓库另列在节目笔记，不能保证仍按旧配置安装，也不承诺旧免费额度；本轮未执行技能。",
+        "en": "The video covers v0.23 preview features; the current CLI and Conductor plugin have changed. The notes link Conductor separately. Old setup steps and free quotas are not guaranteed; no skill was executed here."
+      }
+    },
+    {
+      "id": "X8sirgASO1U",
+      "title": "免费AI助手！Gemini CLI让你的终端聪明10倍 Free AI Assistant! Gemini CLI Makes Your Terminal 10x Smarter",
+      "date": "2025-11-28",
+      "publishedAt": "2025-11-28T10:19:52+00:00",
+      "duration": "6:48",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-11/X8sirgASO1U.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Gemini CLI",
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "现行 README 提醒相关免费用户转向 Antigravity CLI，当前命令与模型支持需另查。旧标题中的免费和效率倍数属于录制时表达，不代表当前费用或实测效果，本轮未重新运行。",
+        "en": "The current README notes the transition for relevant unpaid users to Antigravity CLI. Recheck commands and model support. The old title’s free/efficiency claims are not current pricing or test results. Not rerun here."
+      }
+    },
+    {
+      "id": "DQJV2BKWwcA",
+      "title": "谷歌LangExtract深度解析：告别BERT，用Gemini API革新NLP任务",
+      "date": "2025-08-05",
+      "publishedAt": "2025-08-05T05:23:20+00:00",
+      "duration": "5:06",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/DQJV2BKWwcA.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "LangExtract",
+        "url": "https://github.com/google/langextract",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "需配置模型提供方或本地模型，并核对提取结果与原文。示例不代表所有文档准确，也不自动保证更省费用；本期 Colab 成果未核验到独立公开仓库，本轮未执行。",
+        "en": "Configure a model provider or local model and check extractions against the source. Examples do not establish universal accuracy or lower cost. A separate public repository for the recorded Colab work was not verified. Not executed here."
+      }
+    },
+    {
+      "id": "lfxyKXVnaII",
+      "title": "谷歌A2A协议深度解析：AI智能体协作新纪元与未来生态展望 | NEXT 2025",
+      "date": "2025-08-03",
+      "publishedAt": "2025-08-02T16:01:20+00:00",
+      "duration": "3:54",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/lfxyKXVnaII.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "A2A",
+        "url": "https://github.com/a2aproject/A2A",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "这是协议规范及配套代码，不是已部署的企业工作流。对端身份、授权、数据边界和异常处理仍要实现和测试，不能把协议支持当作业务完成证据；本轮未接入 Agent。",
+        "en": "This is a protocol and supporting code, not a deployed enterprise workflow. Implement and test peer identity, authorization, data boundaries and failures; protocol support is not proof of business completion. No agent connection was made here."
+      }
+    },
+    {
+      "id": "sfbQLtmkW9M",
+      "title": "OpenAI GPT-OSS 深度评测：120B模型性能媲美GPT-4 Mini？本地运行完全指南！",
+      "date": "2025-08-06",
+      "publishedAt": "2025-08-06T14:03:31+00:00",
+      "duration": "5:45",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/sfbQLtmkW9M.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "gpt-oss",
+        "url": "https://github.com/openai/gpt-oss",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "仓库提供参考代码，模型权重需另行获取；不包含完整预训练数据与训练过程。需匹配硬件、模型格式与许可，不能把旧评测分数当作本轮结果，本轮未下载模型或推理。",
+        "en": "The repository provides reference code; weights are obtained separately. It does not include the full pretraining data and process. Match hardware, model format and licensing; old scores are not fresh results. No model download or inference was performed."
+      }
+    },
+    {
+      "id": "8yxWXZAcBQg",
+      "title": "Qwen Code评测：我因此放弃了Claude Code！每天2000次免费调用，性能堪比Claude 3.5！",
+      "date": "2025-08-13",
+      "publishedAt": "2025-08-13T10:00:06+00:00",
+      "duration": "3:53",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/8yxWXZAcBQg.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Qwen Code",
+        "url": "https://github.com/QwenLM/qwen-code",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "现行工具的认证、模型和平台入口与录制版可能不同。标题中的每天 2000 次不代表当前账号额度，框架公开不等于所接模型免费；生成代码仍需检查，本轮未重新运行。",
+        "en": "Current authentication, models and clients may differ from the recording. The title’s 2,000 daily calls are not a current account quota; open code does not make every connected model free. Review generated code. Not rerun here."
+      }
+    },
+    {
+      "id": "0YLtbgol25c",
+      "title": "本地LLM部署新革命：Open WebUI + Docker Model Runner 一步到位安装指南 | 大雷早上好",
+      "date": "2025-07-31",
+      "publishedAt": "2025-07-31T13:00:55+00:00",
+      "duration": "3:28",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-07/0YLtbgol25c.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Open WebUI",
+        "url": "https://github.com/open-webui/open-webui",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "链接仅为 Open WebUI 源码，不等于 Docker Model Runner 的全部组件。离线与隐私取决于模型连接、工具和日志配置；当前许可与部署步骤按上游确认，本轮未部署或下载权重。",
+        "en": "This links Open WebUI source, not all Docker Model Runner components. Offline/privacy behavior depends on model connections, tools and logs. Check current licensing and setup. No deployment or weight download was performed."
+      }
+    },
+    {
+      "id": "HRhZAt5oMv4",
+      "title": "世界最强网页API？Firecrawl V2 5实测 World's Best Web API? Firecrawl V2.5 Hands-on Test",
+      "date": "2025-11-22",
+      "publishedAt": "2025-11-22T14:33:35+00:00",
+      "duration": "6:15",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-11/HRhZAt5oMv4.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Firecrawl",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "当前源码与视频 V2.5 的托管 API 不等同，自部署可用功能、外部服务、许可和调用费用需分别核对。旧可靠性或速度宣传不是本轮实测，本轮未采集第三方网站。",
+        "en": "Current source and the recorded V2.5 hosted API are not identical. Check self-hosted features, external services, licensing and costs separately. Old reliability/speed claims are not fresh tests. No third-party site was scraped."
+      }
+    },
+    {
+      "id": "LM05tO7xdNM",
+      "title": "CWM：Meta如何让AI真正懂代码 CWM: How Meta Makes AI Truly Understand Code",
+      "date": "2025-09-27",
+      "publishedAt": "2025-09-27T13:58:40+00:00",
+      "duration": "9:07",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-09/LM05tO7xdNM.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Code World Model",
+        "url": "https://github.com/facebookresearch/cwm",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "这是开放权重研究发布，权重获取与使用许可需按官方条件确认；不是完整训练数据与训练平台公开。本期基准数字未在本轮复测，也未下载模型。",
+        "en": "This is an open-weight research release; weight access and use follow the official conditions. It is not a release of the complete training data/platform. Benchmarks were not rerun and weights were not downloaded here."
+      }
+    },
+    {
+      "id": "bkTgfDqVGYE",
+      "title": "Claude Flow评测：革命性AI蜂群智能框架，30秒构建企业级应用，彻底颠覆开发工作流！",
+      "date": "2025-08-06",
+      "publishedAt": "2025-08-05T16:00:06+00:00",
+      "duration": "4:01",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/bkTgfDqVGYE.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Claude Flow / Ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "旧简介含一个注明为示例的 anthropics/claude-flow-docs 地址，不作为有效来源。原社区 Claude Flow 已转到 Ruflo；这不是 Anthropic 官方产品，现行安装步骤与视频不同，本轮未安装或执行任务。",
+        "en": "The old description contains an explicitly marked placeholder anthropics/claude-flow-docs URL; it is not used as a source. Community Claude Flow now redirects to Ruflo, not an Anthropic product. Setup differs from the recording; no installation or task execution was performed."
+      }
+    },
+    {
+      "id": "n9OcjwW_yLU",
+      "title": "Open Agent Builder vs AgentKit vs n8n：哪个更强？ Open Agent Builder vs AgentKit vs n8n: Which Is Better?",
+      "date": "2025-10-17",
+      "publishedAt": "2025-10-17T15:13:59+00:00",
+      "duration": "7:02",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/n9OcjwW_yLU.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Open Agent Builder",
+        "url": "https://github.com/firecrawl/open-agent-builder",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "链接是 Open Agent Builder 的源码，不代表被比较的 AgentKit 或 n8n 全部开源。身份、数据库、模型与 Firecrawl 等服务需配置；公开代码不等于免费运行，本轮未部署。",
+        "en": "This is Open Agent Builder source, not source for every compared AgentKit or n8n component. Configure identity, database, model and Firecrawl services. Public code does not make operation free. Not deployed here."
+      }
+    },
+    {
+      "id": "RwgPxMWz0WQ",
+      "title": "OpenAI的AgentKit：5个你必须知道的限制 OpenAI's AgentKit: 5 Limitations You Must Know",
+      "date": "2025-10-07",
+      "publishedAt": "2025-10-07T12:11:01+00:00",
+      "duration": "7:50",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/RwgPxMWz0WQ.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "reference",
+      "project": {
+        "name": "OpenAI Agents SDK（参考）",
+        "url": "https://github.com/openai/openai-agents-python",
+        "kind": "reference"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "该链接只对应公开 Agents SDK，不是录制画面里的托管 Agent Builder 或整个 AgentKit 的源码；本期画布与完整流程的公开源码未核验到。API、服务权限与费用需另查，本轮未运行。",
+        "en": "This is the public Agents SDK, not source for the recorded hosted Agent Builder or all of AgentKit. Public source for the canvas and complete recorded flow was not verified. Check API access and service costs separately. Not run here."
+      }
+    },
+    {
+      "id": "RByntb59B8Y",
+      "title": "CodeRabbit CLI实测：AI写的代码还能放心吗？CodeRabbit CLI Tested: Can You Trust AI-Generated Code?",
+      "date": "2025-09-19",
+      "publishedAt": "2025-09-19T08:04:02+00:00",
+      "duration": "7:54",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-09/RByntb59B8Y.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "not_verified",
+      "project": null,
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "尚未核验到本期 CodeRabbit CLI 产品的公开源码。提供节目笔记，不把同名仓库或集成示例当作产品源码；旧标题中的 Bug 减半不是本轮实测，审查结果仍需人工核对。",
+        "en": "Public source for the recorded CodeRabbit CLI product has not been verified. These are episode notes, not a substitute repository. The old title’s halved-bug claim was not retested; review findings still need human checks."
+      }
+    },
+    {
+      "id": "Nij92dSF0F4",
+      "title": "别再把数据传云端！EmbeddingGemma可离线运行 Stop Sending Data to the Cloud! EmbeddingGemma Works Offline",
+      "date": "2025-09-06",
+      "publishedAt": "2025-09-06T00:00:35+00:00",
+      "duration": "8:27",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-09/Nij92dSF0F4.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "reference",
+      "project": {
+        "name": "EmbeddingGemma 官方 RAG 示例",
+        "url": "https://github.com/google-gemma/cookbook/blob/main/tutorials/RAG_with_EmbeddingGemma.ipynb",
+        "kind": "reference"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "原 Gemma Cookbook 已停止维护，链接改为官方新仓库中的 EmbeddingGemma 示例。示例代码不是模型权重或本期完整应用源码；离线需先准备模型与依赖并检查工具联网，本轮未执行。",
+        "en": "The former Gemma Cookbook is deprecated; this links the official replacement’s EmbeddingGemma example. Notebook code is not model weights or source for the full recorded app. Prepare dependencies and check networked tools for offline use. Not executed here."
+      }
+    },
+    {
+      "id": "QpmeaE0PA6w",
+      "title": "NVIDIA Parakeet V2：AI语音识别新标杆，极速英文转录挑战Whisper！",
+      "date": "2025-08-03",
+      "publishedAt": "2025-08-02T16:00:41+00:00",
+      "duration": "3:41",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-08/QpmeaE0PA6w.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "reference",
+      "project": {
+        "name": "NeMo Speech（参考框架）",
+        "url": "https://github.com/NVIDIA-NeMo/Speech",
+        "kind": "reference"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "原 NVIDIA/NeMo 地址已迁移到 NVIDIA-NeMo/Speech。框架源码不是 Parakeet V2 模型权重；需分别核对具体权重、版本和硬件，视频中的速度数字未在本轮复测。",
+        "en": "The former NVIDIA/NeMo URL now redirects to NVIDIA-NeMo/Speech. Framework source is not Parakeet V2 model weights. Check the weight release, software version and hardware separately; recorded speed figures were not retested."
+      }
+    },
+    {
+      "id": "JQVM-fXTxxQ",
+      "title": "Gemini CLI 免费又强大：取消 Warp 的5个理由 Gemini CLI Is Free and Powerful: 5 Reasons to Cancel Warp",
+      "date": "2025-10-19",
+      "publishedAt": "2025-10-19T07:31:16+00:00",
+      "duration": "6:50",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/JQVM-fXTxxQ.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Gemini CLI",
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "视频录制于 Gemini CLI 0.9，不能照搬到现行版本。当前 README 的用户迁移与模型提示需先核对；是否替代 Warp、是否免费取决于实际需求与服务条件，本轮未做效率对比。",
+        "en": "The recording uses Gemini CLI 0.9; current versions differ. Review the README’s user-transition and model notices. Whether it replaces Warp or is free depends on actual needs and service terms. No efficiency comparison was performed here."
+      }
+    },
+    {
+      "id": "VCFSe0UCi5M",
+      "title": "微软 Skill Recorder：录一遍，AI就会了吗？| Record Once, Reuse a Skill?",
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T07:06:49+00:00",
+      "duration": "10:05",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/VCFSe0UCi5M.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Microsoft Skill Recorder",
+        "url": "https://github.com/microsoft/skill-recorder",
+        "kind": "source"
+      },
+      "source": "public YouTube metadata and description; current upstream README",
+      "scope": {
+        "zh": "链接为微软官方录制与技能生成工具，不是任意桌面操作的自动回放保证。视频记录的第二份虚构 CSV 结果 230 属于原片实测记录，本轮未重跑；本机测试脚本与作者完整案例的配套公开源码未核验到。使用需相应屏幕录制权限和 Copilot 访问。",
+        "en": "This is Microsoft’s recording/skill-generation tool, not a guarantee of arbitrary GUI replay. The second synthetic CSV result of 230 is a test recorded in the video, not rerun here. Public source for the local test script and complete author cases was not verified. Screen-recording permissions and Copilot access are required."
+      }
+    }
+  ]
+}
