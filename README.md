@@ -43,6 +43,12 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-25 | [没刷机也没升级：我用 AI 给安卓5老电视换了个首页](episodes/2026-10/1K3fVbbBeQg.md) | 3:53 |
+| 10-25 | [Copilot Studio Agent 系列 05/05｜设备借用：确认登记、异常测试与交接](episodes/2026-10/0di83rTyEow.md) | 10:44 |
+| 10-25 | [Copilot Studio Agent 系列 04/05｜待办查询与提醒：查清单、跑定时、核对收件](episodes/2026-10/aHIMOJ8ZCMA.md) | 12:16 |
+| 10-25 | [Copilot Studio Agent 系列 03/05｜办公申请确认后写入清单，返回真实编号](episodes/2026-10/T-KbmUbzCOM.md) | 9:23 |
+| 10-25 | [Copilot Studio Agent 系列 02/05｜用 Agent Builder 把会议记录整理成行动清单（配乐版）](episodes/2026-10/JPLZ_PTLLxY.md) | 8:02 |
+| 10-25 | [Copilot Studio Agent 系列 01/05｜用 Agent Builder 创建办公指南助理（配乐版）](episodes/2026-10/6_5213cvu3s.md) | 4:55 |
 | 10-24 | [Kimi K3.1 Pro作品很漂亮，游戏和3D真能接着用？ &#124; From Demos to Usable Work](episodes/2026-10/jb9WKcArVKM.md) | 9:19 |
 | 10-24 | [AI接活了，真做完了吗？OpenAI dot、Codex与企业Agent &#124; From Tasks to Checkable Results](episodes/2026-10/wzrxdi5dHV8.md) | 9:11 |
 | 10-24 | [AI建模真打出来了：Kimi K3.1 的灯具、游戏与修错 &#124; From 3D Models to Prints](episodes/2026-10/sAGY6P7EQmQ.md) | 9:06 |
