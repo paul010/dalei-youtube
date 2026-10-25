@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-25T08:19:13+00:00",
+  "updatedAt": "2026-10-25T08:37:37+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "2oqWZ539EqU",
+      "title": "Copilot Studio：Agent做好了，同事怎么接手？| From Agent to Team Workflow",
+      "publishedAt": "2026-10-25T08:22:56+00:00",
+      "date": "2026-10-25",
+      "duration": "10:27",
+      "url": "https://www.youtube.com/watch?v=2oqWZ539EqU"
+    },
     {
       "id": "VCFSe0UCi5M",
       "title": "微软 Skill Recorder：录一遍，AI就会了吗？| Record Once, Reuse a Skill?",
@@ -116,14 +124,6 @@
       "date": "2026-10-23",
       "duration": "10:26",
       "url": "https://www.youtube.com/watch?v=1lxW8jx4jcw"
-    },
-    {
-      "id": "LjgabqH1yMM",
-      "title": "同事一句话，AI接着改：ChatGPT dots 能持续跟进吗？| Goals to Updates",
-      "publishedAt": "2026-10-23T01:28:19+00:00",
-      "date": "2026-10-23",
-      "duration": "10:07",
-      "url": "https://www.youtube.com/watch?v=LjgabqH1yMM"
     }
   ]
 }

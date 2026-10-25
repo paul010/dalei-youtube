@@ -45,6 +45,7 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-25 | [Copilot Studio：Agent做好了，同事怎么接手？&#124; From Agent to Team Workflow](episodes/2026-10/2oqWZ539EqU.md) | 10:27 |
 | 10-25 | [微软 Skill Recorder：录一遍，AI就会了吗？&#124; Record Once, Reuse a Skill?](episodes/2026-10/VCFSe0UCi5M.md) | 10:05 |
 | 10-25 | [没刷机也没升级：我用 AI 给安卓5老电视换了个首页](episodes/2026-10/1K3fVbbBeQg.md) | 3:53 |
 | 10-25 | [Copilot Studio Agent 系列 05/05｜设备借用：确认登记、异常测试与交接](episodes/2026-10/0di83rTyEow.md) | 10:44 |

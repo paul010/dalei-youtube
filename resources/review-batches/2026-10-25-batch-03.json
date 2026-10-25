@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 1,
+  "batch": "03",
+  "checkedOn": "2026-10-25",
+  "scope": "20 older public episodes (2026-10-11 to 2026-10-21) plus 1 newly published episode; no namesake or general SDK substituted for episode source",
+  "records": [
+    {
+      "id": "TB2gJ4es47Y",
+      "title": "Gemini Carbon新线索，Qwen/Kimi在路上？| AI Model News",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T13:00:33+00:00",
+      "duration": "11:21",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/TB2gJ4es47Y.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "对照模型发布入口、代号线索和作者作品截图，判断消息是否足以改变工具选择。",
+        "en": "Compare model announcements, code-name reports and creator screenshots before changing tools."
+      },
+      "scope": {
+        "zh": "未核验到本期花园、靶场或城堡作品的公开源码。代号与价格线索保留报道归属，不把静态截图当作可运行项目，也不据此确认未发布型号。",
+        "en": "Public source for the garden, shooting-range or castle demos has not been verified. Code names and prices remain attributed reports; screenshots are not runnable projects or proof of an unreleased model."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+        "https://x.com/Waguri_Kaoruko8/status/2112544997501243846",
+        "https://x.com/notjazii/status/2112520834799813091",
+        "https://x.com/thsottiaux/status/2112592264686149749"
+      ]
+    },
+    {
+      "id": "LPwEgCfJ8M4",
+      "title": "先砍token，AI真的更省钱？微软Model Router与Agent Optimizer | Cheaper AI Agents?",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T11:09:04+00:00",
+      "duration": "12:40",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/LPwEgCfJ8M4.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "跟着微软演示比较模型路由、优化候选、任务评分与实际调用成本。",
+        "en": "Follow Microsoft’s demo of model routing, optimization candidates, task scores and call costs."
+      },
+      "scope": {
+        "zh": "未核验到录制演示的完整 Agent 配置与配套源码。官方文档介绍托管服务，不等于开源实现；片中假设用量、预估费用和历史运行需分开，评分不是节费保证。",
+        "en": "The full recorded agent configuration and source have not been verified. Hosted-service documentation is not an open implementation. Separate hypothetical usage, estimates and historical runs; demo scores do not guarantee savings."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/model-router",
+        "https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/agent-optimizer-overview",
+        "https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/agent-optimizer-costs"
+      ]
+    },
+    {
+      "id": "M2LahYRwORo",
+      "title": "Meta 开放模型，真能干活？从画图到改坏文件 | Muse Spark Open",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T13:00:03+00:00",
+      "duration": "11:01",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/M2LahYRwORo.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "从图像、网站、工具重试和文件修改案例，看开放权重模型能完成哪些步骤。",
+        "en": "Review images, websites, tool retries and file edits to see what an open-weight model accomplishes."
+      },
+      "scope": {
+        "zh": "官方资料可核对 Muse Spark Open 的权重与许可，但未核验到本期网站、游戏和定向修改测试的完整源码。权重开放不等于训练数据、服务与作品代码全部公开；作者调用次数不是本轮实测。",
+        "en": "Official documentation describes Muse Spark Open weights and licensing, but source for the recorded sites, game and edit tests has not been verified. Open weights do not disclose all training data, service or demo code. Author call counts were not retested here."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://research.meta.ai/blog/muse-spark-open",
+        "https://x.com/AIatMeta/status/2110779754274292212",
+        "https://www.linkedin.com/posts/today-were-releasing-muse-spark-open-the-ugcPost-7516545367992061952-cNBv/",
+        "https://x.com/pcuenq/status/2110789372970946617",
+        "https://x.com/thehypedotnews/status/2110878087646720006"
+      ]
+    },
+    {
+      "id": "CBNO2KKGgV4",
+      "title": "MiniMax 新模型真省钱？先看城市、锦鲤池和账单 | AI News & Demos",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T09:30:41+00:00",
+      "duration": "9:43",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/CBNO2KKGgV4.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "把像素城市、落地页和锦鲤池的效果，与作者账单、等待和返工放在一起看。",
+        "en": "Compare pixel cities, landing pages and koi ponds alongside creator costs, waiting and rework."
+      },
+      "scope": {
+        "zh": "未核验到这些演示作品的公开配套源码。作者单次费用、当时免费入口、官方单价与片中假设算例分别说明，不作为当前报价、可复制账单或模型排名。",
+        "en": "Public source for the demonstrated works has not been verified. Creator costs, then-available free access, listed prices and the hypothetical calculation are distinct; none is a current quote, reproducible bill or model ranking."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://x.com/MiniMax_AI/status/2112150867868541221",
+        "https://www.minimax.io/blog/minimax-m31f",
+        "https://www.linkedin.com/pulse/minimax-m31-flash-redefining-agent-performance-cost-minimax-ai-dkehc/",
+        "https://x.com/notjazii/status/2112168890600149125",
+        "https://x.com/notjazii/status/2112170370220662823",
+        "https://x.com/nutlope/status/2112238098147135880",
+        "https://x.com/notjazii/status/2112200201507311699",
+        "https://x.com/notjazii/status/2112203322451280367",
+        "https://x.com/steph_palazzolo/status/2112183963452059734",
+        "https://public-inspection.federalregister.gov/2026-21447.pdf",
+        "https://www.anthropic.com/news/public-benefit-fund"
+      ]
+    },
+    {
+      "id": "4lDbhyM_9kY",
+      "title": "做给 AI 看，下次照着改？Copilot 录制技能与 Excel 规则 | Teach Copilot Once?",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T09:29:38+00:00",
+      "duration": "10:55",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/4lDbhyM_9kY.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "回看 PowerPoint 录制技能、Excel 规则与文件恢复，检查下一次是否保留关键要求。",
+        "en": "Review recorded PowerPoint skills, Excel rules and file recovery for reuse that preserves requirements."
+      },
+      "scope": {
+        "zh": "未核验到本期模板、技能文件或恢复流程的公开源码；PowerPoint 内置录制技能不能当作 Microsoft Skill Recorder 仓库的演示。文件数量差异不推定原因，功能以账号、语言和开放范围为准。",
+        "en": "Source for the templates, skill files and restore flow has not been verified. PowerPoint’s built-in recording is not a demo of the Microsoft Skill Recorder repository. Do not infer the cause of differing file counts; access and language support vary."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://support.microsoft.com/en-gb/powerpoint/copilot/create-interactive-slides-with-copilot-in-powerpoint",
+        "https://support.microsoft.com/en-au/powerpoint/copilot/record-skill-copilot-powerpoint",
+        "https://support.microsoft.com/en-us/excel/copilot/copilot-in-excel-rules"
+      ]
+    },
+    {
+      "id": "e-v67JBwNDE",
+      "title": "这段超人动画，作者说靠代码做成？ | Fable 5.5 Art in Motion",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T10:04:30+00:00",
+      "duration": "10:29",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/e-v67JBwNDE.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "从 Python / Blender 动画、园林与配置演示，追问具体修改能否保持作品连续。",
+        "en": "Use Python/Blender animation, garden and configuration demos to ask whether a focused edit preserves continuity."
+      },
+      "scope": {
+        "zh": "未核验到超人动画、园林或城市作品的配套源码；简介未给出可确认对应的 Ultra Config 仓库，不拿同名配置项目补位。Fable 型号与制作方式保留作者归属，配置回执不代表性能提升。",
+        "en": "Source for the Superman animation, garden or cities has not been verified. The description does not identify a matching Ultra Config repository, so no namesake is substituted. Model/workflow claims remain attributed; a configuration receipt is not a performance result."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": []
+    },
+    {
+      "id": "IEoXwJG-wmg",
+      "title": "神秘Aurora先画了两只猫：新模型值不值得等？ | AI News",
+      "date": "2026-10-19",
+      "publishedAt": "2026-10-19T02:07:30+00:00",
+      "duration": "9:04",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/IEoXwJG-wmg.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "从猫头像和图片局部修改，看生成效果、用途与待确认的模型代号。",
+        "en": "Examine cat portraits and focused image edits while separating usefulness from unconfirmed model names."
+      },
+      "scope": {
+        "zh": "未核验到 Aurora 演示、模型或图片编辑流程的公开源码。测试代号与静态作品不等于正式发布；节目中的旧官方样例和等待时间说明也不构成本轮复测。",
+        "en": "Public source for the Aurora demos, model or image-editing flow has not been verified. Arena code names and still images do not establish a release. Earlier official samples and latency reports were not retested here."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://x.com/LuminaBench/status/2111750753387725105",
+        "https://x.com/LuminaBench/status/2111751820980678939",
+        "https://x.com/LuminaBench/status/2111767131675381835",
+        "https://x.com/notjazii/status/2111770378607722640",
+        "https://x.com/Angaisb_/status/2111765824449167620",
+        "https://x.com/testingcatalog/status/2111894437877916032",
+        "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "https://x.com/ClaudeDevs/status/2111209208012210409",
+        "https://x.com/scaling01/status/2111518455216394680",
+        "https://x.com/marmaduke091/status/2111614054666015213"
+      ]
+    },
+    {
+      "id": "wVm5S0e7ZhI",
+      "title": "作者给我点了个赞｜《无路之路》The Pathless Path 阅读分享",
+      "date": "2026-10-18",
+      "publishedAt": "2026-10-18T13:12:40+00:00",
+      "duration": "5:23",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/wVm5S0e7ZhI.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "《无路之路》阅读记录：从默认路径、现实责任到先完成一个小作品。",
+        "en": "A reading reflection on The Pathless Path, responsibilities and finishing a small piece of work."
+      },
+      "scope": {
+        "zh": "这是阅读与个人创作分享，不是软件项目；未核验到配套代码。资料页保留书籍作者入口与节目背景，不以通用读书应用或书籍扫描件充当源码。",
+        "en": "This is a reading and creative-work reflection, not a software project; accompanying code has not been verified. Notes retain the author’s book link and episode context, without substituting a generic app or book scan."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://pathlesspath.com/"
+      ]
+    },
+    {
+      "id": "i6T1CaeEaOE",
+      "title": "Copilot 六项更新：操作录成技能，下次还要重来吗？ | Six Updates, Less Starting Over",
+      "date": "2026-10-18",
+      "publishedAt": "2026-10-18T00:19:52+00:00",
+      "duration": "10:44",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/i6T1CaeEaOE.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "看 Copilot 偏好、文件找回、评论修改和技能复用，检查第二次工作如何接续。",
+        "en": "Review Copilot preferences, file retrieval, comment-driven edits and skill reuse on the next task."
+      },
+      "scope": {
+        "zh": "未核验到各段演示的完整技能与文件源码。PowerPoint 内置技能与新一期独立 Skill Recorder 项目分开；两位作者的演示不合并成一次实测，也不保证所有许可和账号均可用。",
+        "en": "Complete skill/file source for these demos has not been verified. Built-in PowerPoint skills are distinct from the separate Skill Recorder project. The two creators’ demonstrations are not one independent test or a guarantee for every account/license."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://support.microsoft.com/en-us/powerpoint/copilot/record-skill-copilot-powerpoint",
+        "https://x.com/DerekJohnsonSV/status/2109708288489299998",
+        "https://www.linkedin.com/posts/ami-diamond-mvp-70a798b_microsoftcopilot-powerpoint-copilotskills-ugcPost-7511539876790616065-lgvJ/"
+      ]
+    },
+    {
+      "id": "EV800XzL7MI",
+      "title": "作者花5美元做出方块城堡？DeepSeek Flash1017 与同题作品 | A $5 Voxel Castle?",
+      "date": "2026-10-18",
+      "publishedAt": "2026-10-18T01:29:12+00:00",
+      "duration": "9:12",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/EV800XzL7MI.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "把方块城堡和同题作品的动作、费用、等待与未完成功能一起比较。",
+        "en": "Compare voxel-castle and same-prompt demos by actions, costs, waiting and unfinished features."
+      },
+      "scope": {
+        "zh": "未核验到城堡、角色或对照游戏的公开源码；模型卡与推理代码不能代替作品工程。五美元与耗时属于作者当次记录，不能作为当前报价、通用成本或本人复测。",
+        "en": "Public source for the castle, character or comparison games has not been verified; a model card or inference runtime is not the demo project. The five-dollar cost and timings belong to the creator’s attempt, not a current quote or a retest."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://x.com/deepseek_ai/status/2111375640717033777",
+        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "https://api-docs.deepseek.com/quick_start/pricing/",
+        "https://x.com/marcthecreatorr/status/2111401362713968942",
+        "https://x.com/notjazii/status/2111414086349336841",
+        "https://x.com/marcthecreatorr/status/2111427716142571554",
+        "https://x.com/notjazii/status/2111533418068804062"
+      ]
+    },
+    {
+      "id": "0n_IkA0Pri8",
+      "title": "DeepSeek 1017：小店做活了，游戏能玩吗？| Beautiful Scenes, Playable Games?",
+      "date": "2026-10-18",
+      "publishedAt": "2026-10-18T12:54:39+00:00",
+      "duration": "9:09",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/0n_IkA0Pri8.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "从雨夜小店到角色、跑酷和方块世界，区分能看的场景与能完成的操作。",
+        "en": "Separate attractive scenes from completed interactions across a rainy store, characters, parkour and voxel worlds."
+      },
+      "scope": {
+        "zh": "未核验到本期各作品的公开配套源码；DeepSeek 模型权重或社区部署脚本不等于这些作品。不同作者的费用与未完成项分别归属，Blender 室内图不据此认定为 1017 版本。",
+        "en": "Public source for the shown works has not been verified; DeepSeek weights or community deployment scripts are not those projects. Costs and unfinished work belong to separate creators; the Blender interior is not confirmed as the 1017 version."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://api-docs.deepseek.com/news/news261017",
+        "https://api-docs.deepseek.com/updates/",
+        "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "https://x.com/karanC_12/status/2111371468399689740",
+        "https://x.com/marcthecreatorr/status/2111427716142571554",
+        "https://x.com/notjazii/status/2111533418068804062",
+        "https://x.com/thehypedotnews/status/2111472170190684243",
+        "https://x.com/Bhavani_00007/status/2111417280366031318",
+        "https://x.com/notjazii/status/2111414086349336841",
+        "https://x.com/SPAC89/status/2111413922989224089",
+        "https://x.com/elshayib_/status/2111665095545610327"
+      ]
+    },
+    {
+      "id": "lVCL6eQ3YVM",
+      "title": "Muse Spark Open 游戏做出来了，真能玩吗？ | Can You Play It?",
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-17T01:56:39+00:00",
+      "duration": "9:20",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/lVCL6eQ3YVM.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "跟着游戏、本地运行与模拟账单调查，看模型能否完成完整任务。",
+        "en": "Review game, local-model and fictional billing-investigation demos for task completion."
+      },
+      "scope": {
+        "zh": "未核验到本期游戏与账单调查的完整源码。Muse Spark Open 权重、MLX 运行记录和 NVIDIA 演示分别列来源；模拟账单不是实际客户事故，作者运行数据未在本轮复现。",
+        "en": "Complete source for the games and billing investigation has not been verified. Muse Spark Open weights, MLX records and the NVIDIA demo have separate sources. The fictional bill is not a real customer incident; author measurements were not reproduced here."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://research.meta.ai/blog/muse-spark-open",
+        "https://x.com/thehypedotnews/status/2110878087646720006",
+        "https://x.com/pcuenq/status/2110798385552949738",
+        "https://x.com/pcuenq/status/2110789372970946617",
+        "https://x.com/WescheNex1q/status/2110896644875006005",
+        "https://x.com/atomic_chat_hq/status/2110822786901876942",
+        "https://x.com/chetaslua/status/2110808933074092371",
+        "https://x.com/Mr_Salio/status/2110781699839660328",
+        "https://x.com/NVIDIAAI/status/2110749838224810262",
+        "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/"
+      ]
+    },
+    {
+      "id": "IZ5qzZtKheQ",
+      "title": "马斯克的飞天 Roadster：真的离地，能上路吗？",
+      "date": "2026-10-17",
+      "publishedAt": "2026-10-16T23:02:49+00:00",
+      "duration": "12:04",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/IZ5qzZtKheQ.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "拆开 Roadster 演示中的下压力、推进与计时条件，区分展示动作和未来目标。",
+        "en": "Separate downforce, thrust, timing conditions and future targets in the Roadster demonstration."
+      },
+      "scope": {
+        "zh": "这是车辆技术解读，未核验到演示控制系统的公开源码。官方展示、性能声明、预订款和投产目标分别看待，不以 Tesla 的其他开源仓库代替本期系统，也不声称做过独立车辆测试。",
+        "en": "This vehicle commentary has no verified public source for the demonstrated control system. Keep official demonstrations, performance claims, deposits and production targets separate. Other Tesla repositories are not this system; no vehicle test was performed here."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://www.tesla.com/roadster",
+        "https://x.com/Tesla/status/2110788059008819215",
+        "https://x.com/Tesla/status/2110926164306931860",
+        "https://x.com/Tesla/status/2110913438293647789",
+        "https://x.com/Tesla/status/2110963770763649487",
+        "https://x.com/Tesla/status/2110964095696723984",
+        "https://www.tesla.com/zh_tw/roadster/reserve#payment"
+      ]
+    },
+    {
+      "id": "ysLr-Zmrf2s",
+      "title": "AI 做完第一版，后面的活怎么接？｜Claude Code 新变化 | After the First Draft",
+      "date": "2026-10-16",
+      "publishedAt": "2026-10-16T03:27:41+00:00",
+      "duration": "9:26",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/ysLr-Zmrf2s.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Phone Harness",
+        "url": "https://github.com/ShawnPana/phone-harness",
+        "kind": "source"
+      },
+      "summary": {
+        "zh": "连接手机的 Agent 工具：iPhone 通过 Mac 镜像，Android 通过 adb 读取与操作。",
+        "en": "A phone-control tool for agents, using Mac mirroring for iPhone and adb for Android."
+      },
+      "scope": {
+        "zh": "链接是 08:28 起提到的 Phone Harness 上游源码，不能代表 Claude Code、Claude Platform 或开头视觉作品全部开源。iPhone 需配对与系统权限，Android 需调试连接；本轮未安装、连接手机或执行任务。",
+        "en": "This is upstream Phone Harness source mentioned from 08:28, not source for Claude Code, Claude Platform or the opening visual works. iPhone needs pairing/system permissions and Android needs debugging access; not installed, connected or run here."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://x.com/ClaudeDevs/status/2110445844675838148",
+        "https://x.com/lydiahallie/status/2110484840256819380",
+        "https://github.com/anthropics/claude-code/releases/tag/v2.1.299",
+        "https://x.com/ClaudeDevs/status/2110421732029063352",
+        "https://github.com/ShawnPana/phone-harness",
+        "https://x.com/ziwenxu_/status/2105983571848741045",
+        "https://x.com/Airo_07/status/2109658160269344801"
+      ]
+    },
+    {
+      "id": "n7O2cYGwxMI",
+      "title": "Meta Muse Wonder：分数很猛，作品能用到哪一步？ | Beyond the Scores",
+      "date": "2026-10-14",
+      "publishedAt": "2026-10-14T09:12:43+00:00",
+      "duration": "10:14",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/n7O2cYGwxMI.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "把 Muse Wonder 作品效果、可操作演示与各自基准条件分开比较。",
+        "en": "Compare Muse Wonder’s visuals, interactive demos and benchmarks within their own conditions."
+      },
+      "scope": {
+        "zh": "未核验到桌面、城堡、动画与助理作品的公开源码。模型卡、API 入口和社区接入插件不等于模型实现或作品工程；不同基准和推理设置不拼成统一排名，本轮未跑分。",
+        "en": "Public source for the desktop, castle, animation and assistant demos has not been verified. Model cards, APIs and community integrations are not model implementations or demo projects. Different benchmarks/settings are not a single ranking; no benchmark was run here."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://research.meta.ai/static/muse-wonder-model-card",
+        "https://dev.meta.ai/models/muse-wonder"
+      ]
+    },
+    {
+      "id": "AJyU61pmmDY",
+      "title": "代码拍片到哪一步了？从作者短片到亲手操作3D作品 | How Far Can Code Filmmaking Go? From Demos to Interactive 3D",
+      "date": "2026-10-13",
+      "publishedAt": "2026-10-12T22:19:30+00:00",
+      "duration": "10:18",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/AJyU61pmmDY.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "沿镜头组织、3D 状态到岛屿和棋盘的连续操作，检查现成作品能做什么。",
+        "en": "Follow shot design, 3D states and consecutive island/chess interactions in existing works."
+      },
+      "scope": {
+        "zh": "未核验到短片、岛屿和棋盘的公开工程源码。原片记录的是作者现成页面的操作链，没有要求 AI 改代码或验收第二稿；本轮只核对资料，未重新操作作品。",
+        "en": "Source projects for the films, island and chessboard have not been verified. The original episode records interactions with existing creator pages, not an AI code edit or acceptance of a second draft. This review checked sources without replaying those interactions."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": []
+    },
+    {
+      "id": "4kf8vxHBAoc",
+      "title": "微软AI找到漏洞，接下来谁拍板？ | Microsoft Perception: Who Approves the Next Step?",
+      "date": "2026-10-13",
+      "publishedAt": "2026-10-13T11:51:00+00:00",
+      "duration": "9:10",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/4kf8vxHBAoc.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "看 Project Perception 怎样在发现、修复与人工批准之间留下可检查的状态。",
+        "en": "Review Project Perception’s visible states between discovery, remediation and human approval."
+      },
+      "scope": {
+        "zh": "未核验到演示应用、检测规则与代理编排的完整源码；官方文档仍说明有限公开预览。片中 PR 等待审阅不等于生产修复已上线，本轮没有扫描、漏洞利用或安全任务执行。",
+        "en": "Complete source for the demo app, detection rules and agent orchestration has not been verified; official documentation describes a limited public preview. A PR awaiting review is not a live production fix. No scan, exploit or security task was run here."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": []
+    },
+    {
+      "id": "yguIUSgQdFc",
+      "title": "Codex 会猜你下一句，AI 作品你选谁？｜AI Updates & Demos",
+      "date": "2026-10-12",
+      "publishedAt": "2026-10-11T23:30:58+00:00",
+      "duration": "10:09",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/yguIUSgQdFc.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "从 Codex 下一句建议、快速决策模型到创作者作品，区分官方更新与作者展示。",
+        "en": "Separate official Codex/decision-model updates from creators’ visual and interactive demos."
+      },
+      "scope": {
+        "zh": "未核验到下一句建议功能、Decision-1 服务及本期作品的完整对应源码。通用 Codex CLI 仓库不等于这些功能与网页作品；作者记录不是本轮性能测试，不把代号或转述当作新模型已发布。",
+        "en": "Matching source for composer predictions, the Decision-1 service and these demos has not been verified. The general Codex CLI repository is not source for all these features or web works. Creator reports are not benchmarks performed here or proof of a new release."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://x.com/openaidevs/status/2108624138369929725",
+        "https://help.openai.com/en/articles/20001601-composer-predictions-in-codex",
+        "https://x.com/satyanadella/status/2108627923888754862",
+        "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+        "https://x.com/bhavani_00007/status/2108986964615840035",
+        "https://x.com/pipeline_os/status/2109027665730760879",
+        "https://x.com/pipeline_os/status/2108937773742756207",
+        "https://x.com/uiwcvb001/status/2109241258636095738",
+        "https://x.com/chetaslua/status/2109244702235275680",
+        "https://x.com/ddjcxx/status/2108939544028684583"
+      ]
+    },
+    {
+      "id": "0sFuXGft0Z0",
+      "title": "AI作品已经很好看，接着怎么改？从企鹅到动作镜头 | Beautiful AI Work—What Would You Change Next?",
+      "date": "2026-10-12",
+      "publishedAt": "2026-10-12T11:00:12+00:00",
+      "duration": "8:55",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/0sFuXGft0Z0.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "从企鹅控件、动作镜头与产品动画，提出下一轮能核对的具体修改。",
+        "en": "Identify checkable next edits in penguin controls, action shots and product animation."
+      },
+      "scope": {
+        "zh": "未核验到企鹅、摩托镜头与动画作品的公开源码。原片操作现有控件，不等于复现生成或完成代码修改；耳机案例修改投入不同，制作时间与次数保留作者归属。",
+        "en": "Public source for the penguins, motorcycle shot and animations has not been verified. Using existing controls is not reproducing generation or editing code. Earbud examples have different revision budgets; production times/counts remain attributed to creators."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": []
+    },
+    {
+      "id": "tVW_ipHTqkc",
+      "title": "Copilot写完第一版，同事怎么接着改？ | Office in Copilot: What Happens After the First Draft?",
+      "date": "2026-10-11",
+      "publishedAt": "2026-10-11T07:24:58+00:00",
+      "duration": "2:59",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/tVW_ipHTqkc.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "从 Word 共享、同事评论与修订痕迹，查看第一稿后的协作修改过程。",
+        "en": "Follow Word sharing, colleague comments and tracked changes after the first draft."
+      },
+      "scope": {
+        "zh": "未核验到本期文档样例或 Copilot 服务的公开源码；产品公告不等于可导入工程。原演示提示未上传 Microsoft 365，不能认定 OneDrive 保存已验收；收入图表也未按原始资料复算。",
+        "en": "Public source for the document sample or Copilot service has not been verified; an announcement is not an importable project. The demo’s not-uploaded notice does not establish a verified OneDrive save, and the revenue chart was not recalculated from raw data."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/introducing-office-in-the-new-microsoft-copilot-app/4561230",
+        "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/whats-new-in-notebooks--october-2026/4559105"
+      ]
+    },
+    {
+      "id": "2oqWZ539EqU",
+      "title": "Copilot Studio：Agent做好了，同事怎么接手？| From Agent to Team Workflow",
+      "date": "2026-10-25",
+      "publishedAt": "2026-10-25T08:22:56+00:00",
+      "duration": "10:27",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/2oqWZ539EqU.md",
+      "verifiedOn": "2026-10-25",
+      "sourceStatus": "source-unverified",
+      "summary": {
+        "zh": "沿采购演示查看材料检查、样本评估、人工审核与同事接手的位置。",
+        "en": "Follow a procurement demo through material checks, evaluation, human review and team handoff."
+      },
+      "scope": {
+        "zh": "未核验到完整采购应用、工作流与代理配置的公开源码。官方 hooks 文档属于预览；失败或超时可能继续运行，不能作为唯一关键防护。片中 89% 只对应作者 18 个案例，本轮未重跑或验收生产流程。",
+        "en": "Public source for the complete procurement app, workflows and agent configuration has not been verified. Preview hooks can continue after failures/timeouts and must not be the sole critical safeguard. The demo’s 89% applies to its author’s 18 cases; no production workflow was rerun or accepted here."
+      },
+      "source": "public YouTube metadata and full description; matching upstream README only where linked",
+      "descriptionSourceUrls": [
+        "https://www.linkedin.com/posts/this-month-in-microsoft-copilot-studio-build-share-7513991600226746369-Fomv/",
+        "https://www.microsoft.com/en-us/copilot/blog/copilot-studio/new-and-improved-build-apps-extend-agents-and-transform-business-processes-in-microsoft-copilot-studio/",
+        "https://learn.microsoft.com/en-us/microsoft-copilot-studio/agents-experience/hooks-overview"
+      ]
+    }
+  ]
+}

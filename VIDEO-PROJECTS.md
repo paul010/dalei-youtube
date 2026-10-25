@@ -2,7 +2,7 @@
 
 核验日期：2026-10-25。第一批逐一公开读取了 29 期节目元数据，并核对有项目入口的 README。公开视频与当前上游项目分别看待；没有确认到源码的标为「未核验到公开源码」，不表示已经证明源码不存在。
 
-累计两批已核对 50 期：第二批新增 20 期较早节目，并加入刚公开的 Skill Recorder 新节目；不重复第一批条目。
+累计三批已核对 71 期。第三批按时间核对 20 期较早节目，并加入新公开的 Copilot Studio 团队接手节目；前两批条目保留，剩余 325 期记录在 resources/review-progress.json。
 
 本页是经核对的精选资料目录，不是全部历史节目的完整源码清单。会员节目和本次无法公开读取的节目未加入推荐。原始笔记保持在各节目页。
 
@@ -70,3 +70,32 @@ Codebuff 已跳转为 Freebuff，现行命令与录制版可能不同。DeerFlow
 | 2025-07-31 | [本地LLM部署新革命：Open WebUI + Docker Model Runner 一步到位安装指南 &#124; 大雷早上好](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-07/0YLtbgol25c.md) | [Open WebUI](https://github.com/open-webui/open-webui) · 公开项目源码 | 自部署的模型交互界面，可连接本地或兼容 API 的模型服务。 链接仅为 Open WebUI 源码，不等于 Docker Model Runner 的全部组件。离线与隐私取决于模型连接、工具和日志配置；当前许可与部署步骤按上游确认，本轮未部署或下载权重。 |
 
 下一批进度见 [核验进度](resources/review-progress.json)。未核对的历史归档不会自动加入两站推荐。
+
+
+## 第三批：2026-10-25
+
+20 期旧节目加 1 期新节目。Phone Harness 对应段落有公开上游源码；其余 20 期未核验到完整配套源码，其中包括产品、新闻和阅读分享，不用同名项目或通用框架补位。
+
+| 日期 | 节目与笔记 | GitHub 项目 / 状态 | 说明与范围 |
+|---|---|---|---|
+| 2026-10-21 | [Gemini Carbon新线索，Qwen/Kimi在路上？&#124; AI Model News](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/TB2gJ4es47Y.md) | 未核验到公开源码 | 对照模型发布入口、代号线索和作者作品截图，判断消息是否足以改变工具选择。 未核验到本期花园、靶场或城堡作品的公开源码。代号与价格线索保留报道归属，不把静态截图当作可运行项目，也不据此确认未发布型号。 |
+| 2026-10-21 | [先砍token，AI真的更省钱？微软Model Router与Agent Optimizer &#124; Cheaper AI Agents?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/LPwEgCfJ8M4.md) | 未核验到公开源码 | 跟着微软演示比较模型路由、优化候选、任务评分与实际调用成本。 未核验到录制演示的完整 Agent 配置与配套源码。官方文档介绍托管服务，不等于开源实现；片中假设用量、预估费用和历史运行需分开，评分不是节费保证。 |
+| 2026-10-20 | [Meta 开放模型，真能干活？从画图到改坏文件 &#124; Muse Spark Open](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/M2LahYRwORo.md) | 未核验到公开源码 | 从图像、网站、工具重试和文件修改案例，看开放权重模型能完成哪些步骤。 官方资料可核对 Muse Spark Open 的权重与许可，但未核验到本期网站、游戏和定向修改测试的完整源码。权重开放不等于训练数据、服务与作品代码全部公开；作者调用次数不是本轮实测。 |
+| 2026-10-20 | [MiniMax 新模型真省钱？先看城市、锦鲤池和账单 &#124; AI News & Demos](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/CBNO2KKGgV4.md) | 未核验到公开源码 | 把像素城市、落地页和锦鲤池的效果，与作者账单、等待和返工放在一起看。 未核验到这些演示作品的公开配套源码。作者单次费用、当时免费入口、官方单价与片中假设算例分别说明，不作为当前报价、可复制账单或模型排名。 |
+| 2026-10-20 | [做给 AI 看，下次照着改？Copilot 录制技能与 Excel 规则 &#124; Teach Copilot Once?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/4lDbhyM_9kY.md) | 未核验到公开源码 | 回看 PowerPoint 录制技能、Excel 规则与文件恢复，检查下一次是否保留关键要求。 未核验到本期模板、技能文件或恢复流程的公开源码；PowerPoint 内置录制技能不能当作 Microsoft Skill Recorder 仓库的演示。文件数量差异不推定原因，功能以账号、语言和开放范围为准。 |
+| 2026-10-19 | [这段超人动画，作者说靠代码做成？ &#124; Fable 5.5 Art in Motion](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/e-v67JBwNDE.md) | 未核验到公开源码 | 从 Python / Blender 动画、园林与配置演示，追问具体修改能否保持作品连续。 未核验到超人动画、园林或城市作品的配套源码；简介未给出可确认对应的 Ultra Config 仓库，不拿同名配置项目补位。Fable 型号与制作方式保留作者归属，配置回执不代表性能提升。 |
+| 2026-10-19 | [神秘Aurora先画了两只猫：新模型值不值得等？ &#124; AI News](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/IEoXwJG-wmg.md) | 未核验到公开源码 | 从猫头像和图片局部修改，看生成效果、用途与待确认的模型代号。 未核验到 Aurora 演示、模型或图片编辑流程的公开源码。测试代号与静态作品不等于正式发布；节目中的旧官方样例和等待时间说明也不构成本轮复测。 |
+| 2026-10-18 | [作者给我点了个赞｜《无路之路》The Pathless Path 阅读分享](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/wVm5S0e7ZhI.md) | 未核验到公开源码 | 《无路之路》阅读记录：从默认路径、现实责任到先完成一个小作品。 这是阅读与个人创作分享，不是软件项目；未核验到配套代码。资料页保留书籍作者入口与节目背景，不以通用读书应用或书籍扫描件充当源码。 |
+| 2026-10-18 | [Copilot 六项更新：操作录成技能，下次还要重来吗？ &#124; Six Updates, Less Starting Over](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/i6T1CaeEaOE.md) | 未核验到公开源码 | 看 Copilot 偏好、文件找回、评论修改和技能复用，检查第二次工作如何接续。 未核验到各段演示的完整技能与文件源码。PowerPoint 内置技能与新一期独立 Skill Recorder 项目分开；两位作者的演示不合并成一次实测，也不保证所有许可和账号均可用。 |
+| 2026-10-18 | [作者花5美元做出方块城堡？DeepSeek Flash1017 与同题作品 &#124; A $5 Voxel Castle?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/EV800XzL7MI.md) | 未核验到公开源码 | 把方块城堡和同题作品的动作、费用、等待与未完成功能一起比较。 未核验到城堡、角色或对照游戏的公开源码；模型卡与推理代码不能代替作品工程。五美元与耗时属于作者当次记录，不能作为当前报价、通用成本或本人复测。 |
+| 2026-10-18 | [DeepSeek 1017：小店做活了，游戏能玩吗？&#124; Beautiful Scenes, Playable Games?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/0n_IkA0Pri8.md) | 未核验到公开源码 | 从雨夜小店到角色、跑酷和方块世界，区分能看的场景与能完成的操作。 未核验到本期各作品的公开配套源码；DeepSeek 模型权重或社区部署脚本不等于这些作品。不同作者的费用与未完成项分别归属，Blender 室内图不据此认定为 1017 版本。 |
+| 2026-10-17 | [Muse Spark Open 游戏做出来了，真能玩吗？ &#124; Can You Play It?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/lVCL6eQ3YVM.md) | 未核验到公开源码 | 跟着游戏、本地运行与模拟账单调查，看模型能否完成完整任务。 未核验到本期游戏与账单调查的完整源码。Muse Spark Open 权重、MLX 运行记录和 NVIDIA 演示分别列来源；模拟账单不是实际客户事故，作者运行数据未在本轮复现。 |
+| 2026-10-17 | [马斯克的飞天 Roadster：真的离地，能上路吗？](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/IZ5qzZtKheQ.md) | 未核验到公开源码 | 拆开 Roadster 演示中的下压力、推进与计时条件，区分展示动作和未来目标。 这是车辆技术解读，未核验到演示控制系统的公开源码。官方展示、性能声明、预订款和投产目标分别看待，不以 Tesla 的其他开源仓库代替本期系统，也不声称做过独立车辆测试。 |
+| 2026-10-16 | [AI 做完第一版，后面的活怎么接？｜Claude Code 新变化 &#124; After the First Draft](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/ysLr-Zmrf2s.md) | [Phone Harness](https://github.com/ShawnPana/phone-harness) · 公开上游源码 | 连接手机的 Agent 工具：iPhone 通过 Mac 镜像，Android 通过 adb 读取与操作。 链接是 08:28 起提到的 Phone Harness 上游源码，不能代表 Claude Code、Claude Platform 或开头视觉作品全部开源。iPhone 需配对与系统权限，Android 需调试连接；本轮未安装、连接手机或执行任务。 |
+| 2026-10-14 | [Meta Muse Wonder：分数很猛，作品能用到哪一步？ &#124; Beyond the Scores](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/n7O2cYGwxMI.md) | 未核验到公开源码 | 把 Muse Wonder 作品效果、可操作演示与各自基准条件分开比较。 未核验到桌面、城堡、动画与助理作品的公开源码。模型卡、API 入口和社区接入插件不等于模型实现或作品工程；不同基准和推理设置不拼成统一排名，本轮未跑分。 |
+| 2026-10-13 | [代码拍片到哪一步了？从作者短片到亲手操作3D作品 &#124; How Far Can Code Filmmaking Go? From Demos to Interactive 3D](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/AJyU61pmmDY.md) | 未核验到公开源码 | 沿镜头组织、3D 状态到岛屿和棋盘的连续操作，检查现成作品能做什么。 未核验到短片、岛屿和棋盘的公开工程源码。原片记录的是作者现成页面的操作链，没有要求 AI 改代码或验收第二稿；本轮只核对资料，未重新操作作品。 |
+| 2026-10-13 | [微软AI找到漏洞，接下来谁拍板？ &#124; Microsoft Perception: Who Approves the Next Step?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/4kf8vxHBAoc.md) | 未核验到公开源码 | 看 Project Perception 怎样在发现、修复与人工批准之间留下可检查的状态。 未核验到演示应用、检测规则与代理编排的完整源码；官方文档仍说明有限公开预览。片中 PR 等待审阅不等于生产修复已上线，本轮没有扫描、漏洞利用或安全任务执行。 |
+| 2026-10-12 | [Codex 会猜你下一句，AI 作品你选谁？｜AI Updates & Demos](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/yguIUSgQdFc.md) | 未核验到公开源码 | 从 Codex 下一句建议、快速决策模型到创作者作品，区分官方更新与作者展示。 未核验到下一句建议功能、Decision-1 服务及本期作品的完整对应源码。通用 Codex CLI 仓库不等于这些功能与网页作品；作者记录不是本轮性能测试，不把代号或转述当作新模型已发布。 |
+| 2026-10-12 | [AI作品已经很好看，接着怎么改？从企鹅到动作镜头 &#124; Beautiful AI Work—What Would You Change Next?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/0sFuXGft0Z0.md) | 未核验到公开源码 | 从企鹅控件、动作镜头与产品动画，提出下一轮能核对的具体修改。 未核验到企鹅、摩托镜头与动画作品的公开源码。原片操作现有控件，不等于复现生成或完成代码修改；耳机案例修改投入不同，制作时间与次数保留作者归属。 |
+| 2026-10-11 | [Copilot写完第一版，同事怎么接着改？ &#124; Office in Copilot: What Happens After the First Draft?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/tVW_ipHTqkc.md) | 未核验到公开源码 | 从 Word 共享、同事评论与修订痕迹，查看第一稿后的协作修改过程。 未核验到本期文档样例或 Copilot 服务的公开源码；产品公告不等于可导入工程。原演示提示未上传 Microsoft 365，不能认定 OneDrive 保存已验收；收入图表也未按原始资料复算。 |
+| 2026-10-25 | [Copilot Studio：Agent做好了，同事怎么接手？&#124; From Agent to Team Workflow](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/2oqWZ539EqU.md) | 未核验到公开源码 | 沿采购演示查看材料检查、样本评估、人工审核与同事接手的位置。 未核验到完整采购应用、工作流与代理配置的公开源码。官方 hooks 文档属于预览；失败或超时可能继续运行，不能作为唯一关键防护。片中 89% 只对应作者 18 个案例，本轮未重跑或验收生产流程。 |
