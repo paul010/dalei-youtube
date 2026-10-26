@@ -1,6 +1,6 @@
 # Cursor能操作手机，Claude会等任务：AI动手后谁验结果？ | AI Acts—Who Checks?
 
-> **发布日期（北京时间）**：2026-10-25 | **时长**：8:52
+> **发布日期（北京时间）**：2026-10-25 | **时长**：8:53
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=0ZJF_vmySVs)
 

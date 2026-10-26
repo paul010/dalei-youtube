@@ -46,7 +46,7 @@
 | 日期 | 标题 | 时长 |
 |------|------|------|
 | 10-26 | [OneDrive电脑满了别急着删：省空间、共享和找回文件 &#124; OneDrive Practical Guide: Space, Sharing and Recovery](episodes/2026-10/529J4Chjg6o.md) | 10:34 |
-| 10-25 | [Cursor能操作手机，Claude会等任务：AI动手后谁验结果？ &#124; AI Acts—Who Checks?](episodes/2026-10/0ZJF_vmySVs.md) | 8:52 |
+| 10-25 | [Cursor能操作手机，Claude会等任务：AI动手后谁验结果？ &#124; AI Acts—Who Checks?](episodes/2026-10/0ZJF_vmySVs.md) | 8:53 |
 | 10-25 | [Copilot Studio：Agent做好了，同事怎么接手？&#124; From Agent to Team Workflow](episodes/2026-10/2oqWZ539EqU.md) | 10:27 |
 | 10-25 | [微软 Skill Recorder：录一遍，AI就会了吗？&#124; Record Once, Reuse a Skill?](episodes/2026-10/VCFSe0UCi5M.md) | 10:05 |
 | 10-25 | [没刷机也没升级：我用 AI 给安卓5老电视换了个首页](episodes/2026-10/1K3fVbbBeQg.md) | 3:53 |
