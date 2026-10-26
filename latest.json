@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-25T08:37:37+00:00",
+  "updatedAt": "2026-10-26T00:56:15+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "529J4Chjg6o",
+      "title": "OneDrive电脑满了别急着删：省空间、共享和找回文件 | OneDrive Practical Guide: Space, Sharing and Recovery",
+      "publishedAt": "2026-10-26T00:16:17+00:00",
+      "date": "2026-10-26",
+      "duration": "10:34",
+      "url": "https://www.youtube.com/watch?v=529J4Chjg6o"
+    },
+    {
+      "id": "0ZJF_vmySVs",
+      "title": "Cursor能操作手机，Claude会等任务：AI动手后谁验结果？ | AI Acts—Who Checks?",
+      "publishedAt": "2026-10-25T11:45:44+00:00",
+      "date": "2026-10-25",
+      "duration": "8:52",
+      "url": "https://www.youtube.com/watch?v=0ZJF_vmySVs"
+    },
     {
       "id": "2oqWZ539EqU",
       "title": "Copilot Studio：Agent做好了，同事怎么接手？| From Agent to Team Workflow",
@@ -108,22 +124,6 @@
       "date": "2026-10-23",
       "duration": "10:17",
       "url": "https://www.youtube.com/watch?v=ONa77ZySrmA"
-    },
-    {
-      "id": "3xb76uPejy0",
-      "title": "AI造的火车，真能开？｜从3D演示看交互 | Can an AI-Built Train Really Run?",
-      "publishedAt": "2026-10-23T11:00:00+00:00",
-      "date": "2026-10-23",
-      "duration": "10:10",
-      "url": "https://www.youtube.com/watch?v=3xb76uPejy0"
-    },
-    {
-      "id": "1lxW8jx4jcw",
-      "title": "Kimi K3.1亮相之后：做出世界，还能接着改吗？｜Beyond the Teaser",
-      "publishedAt": "2026-10-23T09:18:50+00:00",
-      "date": "2026-10-23",
-      "duration": "10:26",
-      "url": "https://www.youtube.com/watch?v=1lxW8jx4jcw"
     }
   ]
 }
