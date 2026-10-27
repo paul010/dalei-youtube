@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-26T02:05:41+00:00",
+  "updatedAt": "2026-10-27T00:57:58+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "7NWgQ8vDHlM",
+      "title": "SharePoint：文件发给客户，意见怎么回来？| Document Handoff & Review",
+      "publishedAt": "2026-10-27T00:02:40+00:00",
+      "date": "2026-10-27",
+      "duration": "8:45",
+      "url": "https://www.youtube.com/watch?v=7NWgQ8vDHlM"
+    },
+    {
+      "id": "ZhpEzNN-8OQ",
+      "title": "Windows Autopatch：补丁发了，哪台真正装好？| Which Devices Actually Updated?",
+      "publishedAt": "2026-10-27T00:02:26+00:00",
+      "date": "2026-10-27",
+      "duration": "8:32",
+      "url": "https://www.youtube.com/watch?v=ZhpEzNN-8OQ"
+    },
+    {
+      "id": "lW0L4Mgs6UM",
+      "title": "Copilot Studio 查到26个连接，就查完了？| CLI + MCP",
+      "publishedAt": "2026-10-26T12:11:49+00:00",
+      "date": "2026-10-26",
+      "duration": "10:03",
+      "url": "https://www.youtube.com/watch?v=lW0L4Mgs6UM"
+    },
     {
       "id": "529J4Chjg6o",
       "title": "OneDrive电脑满了别急着删：省空间、共享和找回文件 | OneDrive Practical Guide: Space, Sharing and Recovery",
@@ -100,30 +124,6 @@
       "date": "2026-10-24",
       "duration": "9:11",
       "url": "https://www.youtube.com/watch?v=wzrxdi5dHV8"
-    },
-    {
-      "id": "sAGY6P7EQmQ",
-      "title": "AI建模真打出来了：Kimi K3.1 的灯具、游戏与修错 | From 3D Models to Prints",
-      "publishedAt": "2026-10-24T03:27:36+00:00",
-      "date": "2026-10-24",
-      "duration": "9:06",
-      "url": "https://www.youtube.com/watch?v=sAGY6P7EQmQ"
-    },
-    {
-      "id": "iU3gxyCBZcw",
-      "title": "AI接到任务，异常谁接手？ | Copilot Studio Harnesses",
-      "publishedAt": "2026-10-23T16:00:06+00:00",
-      "date": "2026-10-24",
-      "duration": "10:39",
-      "url": "https://www.youtube.com/watch?v=iU3gxyCBZcw"
-    },
-    {
-      "id": "ONa77ZySrmA",
-      "title": "Windows 11新版照片值得换吗？找照片、修图到保存 | New Photos App",
-      "publishedAt": "2026-10-23T13:00:20+00:00",
-      "date": "2026-10-23",
-      "duration": "10:17",
-      "url": "https://www.youtube.com/watch?v=ONa77ZySrmA"
     }
   ]
 }
