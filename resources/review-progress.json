@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "checkedOn": "2026-10-25",
-  "reviewedPublicCount": 71,
+  "checkedOn": "2026-10-28",
+  "reviewedPublicCount": 74,
   "unavailableCount": 1,
-  "archiveTotal": 397,
-  "remainingCount": 325,
+  "archiveTotal": 405,
+  "remainingCount": 330,
   "reviewedPublicIds": [
     "-y0KHgOqZf8",
     "0YLtbgol25c",
+    "0bjp1kTeGpg",
     "0di83rTyEow",
     "0n_IkA0Pri8",
     "0sFuXGft0Z0",
@@ -23,6 +24,7 @@
     "8yxWXZAcBQg",
     "AJyU61pmmDY",
     "AaqTzJwwqpE",
+    "BXOIJDP6lBw",
     "CBNO2KKGgV4",
     "DQJV2BKWwcA",
     "DoIe_HhIs1c",
@@ -33,6 +35,7 @@
     "IEoXwJG-wmg",
     "IZ5qzZtKheQ",
     "Iwlyw6DOCKo",
+    "J83yWCsozIo",
     "JPLZ_PTLLxY",
     "JQVM-fXTxxQ",
     "KRxkcrDIUM4",
@@ -406,7 +409,12 @@
     "5pIAUWLikfc",
     "4NlgnFC3dqY",
     "45QrW6bipcI",
-    "3IjO25je6MU"
+    "3IjO25je6MU",
+    "0ZJF_vmySVs",
+    "529J4Chjg6o",
+    "7NWgQ8vDHlM",
+    "ZhpEzNN-8OQ",
+    "lW0L4Mgs6UM"
   ],
   "note": "Remaining IDs are unreviewed archive entries, not verified public recommendations. Do not infer source availability or republish until checked."
 }
