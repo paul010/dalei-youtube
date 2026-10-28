@@ -1,13 +1,21 @@
 # 视频项目与 GitHub 资料
 
-核验日期：2026-10-25。第一批逐一公开读取了 29 期节目元数据，并核对有项目入口的 README。公开视频与当前上游项目分别看待；没有确认到源码的标为「未核验到公开源码」，不表示已经证明源码不存在。
+最近补充核对：2026-10-28；此前批次核验日期保留在各期资料中。第一批逐一公开读取了 29 期节目元数据，并核对有项目入口的 README。公开视频与当前上游项目分别看待；没有确认到源码的标为「未核验到公开源码」，不表示已经证明源码不存在。
 
-累计三批已核对 71 期。第三批按时间核对 20 期较早节目，并加入新公开的 Copilot Studio 团队接手节目；前两批条目保留，剩余 325 期记录在 resources/review-progress.json。
+累计已核对 79 期。2026-10-28 补充了八期近期节目的资料与源码状态；此前三批条目保留，剩余 325 期记录在 resources/review-progress.json。
 
 本页是经核对的精选资料目录，不是全部历史节目的完整源码清单。会员节目和本次无法公开读取的节目未加入推荐。原始笔记保持在各节目页。
 
 | 日期 | 节目与笔记 | GitHub 项目 / 状态 | 说明 |
 |---|---|---|---|
+| 2026-10-27 | [AI便宜了，活能干好吗？12GB显卡与Agent的使用账 &#124; Cheap AI, Real Work?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/BXOIJDP6lBw.md) | [BabelArena · 01:25](https://github.com/QwenLM/BabelArena) · 相关参考资料，非整期源码 | 从滑板游戏、多语言购物与本地量化实验，检查调用次数、等待和输出质量的实际代价。 BabelArena 对应 01:25 起的多语言 Agent 基准部分，不是整期源码。滑板游戏、RTX 3060 量化实验与其他工具演示的完整配套源码尚未核验；作者记录不等于本频道独立跑分，调用次数也不等于总费用。本轮未运行这些实验。 |
+| 2026-10-27 | [FlexPart：一张图生成3D部件，门能单独改吗？](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/0bjp1kTeGpg.md) | [FlexPart](https://github.com/Gucci233/FlexPart) · 公开项目源码 | 用点、框和遮罩指定部件，从单张图片生成可分别导出的三维网格。 链接为论文作者的 FlexPart 官方实现，含推理代码与权重准备说明；需 NVIDIA GPU 及相应环境。分件不代表材质、转轴、动画或编辑软件导入已完成。本期是论文阅读与工作流分析，本轮未运行模型或复测导入。 |
+| 2026-10-27 | [GPT-6.1 Terra 便宜了：电脑里的哪一步值得先交给它？ &#124; What Comes Next?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/J83yWCsozIo.md) | 未核验到公开源码 | 沿官方电车演示和作者的游戏、SVG、网页及 Blender 记录，选择一个可检查的小任务。 已核对 OpenAI 发布页与 Adam Holter 测试记录，尚未核验到片中电车、游戏和 Blender 作品的配套 GitHub 源码。模型与托管服务介绍不等于开源实现；公开网页结果也不等于完整源码仓库。片中旧练习的 230 为虚构 CSV 合计，本轮未复测模型。 |
+| 2026-10-27 | [SharePoint：文件发给客户，意见怎么回来？&#124; Document Handoff & Review](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/7NWgQ8vDHlM.md) | [TransmittalFlow · project brief](https://github.com/SharePoint/sharepoint-hackathon/issues/175) · 相关参考资料，非整期源码 | 把选文件、客户审核和意见回写串成 SharePoint 文档交接流程。 链接是 TransmittalFlow 的 GitHub 黑客松项目说明，源码仓库栏未提供地址，尚未核验到完整公开实现。这是作者自建原型，不是 SharePoint 开箱功能；URL token 不能单独证明接收者身份，状态回写也不等于完整审计。本轮未在租户中复测。 |
+| 2026-10-27 | [Windows Autopatch：补丁发了，哪台真正装好？&#124; Which Devices Actually Updated?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/ZhpEzNN-8OQ.md) | 未核验到公开源码 | 从设备告警与准备度，核对质量更新的目标版本、已安装版本和生效策略。 尚未核验到本期演示的公开源码。GitHub 资料页补充微软官方报告文档；画面来自微软 2026 年 3 月和 7 月演示，不是本人租户实测或 10 月新界面。报告刷新有延迟，准备就绪不能当作安装完成；功能更新报告与每月质量更新需分别核对。 |
+| 2026-10-26 | [Copilot Studio 查到26个连接，就查完了？&#124; CLI + MCP](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/lW0L4Mgs6UM.md) | [Copilot Studio MCP · docs](https://github.com/microsoft/copilot-studio-mcp) · 相关参考资料，非整期源码 | 用 GitHub Copilot CLI 接入 Copilot Studio MCP，逐项检查身份、环境和连接查询结果。 链接为微软 Copilot Studio MCP 官方仓库；本次核对的 main 仅含 README 和管理文档，尚未核验到服务器实现源码。安装包和托管服务不等于公开源码；需工作账号及环境权限。26 个连接、7 个 Error 是作者演示中的助手摘要，不是本频道独立盘点；消耗读不到不能当零，本轮未连接租户。 |
+| 2026-10-26 | [OneDrive电脑满了别急着删：省空间、共享和找回文件 &#124; OneDrive Practical Guide: Space, Sharing and Recovery](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/529J4Chjg6o.md) | 未核验到公开源码 | 分清 OneDrive 释放空间与删除，再核对共享对象、访问权限和文件恢复入口。 这是微软产品操作教程，尚未核验到本期配套公开源码。GitHub 笔记保留官方按需文件与共享文档，不把通用 SDK 当作本期实现。释放本地空间保留云端文件，删除会同步影响其他位置；菜单与恢复能力依账号、订阅和组织设置而异，本轮未执行删除或恢复。 |
+| 2026-10-25 | [Cursor能操作手机，Claude会等任务：AI动手后谁验结果？ &#124; AI Acts—Who Checks?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/0ZJF_vmySVs.md) | [Microduck · 07:40](https://github.com/pollen-robotics/microduck) · 相关参考资料，非整期源码 | 沿 Cursor、Claude 与作品演示检查任务回执、人工确认和可验证的结果，再看 Microduck 的真实动作。 Microduck 仓库仅对应 07:40 起的机器人部分，不是整期源码。Cursor 手机操作、Claude 长任务及发动机、体素城市、海洋网页和直升机作品的完整配套源码尚未核验；不拿同类手机工具或通用 SDK 补位。作者耗时、模型名称与可视化读数保留归属，不作为本频道独立基准或工程模拟，本轮未测试机器人。 |
 | 2026-10-25 | [没刷机也没升级：我用 AI 给安卓5老电视换了个首页](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/1K3fVbbBeQg.md) | [DaLei TV Home](https://github.com/paul010/dalei-tvhome) · 公开源码 | Android 5+ 电视附加应用，公开源码与视频个人版分别说明。 |
 | 2026-10-25 | [Copilot Studio Agent 系列 05/05｜设备借用：确认登记、异常测试与交接](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/0di83rTyEow.md) | [Copilot Agent 5](https://github.com/paul010/gemini-kinetic-particles/tree/main/public/copilot-agent-course/materials/lesson-05) · 公开练习材料 | 虚构输入、Agent 说明、搭建步骤与测试表；不是可导入的解决方案。 |
 | 2026-10-25 | [Copilot Studio Agent 系列 04/05｜待办查询与提醒：查清单、跑定时、核对收件](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/aHIMOJ8ZCMA.md) | [Copilot Agent 4](https://github.com/paul010/gemini-kinetic-particles/tree/main/public/copilot-agent-course/materials/lesson-04) · 公开练习材料 | 虚构输入、Agent 说明、搭建步骤与测试表；不是可导入的解决方案。 |
