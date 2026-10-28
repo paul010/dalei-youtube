@@ -1,6 +1,6 @@
 # Copilot Studio 查到26个连接，就查完了？| CLI + MCP
 
-> **发布日期（北京时间）**：2026-10-26 | **时长**：10:03
+> **发布日期（北京时间）**：2026-10-26 | **时长**：10:04
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=lW0L4Mgs6UM)
 

@@ -1,6 +1,6 @@
 # AI便宜了，活能干好吗？12GB显卡与Agent的使用账 | Cheap AI, Real Work?
 
-> **发布日期（北京时间）**：2026-10-27 | **时长**：11:20
+> **发布日期（北京时间）**：2026-10-27 | **时长**：11:21
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=BXOIJDP6lBw)
 

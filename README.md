@@ -45,12 +45,12 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
-| 10-27 | [AI便宜了，活能干好吗？12GB显卡与Agent的使用账 &#124; Cheap AI, Real Work?](episodes/2026-10/BXOIJDP6lBw.md) | 11:20 |
-| 10-27 | [FlexPart：一张图生成3D部件，门能单独改吗？](episodes/2026-10/0bjp1kTeGpg.md) | 4:45 |
-| 10-27 | [GPT-6.1 Terra 便宜了：电脑里的哪一步值得先交给它？ &#124; What Comes Next?](episodes/2026-10/J83yWCsozIo.md) | 11:32 |
-| 10-27 | [SharePoint：文件发给客户，意见怎么回来？&#124; Document Handoff & Review](episodes/2026-10/7NWgQ8vDHlM.md) | 8:45 |
+| 10-27 | [AI便宜了，活能干好吗？12GB显卡与Agent的使用账 &#124; Cheap AI, Real Work?](episodes/2026-10/BXOIJDP6lBw.md) | 11:21 |
+| 10-27 | [FlexPart：一张图生成3D部件，门能单独改吗？](episodes/2026-10/0bjp1kTeGpg.md) | 4:46 |
+| 10-27 | [GPT-6.1 Terra 便宜了：电脑里的哪一步值得先交给它？ &#124; What Comes Next?](episodes/2026-10/J83yWCsozIo.md) | 11:33 |
+| 10-27 | [SharePoint：文件发给客户，意见怎么回来？&#124; Document Handoff & Review](episodes/2026-10/7NWgQ8vDHlM.md) | 8:46 |
 | 10-27 | [Windows Autopatch：补丁发了，哪台真正装好？&#124; Which Devices Actually Updated?](episodes/2026-10/ZhpEzNN-8OQ.md) | 8:32 |
-| 10-26 | [Copilot Studio 查到26个连接，就查完了？&#124; CLI + MCP](episodes/2026-10/lW0L4Mgs6UM.md) | 10:03 |
+| 10-26 | [Copilot Studio 查到26个连接，就查完了？&#124; CLI + MCP](episodes/2026-10/lW0L4Mgs6UM.md) | 10:04 |
 | 10-26 | [OneDrive电脑满了别急着删：省空间、共享和找回文件 &#124; OneDrive Practical Guide: Space, Sharing and Recovery](episodes/2026-10/529J4Chjg6o.md) | 10:34 |
 | 10-25 | [Cursor能操作手机，Claude会等任务：AI动手后谁验结果？ &#124; AI Acts—Who Checks?](episodes/2026-10/0ZJF_vmySVs.md) | 8:53 |
 | 10-25 | [Copilot Studio：Agent做好了，同事怎么接手？&#124; From Agent to Team Workflow](episodes/2026-10/2oqWZ539EqU.md) | 10:27 |

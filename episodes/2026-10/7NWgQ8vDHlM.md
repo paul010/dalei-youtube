@@ -1,6 +1,6 @@
 # SharePoint：文件发给客户，意见怎么回来？| Document Handoff & Review
 
-> **发布日期（北京时间）**：2026-10-27 | **时长**：8:45
+> **发布日期（北京时间）**：2026-10-27 | **时长**：8:46
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=7NWgQ8vDHlM)
 

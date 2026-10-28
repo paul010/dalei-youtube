@@ -1,6 +1,6 @@
 # GPT-6.1 Terra 便宜了：电脑里的哪一步值得先交给它？ | What Comes Next?
 
-> **发布日期（北京时间）**：2026-10-27 | **时长**：11:32
+> **发布日期（北京时间）**：2026-10-27 | **时长**：11:33
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=J83yWCsozIo)
 
