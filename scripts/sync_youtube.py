@@ -6,6 +6,7 @@ Existing editorial episode notes are never overwritten. All sources are
 validated before writing; failed fetches leave the published index intact.
 """
 import json
+import math
 import re
 import subprocess
 import xml.etree.ElementTree as ET
@@ -114,10 +115,26 @@ def parse_sources(xml, playlist, fetch_public_video=None, shorts_playlist=None, 
     return videos, excerpts
 
 
+def current_playlist_metadata(entry, published):
+    """Refresh display metadata from Videos; retain the verified publication time."""
+    result = dict(published)
+    title = entry.get("title")
+    if title is not None:
+        if not isinstance(title, str) or not title.strip():
+            raise ValueError("Invalid title in channel Videos source")
+        result["title"] = title.strip()
+    duration = entry.get("duration")
+    if duration is not None:
+        if isinstance(duration, bool) or not isinstance(duration, (int, float)) or not math.isfinite(duration) or duration <= 0:
+            raise ValueError("Invalid duration in channel Videos source")
+        result["duration"] = duration_label(duration)
+    return result
+
+
 def parse_playlist_fallback(playlist, shorts_playlist, previous_feed, fetch_public_video=None, limit=15):
     """Build a current feed from the channel's Videos tab when RSS is unavailable.
 
-    Reuse only entries from the already-published feed, and resolve every new
+    Reuse verified publication times, refresh listed titles/durations, and resolve every new
     playlist ID through yt-dlp so channel, availability, date and duration are
     checked before any repository files are written. Shorts are excluded by
     exact membership in the channel's Shorts tab, never by duration or title.
@@ -157,8 +174,10 @@ def parse_playlist_fallback(playlist, shorts_playlist, previous_feed, fetch_publ
             raise ValueError("Invalid video ID in channel Videos source")
         if video_id in shorts or video_id in seen:
             continue
+        if entry.get("availability") in {"subscriber_only", "premium_only", "private", "needs_auth"} or entry.get("live_status") in {"is_live", "is_upcoming"}:
+            continue
         if video_id in known:
-            videos.append(known[video_id])
+            videos.append(current_playlist_metadata(entry, known[video_id]))
             seen.add(video_id)
             if len(videos) >= limit:
                 break
@@ -179,9 +198,9 @@ def parse_playlist_fallback(playlist, shorts_playlist, previous_feed, fetch_publ
         if instant > datetime.now(timezone.utc):
             continue
         published = instant.isoformat(timespec="seconds")
-        videos.append({"id": video_id, "title": title, "publishedAt": published,
+        videos.append(current_playlist_metadata(entry, {"id": video_id, "title": title, "publishedAt": published,
                        "date": instant.astimezone(ZoneInfo("Asia/Shanghai")).date().isoformat(),
-                       "duration": duration_label(duration), "url": f"https://www.youtube.com/watch?v={video_id}"})
+                       "duration": duration_label(duration), "url": f"https://www.youtube.com/watch?v={video_id}"}))
         description = item.get("description", "")
         paragraphs = [p.strip() for p in description.split("\n\n") if p.strip()]
         excerpts[video_id] = next((p for p in paragraphs if "/join" not in p and "成为此频道的会员" not in p), "")

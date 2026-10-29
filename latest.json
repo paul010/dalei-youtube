@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-28T02:02:20+00:00",
+  "updatedAt": "2026-10-29T01:03:53+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "_8wy92-j878",
+      "title": "八款AI视频同题样片：人物、动作与道具，差在哪？ | AI Video Comparison",
+      "publishedAt": "2026-10-28T10:23:46+00:00",
+      "date": "2026-10-28",
+      "duration": "10:46",
+      "url": "https://www.youtube.com/watch?v=_8wy92-j878"
+    },
+    {
+      "id": "9vI1UNu4wZE",
+      "title": "Genie 4世界能改了？下雪、变猫、机器人模拟，下一步接得住吗 | Interactive AI Worlds",
+      "publishedAt": "2026-10-28T10:23:27+00:00",
+      "date": "2026-10-28",
+      "duration": "10:27",
+      "url": "https://www.youtube.com/watch?v=9vI1UNu4wZE"
+    },
+    {
+      "id": "_vF6XGQ3suE",
+      "title": "Atlas能上班了吗？从自主搬运到训练、手部与维修 | Atlas Goes to Work?",
+      "publishedAt": "2026-10-28T10:22:41+00:00",
+      "date": "2026-10-28",
+      "duration": "9:47",
+      "url": "https://www.youtube.com/watch?v=_vF6XGQ3suE"
+    },
     {
       "id": "BXOIJDP6lBw",
       "title": "AI便宜了，活能干好吗？12GB显卡与Agent的使用账 | Cheap AI, Real Work?",
@@ -100,30 +124,6 @@
       "date": "2026-10-25",
       "duration": "10:44",
       "url": "https://www.youtube.com/watch?v=0di83rTyEow"
-    },
-    {
-      "id": "aHIMOJ8ZCMA",
-      "title": "Copilot Studio Agent 系列 04/05｜待办查询与提醒：查清单、跑定时、核对收件",
-      "publishedAt": "2026-10-25T01:56:00+00:00",
-      "date": "2026-10-25",
-      "duration": "12:16",
-      "url": "https://www.youtube.com/watch?v=aHIMOJ8ZCMA"
-    },
-    {
-      "id": "T-KbmUbzCOM",
-      "title": "Copilot Studio Agent 系列 03/05｜办公申请确认后写入清单，返回真实编号",
-      "publishedAt": "2026-10-25T01:55:44+00:00",
-      "date": "2026-10-25",
-      "duration": "9:23",
-      "url": "https://www.youtube.com/watch?v=T-KbmUbzCOM"
-    },
-    {
-      "id": "JPLZ_PTLLxY",
-      "title": "Copilot Studio Agent 系列 02/05｜用 Agent Builder 把会议记录整理成行动清单（配乐版）",
-      "publishedAt": "2026-10-25T01:55:12+00:00",
-      "date": "2026-10-25",
-      "duration": "8:02",
-      "url": "https://www.youtube.com/watch?v=JPLZ_PTLLxY"
     }
   ]
 }

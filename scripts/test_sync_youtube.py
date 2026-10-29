@@ -172,7 +172,7 @@ class SyncTests(unittest.TestCase):
             for i in range(14)
         ]}
         playlist = {"id": CHANNEL_ID, "channel_id": CHANNEL_ID, "entries": [
-            {"id": "newvideo001"}, {"id": "shortvid001"}, {"id": "newvideo002"},
+            {"id": "newvideo001", "title": "Current listed title", "duration": 551}, {"id": "shortvid001"}, {"id": "newvideo002"},
             {"id": "newvideo003"}, *[{"id": f"oldvideo{i:03d}"} for i in range(12)],
         ]}
         shorts = {"id": CHANNEL_ID, "channel_id": CHANNEL_ID,
@@ -199,6 +199,50 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(calls, ["newvideo001", "newvideo002", "newvideo003"])
         self.assertEqual(rows[0]["date"], "2026-10-13")
         self.assertEqual(excerpts["newvideo001"], "节目简介")
+        self.assertEqual(rows[0]["title"], "Current listed title")
+        self.assertEqual(rows[0]["duration"], "9:11")
+
+    def fallback_shorts(self):
+        return {"id": CHANNEL_ID, "channel_id": CHANNEL_ID, "entries": []}
+
+    def fallback_fixture(self):
+        rows = [{"id": f"oldvideo{i:03d}", "title": f"old title {i}",
+                 "publishedAt": "2026-10-10T10:00:00+00:00", "date": "2026-10-10",
+                 "duration": "7:18", "url": f"https://www.youtube.com/watch?v=oldvideo{i:03d}"}
+                for i in range(7)]
+        playlist = {"id": CHANNEL_ID, "channel_id": CHANNEL_ID,
+                    "entries": [{"id": row["id"]} for row in rows]}
+        return playlist, {"videos": rows}
+
+    def test_fallback_refreshes_known_titles_and_durations_without_changing_dates(self):
+        playlist, previous = self.fallback_fixture()
+        playlist["entries"][0].update(title="Updated public title", duration=527)
+        rows, _ = parse_playlist_fallback(playlist, self.fallback_shorts(), previous,
+                                          lambda _: self.fail("Known dates need no direct request"))
+        self.assertEqual(rows[0]["title"], "Updated public title")
+        self.assertEqual(rows[0]["duration"], "8:47")
+        self.assertEqual(rows[0]["publishedAt"], previous["videos"][0]["publishedAt"])
+        self.assertEqual(previous["videos"][0]["title"], "old title 0")
+        page = "# Old title\n\n> **发布日期（北京时间）**：2026-10-10 | **时长**：7:18\n\nManual notes stay here.\n"
+        updated = update_episode_metadata(page, rows[0])
+        self.assertIn("# Updated public title", updated)
+        self.assertIn("Manual notes stay here.", updated)
+
+    def test_fallback_invalid_listed_metadata_fails_closed(self):
+        for change in [{"title": " "}, {"title": 123}, {"duration": 0},
+                       {"duration": float("nan")}, {"duration": True}]:
+            playlist, previous = self.fallback_fixture()
+            playlist["entries"][0].update(change)
+            with self.assertRaisesRegex(ValueError, "Invalid (title|duration)"):
+                parse_playlist_fallback(playlist, self.fallback_shorts(), previous)
+
+    def test_fallback_excludes_known_members_and_upcoming_items(self):
+        for change in [{"availability": "subscriber_only"}, {"live_status": "is_upcoming"}]:
+            playlist, previous = self.fallback_fixture()
+            playlist["entries"][0].update(change)
+            rows, _ = parse_playlist_fallback(playlist, self.fallback_shorts(), previous)
+            self.assertEqual(len(rows), 6)
+            self.assertNotIn("oldvideo000", [row["id"] for row in rows])
 
     def test_playlist_fallback_rejects_incomplete_shorts_or_wrong_channel(self):
         playlist = {"id": CHANNEL_ID, "channel_id": CHANNEL_ID, "entries": []}

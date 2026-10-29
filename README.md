@@ -45,6 +45,9 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-28 | [八款AI视频同题样片：人物、动作与道具，差在哪？ &#124; AI Video Comparison](episodes/2026-10/_8wy92-j878.md) | 10:46 |
+| 10-28 | [Genie 4世界能改了？下雪、变猫、机器人模拟，下一步接得住吗 &#124; Interactive AI Worlds](episodes/2026-10/9vI1UNu4wZE.md) | 10:27 |
+| 10-28 | [Atlas能上班了吗？从自主搬运到训练、手部与维修 &#124; Atlas Goes to Work?](episodes/2026-10/_vF6XGQ3suE.md) | 9:47 |
 | 10-27 | [AI便宜了，活能干好吗？12GB显卡与Agent的使用账 &#124; Cheap AI, Real Work?](episodes/2026-10/BXOIJDP6lBw.md) | 11:21 |
 | 10-27 | [FlexPart：一张图生成3D部件，门能单独改吗？](episodes/2026-10/0bjp1kTeGpg.md) | 4:46 |
 | 10-27 | [GPT-6.1 Terra 便宜了：电脑里的哪一步值得先交给它？ &#124; What Comes Next?](episodes/2026-10/J83yWCsozIo.md) | 11:33 |
