@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-29T01:57:56+00:00",
+  "updatedAt": "2026-10-30T00:58:19+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "Ph4EeVc07VM",
+      "title": "AI会动了，下一步呢？NVIDIA、ChatGPT与Claude四个案例 | AI’s Next Step",
+      "publishedAt": "2026-10-30T00:32:34+00:00",
+      "date": "2026-10-30",
+      "duration": "9:20",
+      "url": "https://www.youtube.com/watch?v=Ph4EeVc07VM"
+    },
+    {
+      "id": "AERIqiddcSg",
+      "title": "Claude做科研，进展到底在哪？三项研发案例与OpenAI研究 | AI Research",
+      "publishedAt": "2026-10-29T23:51:41+00:00",
+      "date": "2026-10-30",
+      "duration": "10:25",
+      "url": "https://www.youtube.com/watch?v=AERIqiddcSg"
+    },
     {
       "id": "pip86wUfP8g",
       "title": "Gemini 4 Carbon总榜第一，代码也赢了吗？| Coding & Cost",
@@ -47,7 +63,7 @@
     },
     {
       "id": "0bjp1kTeGpg",
-      "title": "AI把模型拆开，就能少返工？读 FlexPart 先算这几笔账",
+      "title": "FlexPart：一张图生成3D部件，门能单独改吗？",
       "publishedAt": "2026-10-27T07:46:40+00:00",
       "date": "2026-10-27",
       "duration": "4:46",
@@ -108,22 +124,6 @@
       "date": "2026-10-25",
       "duration": "10:27",
       "url": "https://www.youtube.com/watch?v=2oqWZ539EqU"
-    },
-    {
-      "id": "VCFSe0UCi5M",
-      "title": "微软 Skill Recorder：录一遍，AI就会了吗？| Record Once, Reuse a Skill?",
-      "publishedAt": "2026-10-25T07:06:49+00:00",
-      "date": "2026-10-25",
-      "duration": "10:05",
-      "url": "https://www.youtube.com/watch?v=VCFSe0UCi5M"
-    },
-    {
-      "id": "1K3fVbbBeQg",
-      "title": "没刷机也没升级：我用 AI 给安卓5老电视换了个首页",
-      "publishedAt": "2026-10-25T01:56:41+00:00",
-      "date": "2026-10-25",
-      "duration": "3:53",
-      "url": "https://www.youtube.com/watch?v=1K3fVbbBeQg"
     }
   ]
 }
