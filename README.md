@@ -52,7 +52,7 @@
 | 10-28 | [Genie 4世界能改了？下雪、变猫、机器人模拟，下一步接得住吗 &#124; Interactive AI Worlds](episodes/2026-10/9vI1UNu4wZE.md) | 10:27 |
 | 10-28 | [Atlas能上班了吗？从自主搬运到训练、手部与维修 &#124; Atlas Goes to Work?](episodes/2026-10/_vF6XGQ3suE.md) | 9:47 |
 | 10-27 | [AI便宜了，活能干好吗？12GB显卡与Agent的使用账 &#124; Cheap AI, Real Work?](episodes/2026-10/BXOIJDP6lBw.md) | 11:21 |
-| 10-27 | [FlexPart：一张图生成3D部件，门能单独改吗？](episodes/2026-10/0bjp1kTeGpg.md) | 4:46 |
+| 10-27 | [屋顶、门、主体真的分开了：FlexPart 作者结果怎么看](episodes/2026-10/0bjp1kTeGpg.md) | 4:46 |
 | 10-27 | [GPT-6.1 Terra 便宜了：电脑里的哪一步值得先交给它？ &#124; What Comes Next?](episodes/2026-10/J83yWCsozIo.md) | 11:33 |
 | 10-27 | [SharePoint：文件发给客户，意见怎么回来？&#124; Document Handoff & Review](episodes/2026-10/7NWgQ8vDHlM.md) | 8:46 |
 | 10-27 | [Windows Autopatch：补丁发了，哪台真正装好？&#124; Which Devices Actually Updated?](episodes/2026-10/ZhpEzNN-8OQ.md) | 8:32 |
