@@ -45,6 +45,9 @@
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-30 | [ChatGPT 接上 iCloud：找邮件、排日程，哪些还要自己确认？｜iCloud Mail & Calendar](episodes/2026-10/q7_31eHzrfc.md) | 9:55 |
+| 10-30 | [AI帮你搭好Copilot Studio助手，怎么判断真的做成了？｜MCP Movie Night Concierge](episodes/2026-10/F5P1vUawBPo.md) | 10:24 |
+| 10-30 | [Copilot 会选模型了，任务能交付吗？ &#124; Fusion & Foundry](episodes/2026-10/gagYrl5N6bI.md) | 9:20 |
 | 10-30 | [AI会动了，下一步呢？NVIDIA、ChatGPT与Claude四个案例 &#124; AI’s Next Step](episodes/2026-10/Ph4EeVc07VM.md) | 9:20 |
 | 10-30 | [Claude做科研，进展到底在哪？三项研发案例与OpenAI研究 &#124; AI Research](episodes/2026-10/AERIqiddcSg.md) | 10:25 |
 | 10-29 | [Gemini 4 Carbon总榜第一，代码也赢了吗？&#124; Coding & Cost](episodes/2026-10/pip86wUfP8g.md) | 12:09 |
@@ -52,7 +55,7 @@
 | 10-28 | [Genie 4世界能改了？下雪、变猫、机器人模拟，下一步接得住吗 &#124; Interactive AI Worlds](episodes/2026-10/9vI1UNu4wZE.md) | 10:27 |
 | 10-28 | [Atlas能上班了吗？从自主搬运到训练、手部与维修 &#124; Atlas Goes to Work?](episodes/2026-10/_vF6XGQ3suE.md) | 9:47 |
 | 10-27 | [AI便宜了，活能干好吗？12GB显卡与Agent的使用账 &#124; Cheap AI, Real Work?](episodes/2026-10/BXOIJDP6lBw.md) | 11:21 |
-| 10-27 | [屋顶、门、主体真的分开了：FlexPart 作者结果怎么看](episodes/2026-10/0bjp1kTeGpg.md) | 4:46 |
+| 10-27 | [AI把模型拆开，就能少返工？读 FlexPart 先算这几笔账](episodes/2026-10/0bjp1kTeGpg.md) | 4:46 |
 | 10-27 | [GPT-6.1 Terra 便宜了：电脑里的哪一步值得先交给它？ &#124; What Comes Next?](episodes/2026-10/J83yWCsozIo.md) | 11:33 |
 | 10-27 | [SharePoint：文件发给客户，意见怎么回来？&#124; Document Handoff & Review](episodes/2026-10/7NWgQ8vDHlM.md) | 8:46 |
 | 10-27 | [Windows Autopatch：补丁发了，哪台真正装好？&#124; Which Devices Actually Updated?](episodes/2026-10/ZhpEzNN-8OQ.md) | 8:32 |

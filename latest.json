@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-30T01:59:50+00:00",
+  "updatedAt": "2026-10-31T01:01:32+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "q7_31eHzrfc",
+      "title": "ChatGPT 接上 iCloud：找邮件、排日程，哪些还要自己确认？｜iCloud Mail & Calendar",
+      "publishedAt": "2026-10-30T02:50:20+00:00",
+      "date": "2026-10-30",
+      "duration": "9:55",
+      "url": "https://www.youtube.com/watch?v=q7_31eHzrfc"
+    },
+    {
+      "id": "F5P1vUawBPo",
+      "title": "AI帮你搭好Copilot Studio助手，怎么判断真的做成了？｜MCP Movie Night Concierge",
+      "publishedAt": "2026-10-30T02:50:16+00:00",
+      "date": "2026-10-30",
+      "duration": "10:24",
+      "url": "https://www.youtube.com/watch?v=F5P1vUawBPo"
+    },
+    {
+      "id": "gagYrl5N6bI",
+      "title": "Copilot 会选模型了，任务能交付吗？ | Fusion & Foundry",
+      "publishedAt": "2026-10-30T02:49:41+00:00",
+      "date": "2026-10-30",
+      "duration": "9:20",
+      "url": "https://www.youtube.com/watch?v=gagYrl5N6bI"
+    },
     {
       "id": "Ph4EeVc07VM",
       "title": "AI会动了，下一步呢？NVIDIA、ChatGPT与Claude四个案例 | AI’s Next Step",
@@ -63,7 +87,7 @@
     },
     {
       "id": "0bjp1kTeGpg",
-      "title": "屋顶、门、主体真的分开了：FlexPart 作者结果怎么看",
+      "title": "AI把模型拆开，就能少返工？读 FlexPart 先算这几笔账",
       "publishedAt": "2026-10-27T07:46:40+00:00",
       "date": "2026-10-27",
       "duration": "4:46",
@@ -100,30 +124,6 @@
       "date": "2026-10-26",
       "duration": "10:04",
       "url": "https://www.youtube.com/watch?v=lW0L4Mgs6UM"
-    },
-    {
-      "id": "529J4Chjg6o",
-      "title": "OneDrive电脑满了别急着删：省空间、共享和找回文件 | OneDrive Practical Guide: Space, Sharing and Recovery",
-      "publishedAt": "2026-10-26T00:16:17+00:00",
-      "date": "2026-10-26",
-      "duration": "10:34",
-      "url": "https://www.youtube.com/watch?v=529J4Chjg6o"
-    },
-    {
-      "id": "0ZJF_vmySVs",
-      "title": "Cursor能操作手机，Claude会等任务：AI动手后谁验结果？ | AI Acts—Who Checks?",
-      "publishedAt": "2026-10-25T11:45:44+00:00",
-      "date": "2026-10-25",
-      "duration": "8:53",
-      "url": "https://www.youtube.com/watch?v=0ZJF_vmySVs"
-    },
-    {
-      "id": "2oqWZ539EqU",
-      "title": "Copilot Studio：Agent做好了，同事怎么接手？| From Agent to Team Workflow",
-      "publishedAt": "2026-10-25T08:22:56+00:00",
-      "date": "2026-10-25",
-      "duration": "10:27",
-      "url": "https://www.youtube.com/watch?v=2oqWZ539EqU"
     }
   ]
 }
