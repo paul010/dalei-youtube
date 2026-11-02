@@ -2,9 +2,65 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-10-31T01:01:32+00:00",
+  "updatedAt": "2026-11-02T01:03:39+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "SN0XcteDG3I",
+      "title": "AI 做出來了，真的能用嗎？從真機到 Agent 的實作筆記",
+      "publishedAt": "2026-11-01T23:07:53+00:00",
+      "date": "2026-11-02",
+      "duration": "15:22",
+      "url": "https://www.youtube.com/watch?v=SN0XcteDG3I"
+    },
+    {
+      "id": "Wz5_DeM1Tbg",
+      "title": "AI作品很惊艳，然后呢？｜Carbon & Fable: What Comes Next?",
+      "publishedAt": "2026-11-01T08:45:01+00:00",
+      "date": "2026-11-01",
+      "duration": "9:20",
+      "url": "https://www.youtube.com/watch?v=Wz5_DeM1Tbg"
+    },
+    {
+      "id": "MC1DsyqeEWk",
+      "title": "8款AI视频同题对比：好看之后，动作能用吗？ | AI Video Comparison",
+      "publishedAt": "2026-10-31T13:26:38+00:00",
+      "date": "2026-10-31",
+      "duration": "8:32",
+      "url": "https://www.youtube.com/watch?v=MC1DsyqeEWk"
+    },
+    {
+      "id": "SLNr8w1dc2g",
+      "title": "今年换个方式，用 AI 回看这一年｜FY26：开源实践、志愿服务与生活",
+      "publishedAt": "2026-10-31T12:22:01+00:00",
+      "date": "2026-10-31",
+      "duration": "10:47",
+      "url": "https://www.youtube.com/watch?v=SLNr8w1dc2g"
+    },
+    {
+      "id": "hj6ViaC3Ogo",
+      "title": "AI帮上忙的那一刻：一句问候，一通电话｜Neuralink & Assistive AI Stories",
+      "publishedAt": "2026-10-31T08:36:44+00:00",
+      "date": "2026-10-31",
+      "duration": "8:32",
+      "url": "https://www.youtube.com/watch?v=hj6ViaC3Ogo"
+    },
+    {
+      "id": "A6ZX6VbDp5s",
+      "title": "AI长对话越压越短，关键要求还在吗？｜billion-context 资料解读",
+      "publishedAt": "2026-10-31T06:49:51+00:00",
+      "date": "2026-10-31",
+      "duration": "3:06",
+      "url": "https://www.youtube.com/watch?v=A6ZX6VbDp5s"
+    },
+    {
+      "id": "sog92lIhKkw",
+      "title": "Copilot让PPT能点了，接手后怎么改？｜Interactive Slides & Auto",
+      "publishedAt": "2026-10-31T06:49:26+00:00",
+      "date": "2026-10-31",
+      "duration": "9:54",
+      "url": "https://www.youtube.com/watch?v=sog92lIhKkw"
+    },
     {
       "id": "q7_31eHzrfc",
       "title": "ChatGPT 接上 iCloud：找邮件、排日程，哪些还要自己确认？｜iCloud Mail & Calendar",
@@ -68,62 +124,6 @@
       "date": "2026-10-28",
       "duration": "10:27",
       "url": "https://www.youtube.com/watch?v=9vI1UNu4wZE"
-    },
-    {
-      "id": "_vF6XGQ3suE",
-      "title": "Atlas能上班了吗？从自主搬运到训练、手部与维修 | Atlas Goes to Work?",
-      "publishedAt": "2026-10-28T10:22:41+00:00",
-      "date": "2026-10-28",
-      "duration": "9:47",
-      "url": "https://www.youtube.com/watch?v=_vF6XGQ3suE"
-    },
-    {
-      "id": "BXOIJDP6lBw",
-      "title": "AI便宜了，活能干好吗？12GB显卡与Agent的使用账 | Cheap AI, Real Work?",
-      "publishedAt": "2026-10-27T13:19:13+00:00",
-      "date": "2026-10-27",
-      "duration": "11:21",
-      "url": "https://www.youtube.com/watch?v=BXOIJDP6lBw"
-    },
-    {
-      "id": "0bjp1kTeGpg",
-      "title": "AI把模型拆开，就能少返工？读 FlexPart 先算这几笔账",
-      "publishedAt": "2026-10-27T07:46:40+00:00",
-      "date": "2026-10-27",
-      "duration": "4:46",
-      "url": "https://www.youtube.com/watch?v=0bjp1kTeGpg"
-    },
-    {
-      "id": "J83yWCsozIo",
-      "title": "GPT-6.1 Terra 便宜了：电脑里的哪一步值得先交给它？ | What Comes Next?",
-      "publishedAt": "2026-10-27T07:37:27+00:00",
-      "date": "2026-10-27",
-      "duration": "11:33",
-      "url": "https://www.youtube.com/watch?v=J83yWCsozIo"
-    },
-    {
-      "id": "7NWgQ8vDHlM",
-      "title": "SharePoint：文件发给客户，意见怎么回来？| Document Handoff & Review",
-      "publishedAt": "2026-10-27T00:02:40+00:00",
-      "date": "2026-10-27",
-      "duration": "8:46",
-      "url": "https://www.youtube.com/watch?v=7NWgQ8vDHlM"
-    },
-    {
-      "id": "ZhpEzNN-8OQ",
-      "title": "Windows Autopatch：补丁发了，哪台真正装好？| Which Devices Actually Updated?",
-      "publishedAt": "2026-10-27T00:02:26+00:00",
-      "date": "2026-10-27",
-      "duration": "8:32",
-      "url": "https://www.youtube.com/watch?v=ZhpEzNN-8OQ"
-    },
-    {
-      "id": "lW0L4Mgs6UM",
-      "title": "Copilot Studio 查到26个连接，就查完了？| CLI + MCP",
-      "publishedAt": "2026-10-26T12:11:49+00:00",
-      "date": "2026-10-26",
-      "duration": "10:04",
-      "url": "https://www.youtube.com/watch?v=lW0L4Mgs6UM"
     }
   ]
 }

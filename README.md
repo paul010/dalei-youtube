@@ -42,9 +42,20 @@
 
 ### 2026
 
+#### 11月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 11-02 | [AI 做出來了，真的能用嗎？從真機到 Agent 的實作筆記](episodes/2026-11/SN0XcteDG3I.md) | 15:22 |
+| 11-01 | [AI作品很惊艳，然后呢？｜Carbon & Fable: What Comes Next?](episodes/2026-11/Wz5_DeM1Tbg.md) | 9:20 |
+
 #### 10月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 10-31 | [8款AI视频同题对比：好看之后，动作能用吗？ &#124; AI Video Comparison](episodes/2026-10/MC1DsyqeEWk.md) | 8:32 |
+| 10-31 | [今年换个方式，用 AI 回看这一年｜FY26：开源实践、志愿服务与生活](episodes/2026-10/SLNr8w1dc2g.md) | 10:47 |
+| 10-31 | [AI帮上忙的那一刻：一句问候，一通电话｜Neuralink & Assistive AI Stories](episodes/2026-10/hj6ViaC3Ogo.md) | 8:32 |
+| 10-31 | [AI长对话越压越短，关键要求还在吗？｜billion-context 资料解读](episodes/2026-10/A6ZX6VbDp5s.md) | 3:06 |
+| 10-31 | [Copilot让PPT能点了，接手后怎么改？｜Interactive Slides & Auto](episodes/2026-10/sog92lIhKkw.md) | 9:54 |
 | 10-30 | [ChatGPT 接上 iCloud：找邮件、排日程，哪些还要自己确认？｜iCloud Mail & Calendar](episodes/2026-10/q7_31eHzrfc.md) | 9:55 |
 | 10-30 | [AI帮你搭好Copilot Studio助手，怎么判断真的做成了？｜MCP Movie Night Concierge](episodes/2026-10/F5P1vUawBPo.md) | 10:24 |
 | 10-30 | [Copilot 会选模型了，任务能交付吗？ &#124; Fusion & Foundry](episodes/2026-10/gagYrl5N6bI.md) | 9:20 |
