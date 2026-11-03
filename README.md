@@ -45,6 +45,7 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-03 | [AI 初稿很快，返工誰來？把驗收、交接與人的時間算清楚](episodes/2026-11/_teASemp6kQ.md) | 7:42 |
 | 11-02 | [AI 做出來了，真的能用嗎？從真機到 Agent 的實作筆記](episodes/2026-11/SN0XcteDG3I.md) | 15:22 |
 | 11-01 | [AI作品很惊艳，然后呢？｜Carbon & Fable: What Comes Next?](episodes/2026-11/Wz5_DeM1Tbg.md) | 9:20 |
 

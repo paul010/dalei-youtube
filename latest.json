@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-02T01:03:39+00:00",
+  "updatedAt": "2026-11-03T01:02:25+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "_teASemp6kQ",
+      "title": "AI 初稿很快，返工誰來？把驗收、交接與人的時間算清楚",
+      "publishedAt": "2026-11-02T23:14:21+00:00",
+      "date": "2026-11-03",
+      "duration": "7:42",
+      "url": "https://www.youtube.com/watch?v=_teASemp6kQ"
+    },
     {
       "id": "SN0XcteDG3I",
       "title": "AI 做出來了，真的能用嗎？從真機到 Agent 的實作筆記",
@@ -116,14 +124,6 @@
       "date": "2026-10-28",
       "duration": "10:46",
       "url": "https://www.youtube.com/watch?v=_8wy92-j878"
-    },
-    {
-      "id": "9vI1UNu4wZE",
-      "title": "Genie 4世界能改了？下雪、变猫、机器人模拟，下一步接得住吗 | Interactive AI Worlds",
-      "publishedAt": "2026-10-28T10:23:27+00:00",
-      "date": "2026-10-28",
-      "duration": "10:27",
-      "url": "https://www.youtube.com/watch?v=9vI1UNu4wZE"
     }
   ]
 }
