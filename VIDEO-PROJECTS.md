@@ -2,7 +2,7 @@
 
 最近补充核对：2026-11-03；此前批次核验日期保留在各期资料中。第一批逐一公开读取了 29 期节目元数据，并核对有项目入口的 README。公开视频与当前上游项目分别看待；没有确认到源码的标为「未核验到公开源码」，不表示已经证明源码不存在。
 
-累计已核对 89 期。2026-11-03 补充五期较早节目的资料与源码状态；2026-10-28 的八期近期节目和此前三批条目均保留，剩余 315 期记录在 resources/review-progress.json。
+累计已核对 94 期。2026-11-03 补充五期较早节目的资料与源码状态；此前归档条目均保留，剩余 310 期记录在 resources/review-progress.json。
 
 本页是经核对的精选资料目录，不是全部历史节目的完整源码清单。会员节目和本次无法公开读取的节目未加入推荐。原始笔记保持在各节目页。
 
@@ -36,11 +36,16 @@
 | 2026-10-22 | [作者花20分钟做个柑橘，值吗？&#124; AI Demos: What Comes Next?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/ns1H0s3HQms.md) | 未核验到公开源码 | 提供本期公开简介与来源，不把产品介绍或生成演示当作已开源项目。 |
 | 2026-10-22 | [AI报告做完，想改一句怎么办？OneDrive + Copilot &#124; Edit, Collaborate & Share](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/Iwlyw6DOCKo.md) | 未核验到公开源码 | 提供本期公开简介与来源，不把产品介绍或生成演示当作已开源项目。 |
 | 2026-10-22 | [公司资料，AI怎么找？微软 Work IQ Retrieve 解读 &#124; Work IQ Retrieve Explained](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/KRxkcrDIUM4.md) | 未核验到公开源码 | 提供本期公开简介与来源，不把产品介绍或生成演示当作已开源项目。 |
+| 2026-10-11 | [AI做完第一版，谁来接手？Qwen、Codex与Claude &#124; After the First Draft](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/J3ArB8f0FRY.md) | 未核验到公开源码 | 沿 Qwen、Decision-1、Codex 与 Claude 的公开演示看生成后的修改、交接和验收。未核验到演示工程的公开源码；手柄图的模型身份仍有疑问，本频道未做同条件测试。 |
 | 2026-10-10 | [方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 &#124; Playable AI Worlds & Model Rumors](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/zD2SmtS2nwM.md) | 未核验到公开源码 | 跟着作者公开视频观察可操作的方块世界，再把作品展示与模型消息分开核对。Fable 5.5 是作者标注；未核验到对应 GitHub 源码。Carbon 为媒体报道，Argon 开放范围以 Google 公告为准。 |
 | 2026-10-10 | [AI不只聊天了：Gemini接任务，GPT做交互，Claude改动画 &#124; Beyond Chat: AI at Work](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/bYrdISLj87Q.md) | 未核验到公开源码 | 对照 Gemini、GPT 与 Claude 的公开演示，查看任务接续、交互与动画修改。频道简介没有给出演示工程的 GitHub 仓库；本轮未核验到对应公开源码。 |
+| 2026-10-09 | [AI会写代码，缺的资料谁来补？Claude Code、Google和OpenAI演示解读 &#124; Beyond Code](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/CZdgs_pW3VM.md) | 未核验到公开源码 | 比较 Context.dev 资料补充、Google 本地媒体检索和 OpenAI 表单分类。未核验到演示配套源码；资料补充为商业合作演示，候选检索仍需人工确认，分类也不等于已完成跟进。 |
 | 2026-10-08 | [AI会干活了？Claude Code、OpenAI与Mistral演示 &#124; AI That Gets Work Done?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/ciKsq4x5LoU.md) | [OpenAI Math](https://github.com/openai/math) · 相关参考资料，非演示源码 | 从 Context.dev 产品演示观察资料采集与来源记录。openai/math 仅包含数学手稿与证明资料，不实现该演示；本期配套源码未核验到。 |
+| 2026-10-08 | [AI能动手了，哪步真省钱？GPT-6、Windows本地模型与Haiku 5.5 &#124; AI News & Analysis](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/P0ETYHP2IWg.md) | 未核验到公开源码 | 比较交互回答、本地推理、实验会议助手与小模型分工。未核验到公开源码；鸡蛋保护为模拟，三维电机为可视化，选款未展示付款完成。 |
 | 2026-10-07 | [Copilot Studio把邮件接成流程：AI先审，人再批准 &#124; From Email to Approval](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/iZ3E_5E9P9M.md) | 未核验到公开源码 | 沿微软公开演示检查投标邮件建议与人工批准步骤；没有核验到对应流程的公开 GitHub 实现。 |
+| 2026-10-07 | [AI作品做出来，就能接着用？从宝塔游戏到Codex &#124; Beyond the Demo](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/FQf9gjl29fo.md) | 未核验到公开源码 | 对照创作者作品与 Codex 相关说法。未核验到配套公开源码；模型归属与生成时间是作者说法，桌面游戏为前端模拟，不作为完整可玩工程。 |
 | 2026-10-06 | [GPT-Next是谁？先看宝塔，再看Codex提速 &#124; Demos & Codex](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/jNVKo0KqgvE.md) | 未核验到公开源码 | 分开记录 GPT-Next 标签、Codex 提速与 dots 邮件演示。未核验到配套公开源码；约 50% TPS 和 28 天承诺来自作者表述，不是独立测速，展示作品的模型身份未确认。 |
+| 2026-10-06 | [Copilot做完第一版，还能接着改吗？ &#124; Copilot Beyond the First Draft: Can It Keep Editing?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/SXPqpNd5r8s.md) | 未核验到公开源码 | 检查 Copilot 的幻灯片、仪表盘、Planner 和 Excel 演示。未核验到配套公开源码；虚构计划、修改记录和预览画面不代表真实运行十四天、恢复成功或普遍可用。 |
 | 2026-10-05 | [一张图走进3D，AI开始造整片世界｜3D AI News](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/l5WtsClxLs4.md) | [Image Blaster](https://github.com/neilsonnn/image-blaster) · 公开项目源码；[Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) · 论文/项目页参考，非实现源码 | Image Blaster 仓库含对应工作流的公开实现；WorldClaw 仓库提供论文、项目页和配图，本次未见实现代码，列作参考。Atlas 对应 World Labs 官方文章。本期未自行复测速度或精度。 |
 | 2026-10-03 | [MiniMax M3.1：游戏真能玩？从射击到桌面 &#124; Can AI Build a Playable Game?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/d3Oi1cfNykI.md) | 未核验到公开源码 | 检查射击游戏的菜单、武器切换、碰撞和桌面演示。简介将桌面版本标为前端模拟；本轮未核验到配套公开源码。 |
 | 2026-10-03 | [Copilot 别只聊天：从资料到专用助手 &#124; Copilot: From Notes to Agents](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/eVsTR91Za7s.md) | 未核验到公开源码 | 从读资料、整理项目到新人助手与工作流比较 Copilot 入口；产品文档不等于视频示例源码，本轮未核验到对应项目。 |
