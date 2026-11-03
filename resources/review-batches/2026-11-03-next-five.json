@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "batch": "next-five-2026-11-03",
+  "checkedOn": "2026-11-03",
+  "scope": "Five next public archive episodes. Public title, publication date and duration were checked against public YouTube metadata. Each source link is distinguished from a matching implementation; no videos or login cookies were used.",
+  "records": [
+    {
+      "id": "bYrdISLj87Q",
+      "title": "AI不只聊天了：Gemini接任务，GPT做交互，Claude改动画 | Beyond Chat: AI at Work",
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-09T23:57:35+00:00",
+      "duration": "8:32",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/bYrdISLj87Q.md",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "source-unverified",
+      "project": null,
+      "summary": {
+        "zh": "沿 Gemini、GPT 和 Claude 的公开展示，观察 AI 接任务、进行交互和修改动画的不同环节。",
+        "en": "Follow public Gemini, GPT and Claude demos across task handoff, interaction and animation editing."
+      },
+      "scope": {
+        "zh": "公开视频简介没有给出这些演示的 GitHub 仓库；本次未核验到对应公开源码。产品展示与模型消息不等于可下载、可运行的演示工程。",
+        "en": "The public video description does not name GitHub repositories for these demos; no matching public source was verified in this review. Product demonstrations and model announcements are not downloadable, runnable demo projects."
+      },
+      "reference": false,
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=bYrdISLj87Q"
+      ],
+      "repositoryEvidence": "The public description provides product/demo references but no matching episode GitHub repository; no corresponding public implementation was verified in this batch."
+    },
+    {
+      "id": "ciKsq4x5LoU",
+      "title": "AI会干活了？Claude Code、OpenAI与Mistral演示 | AI That Gets Work Done?",
+      "date": "2026-10-08",
+      "publishedAt": "2026-10-07T22:01:39+00:00",
+      "duration": "8:37",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/ciKsq4x5LoU.md",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "reference",
+      "project": {
+        "name": "OpenAI Math",
+        "url": "https://github.com/openai/math",
+        "kind": "reference"
+      },
+      "summary": {
+        "zh": "从 Context.dev 的产品演示看资料采集、未找到目标时的处理，以及如何把来源留在表格里。",
+        "en": "Review Context.dev’s product demo for research, handling missing contacts and keeping sources in a spreadsheet."
+      },
+      "scope": {
+        "zh": "本期演示的配套源码未核验到。说明中出现的 openai/math 仅对应数学手稿与证明资料，不实现 Context.dev 的线索整理演示；这里只作为相关参考链接。",
+        "en": "No matching source was verified for the episode’s demo. The linked openai/math repository contains mathematical manuscripts and proof artifacts; it does not implement the Context.dev lead-research demo and is listed only as a related reference."
+      },
+      "reference": false,
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=ciKsq4x5LoU",
+        "https://github.com/openai/math"
+      ],
+      "repositoryEvidence": "The public description links openai/math, but that repository contains mathematical manuscripts and proof artifacts, not the Context.dev lead-research demo. No matching demo source was verified."
+    },
+    {
+      "id": "iZ3E_5E9P9M",
+      "title": "Copilot Studio把邮件接成流程：AI先审，人再批准 | From Email to Approval",
+      "date": "2026-10-07",
+      "publishedAt": "2026-10-06T16:00:36+00:00",
+      "duration": "6:42",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/iZ3E_5E9P9M.md",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "source-unverified",
+      "project": null,
+      "summary": {
+        "zh": "沿微软公开演示看投标邮件如何被整理成建议，再由采购同事检查并批准。",
+        "en": "Follow a public Microsoft demo as a bid email is turned into a recommendation for a colleague to review and approve."
+      },
+      "scope": {
+        "zh": "频道简介指向微软的产品演示，没有给出演示流程的 GitHub 仓库；本次未核验到对应公开源码。节目笔记只记录公开简介，不是可运行项目。",
+        "en": "The channel description points to a Microsoft product demo but names no GitHub repository for the workflow. No matching public source was verified in this review. Episode notes record the public description; they are not a runnable project."
+      },
+      "reference": false,
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=iZ3E_5E9P9M"
+      ],
+      "repositoryEvidence": "The public description provides product/demo references but no matching episode GitHub repository; no corresponding public implementation was verified in this batch."
+    },
+    {
+      "id": "d3Oi1cfNykI",
+      "title": "MiniMax M3.1：游戏真能玩？从射击到桌面 | Can AI Build a Playable Game?",
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T10:29:01+00:00",
+      "duration": "8:45",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/d3Oi1cfNykI.md",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "source-unverified",
+      "project": null,
+      "summary": {
+        "zh": "检查 MiniMax M3.1 Flash Preview 射击游戏里的购买菜单、换枪和战斗反馈，再看门口与碰撞问题。",
+        "en": "Check the purchase menu, weapon switching and combat feedback in a MiniMax M3.1 Flash Preview shooter, then examine doorway and collision issues."
+      },
+      "scope": {
+        "zh": "公开简介提到的示例包含作者演示；没有提供可对应的 GitHub 仓库，本次未核验到配套公开源码。简介还把桌面版本标作前端模拟；不据此称其为完整可玩的游戏工程。",
+        "en": "The public description includes creator demos but provides no matching GitHub repository; no corresponding public source was verified. It also labels the desktop version a front-end simulation, so it is not presented as a complete playable game project."
+      },
+      "reference": false,
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=d3Oi1cfNykI"
+      ],
+      "repositoryEvidence": "The public description provides product/demo references but no matching episode GitHub repository; no corresponding public implementation was verified in this batch."
+    },
+    {
+      "id": "eVsTR91Za7s",
+      "title": "Copilot 别只聊天：从资料到专用助手 | Copilot: From Notes to Agents",
+      "date": "2026-10-03",
+      "publishedAt": "2026-10-03T00:42:02+00:00",
+      "duration": "10:38",
+      "notes": "https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/eVsTR91Za7s.md",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "source-unverified",
+      "project": null,
+      "summary": {
+        "zh": "从临时读资料、整理项目，到新人助手和需要执行动作的工作流，比较 Copilot 的不同入口。",
+        "en": "Compare Copilot entry points, from reading material and organizing a project to a new-hire assistant and action workflows."
+      },
+      "scope": {
+        "zh": "频道简介引用 Agent Builder 与 Copilot Studio 的产品资料，没有提供本期示例的 GitHub 仓库；本次未核验到配套公开源码。产品文档不等于视频演示实现。",
+        "en": "The channel description cites Agent Builder and Copilot Studio material, but gives no GitHub repository for this episode’s examples. No matching public source was verified. Product documentation is not the implementation shown in the video."
+      },
+      "reference": false,
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=eVsTR91Za7s"
+      ],
+      "repositoryEvidence": "The public description provides product/demo references but no matching episode GitHub repository; no corresponding public implementation was verified in this batch."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-03T06:18:58+00:00",
+  "updatedAt": "2026-11-03T13:00:10+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
     {
@@ -36,6 +36,14 @@
       "date": "2026-11-02",
       "duration": "15:22",
       "url": "https://www.youtube.com/watch?v=SN0XcteDG3I"
+    },
+    {
+      "id": "T3w_UC3gnXI",
+      "title": "Grok Bot 接手工作，最後誰驗收？｜AI Teammates: Who Checks the Work?",
+      "publishedAt": "2026-11-01T13:37:35+00:00",
+      "date": "2026-11-01",
+      "duration": "9:36",
+      "url": "https://www.youtube.com/watch?v=T3w_UC3gnXI"
     },
     {
       "id": "Wz5_DeM1Tbg",
@@ -116,14 +124,6 @@
       "date": "2026-10-30",
       "duration": "9:20",
       "url": "https://www.youtube.com/watch?v=Ph4EeVc07VM"
-    },
-    {
-      "id": "AERIqiddcSg",
-      "title": "Claude做科研，进展到底在哪？三项研发案例与OpenAI研究 | AI Research",
-      "publishedAt": "2026-10-29T23:51:41+00:00",
-      "date": "2026-10-30",
-      "duration": "10:25",
-      "url": "https://www.youtube.com/watch?v=AERIqiddcSg"
     }
   ]
 }
