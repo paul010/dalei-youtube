@@ -1,6 +1,6 @@
 # 方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 | Playable AI Worlds & Model Rumors
 
-> **发布日期（北京时间）**：2026-10-10 | **时长**：4:04
+> **发布日期（北京时间）**：2026-10-10 | **时长**：4:03
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=zD2SmtS2nwM)
 

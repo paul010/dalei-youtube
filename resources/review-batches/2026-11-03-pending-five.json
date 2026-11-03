@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "batch": "pending-five-2026-11-03",
+  "checkedOn": "2026-11-03",
+  "scope": "Five next unreviewed public archive episodes. Metadata checked from public YouTube watch pages; source status checked against the expanded descriptions and the linked public GitHub repositories where present. No video downloads or login cookies used.",
+  "records": [
+    {
+      "id": "zD2SmtS2nwM",
+      "title": "方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 | Playable AI Worlds & Model Rumors",
+      "date": "2026-10-10",
+      "publishedAt": "2026-10-10T10:01:33+00:00",
+      "duration": "4:03",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "source-unverified",
+      "project": null,
+      "summary": {
+        "zh": "跟着作者公开视频观察可操作的方块世界，再把作品展示与模型消息分开核对。",
+        "en": "Follow the creator’s public voxel-world demos, then separate the artwork from model reports."
+      },
+      "scope": {
+        "zh": "频道公开简介列出 Jazii 与 Salio 的展示、Business Insider 报道和 Google 公告，没有提供对应 GitHub 仓库；本次也未核验到可对应的公开实现。Fable 5.5 是作者对帖子的标注，不能据此确认后台模型。Carbon 是媒体报道，Argon 的可用范围以 Google 公告为准。",
+        "en": "The public description links demos by Jazii and Salio, a Business Insider report and a Google announcement, but no matching GitHub repository. No matching public implementation was verified in this review. Fable 5.5 is the creator’s label, not confirmation of the backend model. Carbon is a media report; Argon availability follows Google’s announcement."
+      },
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=zD2SmtS2nwM",
+        "https://x.com/notjazii/status/2108590346309706221",
+        "https://x.com/Mr_Salio/status/2108649266713407925",
+        "https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10",
+        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+      ],
+      "repositoryEvidence": "The public video description links the source posts and official reporting, but does not name a GitHub source repository; no matching public implementation was verified in this batch."
+    },
+    {
+      "id": "jNVKo0KqgvE",
+      "title": "GPT-Next是谁？先看宝塔，再看Codex提速 | Demos & Codex",
+      "date": "2026-10-06",
+      "publishedAt": "2026-10-06T06:25:57+00:00",
+      "duration": "4:02",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "source-unverified",
+      "project": null,
+      "summary": {
+        "zh": "把 GPT-Next 标签、Codex 提速说法和 dots 邮件演示分开看，标明各自来源。",
+        "en": "Separate the GPT-Next label, a Codex speed claim and a Dots email demo by their sources."
+      },
+      "scope": {
+        "zh": "本期引用 Fandu 与 Tibo 的公开帖子及 OpenAI 资料，没有提供对应演示作品的 GitHub 仓库；本次未核验到公开配套源码。GPT-Next 是发帖者标签；约 50% TPS 与 28 天改进承诺均为 Tibo 的表述，不是独立测速。宝塔、厨房和体素作品的制作方式与模型身份仍未确认。",
+        "en": "The episode cites public posts by Fandu and Tibo plus OpenAI material, but does not provide a GitHub repo for the demos; no matching source was verified here. GPT-Next is the poster’s label. The roughly 50% TPS figure and 28-day improvement commitment are Tibo’s claims, not independent measurements. The creator and model behind the pagoda, kitchen and voxel works remain unconfirmed."
+      },
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=jNVKo0KqgvE",
+        "https://x.com/mrfanduu/status/2107122126557958323",
+        "https://x.com/thsottiaux/status/2107158998495748264",
+        "https://x.com/thsottiaux/status/2107159119107146237",
+        "https://x.com/thsottiaux/status/2106845241357824205",
+        "https://x.com/OpenAI/status/2104984504133918973",
+        "https://x.com/thsottiaux/status/2106603980386394123"
+      ],
+      "repositoryEvidence": "The public description cites author posts and official material but does not identify a GitHub source repository for the demos; no matching public source was verified in this batch."
+    },
+    {
+      "id": "l5WtsClxLs4",
+      "title": "一张图走进3D，AI开始造整片世界｜3D AI News",
+      "date": "2026-10-05",
+      "publishedAt": "2026-10-05T10:51:42+00:00",
+      "duration": "8:00",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "source",
+      "project": {
+        "name": "Image Blaster",
+        "url": "https://github.com/neilsonnn/image-blaster",
+        "kind": "source"
+      },
+      "summary": {
+        "zh": "对照 Image Blaster、WorldClaw 与 Atlas，分别看单图房间生成、场景扩展和镜头路线展示。",
+        "en": "Compare Image Blaster, WorldClaw and Atlas across single-image room generation, scene expansion and camera-path demos."
+      },
+      "scope": {
+        "zh": "Image Blaster 的 GitHub 仓库含有与本期单图生成演示对应的公开实现。Tencent-Hunyuan/WorldClaw 仓库提供论文、项目页和配图，本次核对的仓库内容未见实现代码，因此作为参考资料列出。World Labs Atlas 对应官方介绍页；本期未自行复测生成速度或精度。",
+        "en": "The Image Blaster GitHub repository contains the public implementation corresponding to this episode’s single-image workflow. Tencent-Hunyuan/WorldClaw links its paper, project page and assets; the reviewed repository contents do not include implementation code, so it is listed as a reference. World Labs Atlas is linked to its official article. Generation speed and accuracy were not retested here."
+      },
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=l5WtsClxLs4",
+        "https://github.com/neilsonnn/image-blaster",
+        "https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw",
+        "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+        "https://arxiv.org/abs/2608.05248",
+        "https://www.worldlabs.ai/blog/atlas"
+      ],
+      "repositoryEvidence": {
+        "source": "Image Blaster README describes its image-to-3D workflow and provides a clone quickstart.",
+        "reference": "WorldClaw README points readers to its arXiv paper and project page; the inspected repository tree contains README and assets, without implementation files."
+      }
+    },
+    {
+      "id": "i_GxbRQzLKc",
+      "title": "AI演示惊艳，真把活干完了吗？｜Amazing Demos. Finished Work?",
+      "date": "2026-10-02",
+      "publishedAt": "2026-10-02T06:25:51+00:00",
+      "duration": "4:50",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "source-unverified",
+      "project": null,
+      "summary": {
+        "zh": "从 Fable 视觉演示与 OpenAI dots 案例，检查支付摘要、反馈分析和回复草稿停在哪一步。",
+        "en": "Review where payment summaries, feedback analysis and reply drafts stop in Fable and OpenAI Dots demos."
+      },
+      "scope": {
+        "zh": "公开简介引用作者帖子与 OpenAI dots 展示，没有提供配套 GitHub 仓库；本次未核验到演示作品的公开源码。Fable 5.5 与 Argon 是原帖标注，不能据此确认模型身份。dots 演示中的支付摘要不是预订确认，反馈样例存在时间缺口，回复仍停在草稿审核；不把展示升级成已完成的业务结果。",
+        "en": "The public description links creator posts and an OpenAI Dots demo, but no matching GitHub repository; public source for the demonstrated work was not verified here. Fable 5.5 and Argon remain labels from the original posts, not confirmed model identities. The Dots payment summary is not a booking, the feedback sample has a time gap, and the reply remains a draft for review; the demo is not presented as completed work."
+      },
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=i_GxbRQzLKc",
+        "https://openai.com/index/introducing-dots/"
+      ],
+      "repositoryEvidence": "The public description links creator and official-product material, not GitHub source for the demos; no matching public implementation was verified in this batch."
+    },
+    {
+      "id": "vRwjof06A-s",
+      "title": "GPT-6.1 Sol 能做出能玩的 3D 游戏？OpenAI DevDay | AI Games & Agents",
+      "date": "2026-10-01",
+      "publishedAt": "2026-09-30T23:03:30+00:00",
+      "duration": "11:32",
+      "verifiedOn": "2026-11-03",
+      "sourceStatus": "source-unverified",
+      "project": null,
+      "summary": {
+        "zh": "观察公开游戏、网页和 3D 交互展示，再对照 OpenAI 发布的产品资料。",
+        "en": "Review public game, web and 3D interaction demos alongside OpenAI’s product announcements."
+      },
+      "scope": {
+        "zh": "公开视频简介把前半段标作公开作品展示，并链接 GPT-6.1 Sol、Dots 与 DevDay 官方页面；没有提供演示作品的配套 GitHub 仓库，本次未核验到公开源码。片中展示不是同条件复现或本频道实测，模型归属沿用视频中的标注。",
+        "en": "The public description presents the first half as public demos and links official GPT-6.1 Sol, Dots and DevDay pages. It provides no GitHub repository for the demonstrated work, and no matching public source was verified here. These are not controlled reproductions or this channel’s tests; model attribution follows the video."
+      },
+      "descriptionSourceUrls": [
+        "https://www.youtube.com/watch?v=vRwjof06A-s",
+        "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "https://openai.com/index/introducing-dots/",
+        "https://openai.com/index/devday-2026-recap/"
+      ],
+      "repositoryEvidence": "The public video description links official OpenAI product pages, not a GitHub repository for its game or 3D demos; no matching source repo was verified in this batch."
+    }
+  ]
+}

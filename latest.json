@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-03T01:02:25+00:00",
+  "updatedAt": "2026-11-03T06:18:58+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "LLAPQS-xsWU",
+      "title": "Gartner 2027｜第1期：AI會寫程式，為什麼企業還不敢上線？",
+      "publishedAt": "2026-11-03T02:15:44+00:00",
+      "date": "2026-11-03",
+      "duration": "13:54",
+      "url": "https://www.youtube.com/watch?v=LLAPQS-xsWU"
+    },
     {
       "id": "_teASemp6kQ",
       "title": "AI 初稿很快，返工誰來？把驗收、交接與人的時間算清楚",
@@ -12,6 +20,14 @@
       "date": "2026-11-03",
       "duration": "7:42",
       "url": "https://www.youtube.com/watch?v=_teASemp6kQ"
+    },
+    {
+      "id": "gBhIx2SUXaA",
+      "title": "做出來了，還能改嗎？AI 遊戲與 Android 開發的下一步 | Built, Now What?",
+      "publishedAt": "2026-11-02T23:13:57+00:00",
+      "date": "2026-11-03",
+      "duration": "10:09",
+      "url": "https://www.youtube.com/watch?v=gBhIx2SUXaA"
     },
     {
       "id": "SN0XcteDG3I",
@@ -108,22 +124,6 @@
       "date": "2026-10-30",
       "duration": "10:25",
       "url": "https://www.youtube.com/watch?v=AERIqiddcSg"
-    },
-    {
-      "id": "pip86wUfP8g",
-      "title": "Gemini 4 Carbon总榜第一，代码也赢了吗？| Coding & Cost",
-      "publishedAt": "2026-10-29T01:31:36+00:00",
-      "date": "2026-10-29",
-      "duration": "12:09",
-      "url": "https://www.youtube.com/watch?v=pip86wUfP8g"
-    },
-    {
-      "id": "_8wy92-j878",
-      "title": "八款AI视频同题样片：人物、动作与道具，差在哪？ | AI Video Comparison",
-      "publishedAt": "2026-10-28T10:23:46+00:00",
-      "date": "2026-10-28",
-      "duration": "10:46",
-      "url": "https://www.youtube.com/watch?v=_8wy92-j878"
     }
   ]
 }

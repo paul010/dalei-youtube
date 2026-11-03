@@ -45,6 +45,8 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-03 | [Gartner 2027｜第1期：AI會寫程式，為什麼企業還不敢上線？](episodes/2026-11/LLAPQS-xsWU.md) | 13:54 |
+| 11-03 | [做出來了，還能改嗎？AI 遊戲與 Android 開發的下一步 &#124; Built, Now What?](episodes/2026-11/gBhIx2SUXaA.md) | 10:09 |
 | 11-03 | [AI 初稿很快，返工誰來？把驗收、交接與人的時間算清楚](episodes/2026-11/_teASemp6kQ.md) | 7:42 |
 | 11-02 | [AI 做出來了，真的能用嗎？從真機到 Agent 的實作筆記](episodes/2026-11/SN0XcteDG3I.md) | 15:22 |
 | 11-01 | [AI作品很惊艳，然后呢？｜Carbon & Fable: What Comes Next?](episodes/2026-11/Wz5_DeM1Tbg.md) | 9:20 |
@@ -117,7 +119,7 @@
 | 10-12 | [Codex 会猜你下一句，AI 作品你选谁？｜AI Updates & Demos](episodes/2026-10/yguIUSgQdFc.md) | 10:09 |
 | 10-11 | [AI做完第一版，谁来接手？Qwen、Codex与Claude &#124; After the First Draft](episodes/2026-10/J3ArB8f0FRY.md) | 12:02 |
 | 10-11 | [Copilot写完第一版，同事怎么接着改？ &#124; Office in Copilot: What Happens After the First Draft?](episodes/2026-10/tVW_ipHTqkc.md) | 2:59 |
-| 10-10 | [方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 &#124; Playable AI Worlds & Model Rumors](episodes/2026-10/zD2SmtS2nwM.md) | 4:04 |
+| 10-10 | [方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 &#124; Playable AI Worlds & Model Rumors](episodes/2026-10/zD2SmtS2nwM.md) | 4:03 |
 | 10-10 | [AI不只聊天了：Gemini接任务，GPT做交互，Claude改动画 &#124; Beyond Chat: AI at Work](episodes/2026-10/bYrdISLj87Q.md) | 8:32 |
 | 10-09 | [AI会写代码，缺的资料谁来补？Claude Code、Google和OpenAI演示解读 &#124; Beyond Code](episodes/2026-10/CZdgs_pW3VM.md) | 10:48 |
 | 10-08 | [AI能动手了，哪步真省钱？GPT-6、Windows本地模型与Haiku 5.5 &#124; AI News & Analysis](episodes/2026-10/P0ETYHP2IWg.md) | 10:27 |
@@ -128,7 +130,7 @@
 | 10-06 | [同样200美元，ChatGPT和Claude谁更值？｜Same $200, Better AI Value?](episodes/2026-10/LGaw2Iy_TVo.md) | 4:57 |
 | 10-06 | [Copilot做完第一版，还能接着改吗？ &#124; Copilot Beyond the First Draft: Can It Keep Editing?](episodes/2026-10/SXPqpNd5r8s.md) | 6:55 |
 | 10-05 | [读书之后，我更懂妈妈了｜《世界尽头的咖啡馆》The Why Cafe 读后感](episodes/2026-10/Owzw5Phzda4.md) | 9:24 |
-| 10-05 | [一张图走进3D，AI开始造整片世界｜3D AI News](episodes/2026-10/l5WtsClxLs4.md) | 8:01 |
+| 10-05 | [一张图走进3D，AI开始造整片世界｜3D AI News](episodes/2026-10/l5WtsClxLs4.md) | 8:00 |
 | 10-04 | [画风狂变，舞步还在：AI动画能接着讲故事吗？ &#124; Beyond the First Frame](episodes/2026-10/EowXwbmyWIw.md) | 6:52 |
 | 10-04 | [总觉得自己还不够好？我决定先完成这一期｜Start Before Perfect](episodes/2026-10/1nxS1ENKHmo.md) | 2:02 |
 | 10-04 | [Claude 作者展示：一句话做出三分钟文明动画？&#124; One Prompt, Three Minutes of Civilization](episodes/2026-10/ESPHv6GimD0.md) | 6:07 |
@@ -136,7 +138,7 @@
 | 10-03 | [Copilot 别只聊天：从资料到专用助手 &#124; Copilot: From Notes to Agents](episodes/2026-10/eVsTR91Za7s.md) | 10:38 |
 | 10-02 | [把每天三件小事，变成口袋里的冒险｜Life Quest on AI Passport](episodes/2026-10/zclnRmatV78.md) | 1:50 |
 | 10-02 | [AI演示惊艳，真把活干完了吗？｜Amazing Demos. Finished Work?](episodes/2026-10/i_GxbRQzLKc.md) | 4:50 |
-| 10-01 | [GPT-6.1 Sol 能做出能玩的 3D 游戏？OpenAI DevDay &#124; AI Games & Agents](episodes/2026-10/vRwjof06A-s.md) | 11:33 |
+| 10-01 | [GPT-6.1 Sol 能做出能玩的 3D 游戏？OpenAI DevDay &#124; AI Games & Agents](episodes/2026-10/vRwjof06A-s.md) | 11:32 |
 
 #### 9月
 | 日期 | 标题 | 时长 |

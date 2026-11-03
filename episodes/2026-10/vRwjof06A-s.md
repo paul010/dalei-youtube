@@ -1,6 +1,6 @@
 # GPT-6.1 Sol 能做出能玩的 3D 游戏？OpenAI DevDay | AI Games & Agents
 
-> **发布日期（北京时间）**：2026-10-01 | **时长**：11:33
+> **发布日期（北京时间）**：2026-10-01 | **时长**：11:32
 
 [▶ 在 YouTube 观看](https://www.youtube.com/watch?v=vRwjof06A-s)
 

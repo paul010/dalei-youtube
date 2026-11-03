@@ -1,8 +1,8 @@
 # 视频项目与 GitHub 资料
 
-最近补充核对：2026-10-28；此前批次核验日期保留在各期资料中。第一批逐一公开读取了 29 期节目元数据，并核对有项目入口的 README。公开视频与当前上游项目分别看待；没有确认到源码的标为「未核验到公开源码」，不表示已经证明源码不存在。
+最近补充核对：2026-11-03；此前批次核验日期保留在各期资料中。第一批逐一公开读取了 29 期节目元数据，并核对有项目入口的 README。公开视频与当前上游项目分别看待；没有确认到源码的标为「未核验到公开源码」，不表示已经证明源码不存在。
 
-累计已核对 79 期。2026-10-28 补充了八期近期节目的资料与源码状态；此前三批条目保留，剩余 325 期记录在 resources/review-progress.json。
+累计已核对 84 期。2026-11-03 补充五期较早节目的资料与源码状态；2026-10-28 的八期近期节目和此前三批条目均保留，剩余 320 期记录在 resources/review-progress.json。
 
 本页是经核对的精选资料目录，不是全部历史节目的完整源码清单。会员节目和本次无法公开读取的节目未加入推荐。原始笔记保持在各节目页。
 
@@ -36,7 +36,12 @@
 | 2026-10-22 | [作者花20分钟做个柑橘，值吗？&#124; AI Demos: What Comes Next?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/ns1H0s3HQms.md) | 未核验到公开源码 | 提供本期公开简介与来源，不把产品介绍或生成演示当作已开源项目。 |
 | 2026-10-22 | [AI报告做完，想改一句怎么办？OneDrive + Copilot &#124; Edit, Collaborate & Share](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/Iwlyw6DOCKo.md) | 未核验到公开源码 | 提供本期公开简介与来源，不把产品介绍或生成演示当作已开源项目。 |
 | 2026-10-22 | [公司资料，AI怎么找？微软 Work IQ Retrieve 解读 &#124; Work IQ Retrieve Explained](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/KRxkcrDIUM4.md) | 未核验到公开源码 | 提供本期公开简介与来源，不把产品介绍或生成演示当作已开源项目。 |
+| 2026-10-10 | [方块世界真能玩？Fable 5.5 与 Gemini Carbon 传闻 &#124; Playable AI Worlds & Model Rumors](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/zD2SmtS2nwM.md) | 未核验到公开源码 | 跟着作者公开视频观察可操作的方块世界，再把作品展示与模型消息分开核对。Fable 5.5 是作者标注；未核验到对应 GitHub 源码。Carbon 为媒体报道，Argon 开放范围以 Google 公告为准。 |
+| 2026-10-06 | [GPT-Next是谁？先看宝塔，再看Codex提速 &#124; Demos & Codex](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/jNVKo0KqgvE.md) | 未核验到公开源码 | 分开记录 GPT-Next 标签、Codex 提速与 dots 邮件演示。未核验到配套公开源码；约 50% TPS 和 28 天承诺来自作者表述，不是独立测速，展示作品的模型身份未确认。 |
+| 2026-10-05 | [一张图走进3D，AI开始造整片世界｜3D AI News](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/l5WtsClxLs4.md) | [Image Blaster](https://github.com/neilsonnn/image-blaster) · 公开项目源码；[Hunyuan3D-WorldClaw](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw) · 论文/项目页参考，非实现源码 | Image Blaster 仓库含对应工作流的公开实现；WorldClaw 仓库提供论文、项目页和配图，本次未见实现代码，列作参考。Atlas 对应 World Labs 官方文章。本期未自行复测速度或精度。 |
 | 2026-10-02 | [把每天三件小事，变成口袋里的冒险｜Life Quest on AI Passport](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/zclnRmatV78.md) | [Life Quest](https://github.com/paul010/ai-passport-life-countdown-open-source) · 公开源码 | AI Passport 固件：人生时间看板、每日任务、XP 与像素伙伴。 |
+| 2026-10-02 | [AI演示惊艳，真把活干完了吗？｜Amazing Demos. Finished Work?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/i_GxbRQzLKc.md) | 未核验到公开源码 | 对照公开演示检查支付摘要、反馈分析和回复草稿状态。未核验到配套公开源码；Fable 5.5 与 Argon 是原帖标注，dots 展示不代表已完成预订、全量分析或发送。 |
+| 2026-10-01 | [GPT-6.1 Sol 能做出能玩的 3D 游戏？OpenAI DevDay &#124; AI Games & Agents](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/vRwjof06A-s.md) | 未核验到公开源码 | 对照公开游戏与 3D 展示及 OpenAI 官方资料。未核验到演示作品的公开源码；展示不是同条件复现或本频道实测，模型归属沿用视频标注。 |
 | 2026-09-14 | [我把考试练习装进了工牌｜AI Passport 实操与踩坑 · Open Source Build](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-09/EXxxbuiZpOU.md) | [AI Passport 2026](https://github.com/paul010/aipassword2026) · 公开源码 | 工牌个人首页与离线 AB-731 练习应用，支持按键答题、解析和错题记录。 |
 | 2025-10-12 | [OpenSpec：让AI按规范写代码的革命工具 OpenSpec: The Revolutionary Tool That Makes AI Write Spec-Driven Code](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/NexwdkKrcUU.md) | [OpenSpec](https://github.com/Fission-AI/OpenSpec) · 公开源码 | 用需求场景、设计和任务说明组织 AI 编程的变更与验收。 |
 | 2025-10-05 | [Kestra：开源本地编排神器，秒建自动化流程 Kestra: Open-source Local Orchestration — Build Automations Fast](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-10/5wRNqwJxTQw.md) | [Kestra](https://github.com/kestra-io/kestra) · 公开源码 | 以 YAML 和界面组织定时或事件触发的自动化流程。 |
