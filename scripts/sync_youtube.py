@@ -217,7 +217,7 @@ def parse_playlist_fallback(playlist, shorts_playlist, previous_feed, fetch_publ
 
 def fetch_public_video(video_id):
     try:
-        raw = command(["yt-dlp", "--no-warnings", "--skip-download", "--dump-single-json",
+        raw = command(["yt-dlp", "--ignore-config", "--no-warnings", "--skip-download", "--dump-single-json",
                        f"https://www.youtube.com/watch?v={video_id}"])
     except subprocess.CalledProcessError as exc:
         if "Join this channel to get access to members-only content" in (exc.stderr or ""):
@@ -279,8 +279,8 @@ def update_episode_metadata(content, video):
 
 
 def main():
-    playlist = json.loads(command(["yt-dlp", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", CHANNEL_URL]))
-    shorts_playlist = json.loads(command(["yt-dlp", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", SHORTS_URL]))
+    playlist = json.loads(command(["yt-dlp", "--ignore-config", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", CHANNEL_URL]))
+    shorts_playlist = json.loads(command(["yt-dlp", "--ignore-config", "--flat-playlist", "--playlist-end", "80", "--dump-single-json", SHORTS_URL]))
     feed_path = ROOT / "latest.json"
     previous = json.loads(feed_path.read_text()) if feed_path.exists() else {}
     try:

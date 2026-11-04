@@ -5,7 +5,7 @@ python3 scripts/sync_youtube.py
 python3 -m unittest discover -s scripts -p 'test_*.py'
 ```
 
-需要 Python 3.9+、curl、yt-dlp。只读取公开 metadata，不下载视频、不读取登录 cookie、不使用付费 API。
+需要 Python 3.9+、curl、yt-dlp。只读取公开 metadata，不下载视频、不读取登录 cookie、不使用付费 API。`yt-dlp` 调用会忽略本机配置文件，避免加载配置里的登录凭据。
 
 - YouTube 官方 RSS 提供精确发布时间和简介；频道 Videos 列表优先提供当前标题、时长与访问状态，Shorts 列表用于排除竖屏/方形短视频。命中频道 Shorts 列表的 ID 不进入首页feed、Notion或新节目索引。其余 RSS 视频若暂未出现在 Videos 列表，则按ID直接核验频道归属与公开状态；无法确认时安全停止、不推进feed。按 YouTube 当前规则，2024-10-15 后上传且方形/竖屏、时长不超过3分钟的视频可归为Shorts，因此不只按60秒时长过滤。
 - `latest.json` 保存 RSS 最近一批公开节目（通常 15 条），按发布时间倒序，日期转换为北京时间。首页读取前 6 条。

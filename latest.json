@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-03T13:00:10+00:00",
+  "updatedAt": "2026-11-04T01:03:53+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "SYTbsvWfkTo",
+      "title": "AI 會修模型，會自己變強嗎？｜Can AI Improve Itself?",
+      "publishedAt": "2026-11-03T11:40:56+00:00",
+      "date": "2026-11-03",
+      "duration": "8:48",
+      "url": "https://www.youtube.com/watch?v=SYTbsvWfkTo"
+    },
     {
       "id": "LLAPQS-xsWU",
       "title": "Gartner 2027｜第1期：AI會寫程式，為什麼企業還不敢上線？",
@@ -116,14 +124,6 @@
       "date": "2026-10-30",
       "duration": "9:20",
       "url": "https://www.youtube.com/watch?v=gagYrl5N6bI"
-    },
-    {
-      "id": "Ph4EeVc07VM",
-      "title": "AI会动了，下一步呢？NVIDIA、ChatGPT与Claude四个案例 | AI’s Next Step",
-      "publishedAt": "2026-10-30T00:32:34+00:00",
-      "date": "2026-10-30",
-      "duration": "9:20",
-      "url": "https://www.youtube.com/watch?v=Ph4EeVc07VM"
     }
   ]
 }

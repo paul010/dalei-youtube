@@ -45,6 +45,7 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-03 | [AI 會修模型，會自己變強嗎？｜Can AI Improve Itself?](episodes/2026-11/SYTbsvWfkTo.md) | 8:48 |
 | 11-01 | [Grok Bot 接手工作，最後誰驗收？｜AI Teammates: Who Checks the Work?](episodes/2026-11/T3w_UC3gnXI.md) | 9:36 |
 | 11-03 | [Gartner 2027｜第1期：AI會寫程式，為什麼企業還不敢上線？](episodes/2026-11/LLAPQS-xsWU.md) | 13:54 |
 | 11-03 | [做出來了，還能改嗎？AI 遊戲與 Android 開發的下一步 &#124; Built, Now What?](episodes/2026-11/gBhIx2SUXaA.md) | 10:09 |
