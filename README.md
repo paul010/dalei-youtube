@@ -45,6 +45,8 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-06 | [ChatGPT Images 2.6：圖片會動，還能接著改嗎？ &#124; GIFs & Edits](episodes/2026-11/-IItcEXGT2Q.md) | 11:48 |
+| 11-05 | [混元 Hy4 把戶型圖變 3D，還能接著改嗎？｜GPT、DeepSeek 與小米工廠](episodes/2026-11/5wwYygRhjWU.md) | 8:48 |
 | 11-03 | [AI 會修模型，會自己變強嗎？｜Can AI Improve Itself?](episodes/2026-11/SYTbsvWfkTo.md) | 8:48 |
 | 11-01 | [Grok Bot 接手工作，最後誰驗收？｜AI Teammates: Who Checks the Work?](episodes/2026-11/T3w_UC3gnXI.md) | 9:36 |
 | 11-03 | [Gartner 2027｜第1期：AI會寫程式，為什麼企業還不敢上線？](episodes/2026-11/LLAPQS-xsWU.md) | 13:54 |

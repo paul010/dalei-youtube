@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-04T01:03:53+00:00",
+  "updatedAt": "2026-11-06T01:04:29+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "-IItcEXGT2Q",
+      "title": "ChatGPT Images 2.6：圖片會動，還能接著改嗎？ | GIFs & Edits",
+      "publishedAt": "2026-11-05T23:19:49+00:00",
+      "date": "2026-11-06",
+      "duration": "11:48",
+      "url": "https://www.youtube.com/watch?v=-IItcEXGT2Q"
+    },
+    {
+      "id": "5wwYygRhjWU",
+      "title": "混元 Hy4 把戶型圖變 3D，還能接著改嗎？｜GPT、DeepSeek 與小米工廠",
+      "publishedAt": "2026-11-05T02:50:36+00:00",
+      "date": "2026-11-05",
+      "duration": "8:48",
+      "url": "https://www.youtube.com/watch?v=5wwYygRhjWU"
+    },
     {
       "id": "SYTbsvWfkTo",
       "title": "AI 會修模型，會自己變強嗎？｜Can AI Improve Itself?",
@@ -108,22 +124,6 @@
       "date": "2026-10-30",
       "duration": "9:55",
       "url": "https://www.youtube.com/watch?v=q7_31eHzrfc"
-    },
-    {
-      "id": "F5P1vUawBPo",
-      "title": "AI帮你搭好Copilot Studio助手，怎么判断真的做成了？｜MCP Movie Night Concierge",
-      "publishedAt": "2026-10-30T02:50:16+00:00",
-      "date": "2026-10-30",
-      "duration": "10:24",
-      "url": "https://www.youtube.com/watch?v=F5P1vUawBPo"
-    },
-    {
-      "id": "gagYrl5N6bI",
-      "title": "Copilot 会选模型了，任务能交付吗？ | Fusion & Foundry",
-      "publishedAt": "2026-10-30T02:49:41+00:00",
-      "date": "2026-10-30",
-      "duration": "9:20",
-      "url": "https://www.youtube.com/watch?v=gagYrl5N6bI"
     }
   ]
 }
