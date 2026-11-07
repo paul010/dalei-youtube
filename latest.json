@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-06T01:04:29+00:00",
+  "updatedAt": "2026-11-07T01:57:42+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "grWgxb7bc1E",
+      "title": "Claude 6 傳聞、GPT-6 Cyber 官宣｜AI 動手後，誰驗收？",
+      "publishedAt": "2026-11-07T00:13:39+00:00",
+      "date": "2026-11-07",
+      "duration": "8:50",
+      "url": "https://www.youtube.com/watch?v=grWgxb7bc1E"
+    },
+    {
+      "id": "7Cdo3M77ACw",
+      "title": "SharePoint × Work IQ：AI 能建資料庫，怎樣才算做好？ | SharePoint Tools Explained",
+      "publishedAt": "2026-11-06T06:50:58+00:00",
+      "date": "2026-11-06",
+      "duration": "9:43",
+      "url": "https://www.youtube.com/watch?v=7Cdo3M77ACw"
+    },
     {
       "id": "-IItcEXGT2Q",
       "title": "ChatGPT Images 2.6：圖片會動，還能接著改嗎？ | GIFs & Edits",
@@ -108,22 +124,6 @@
       "date": "2026-10-31",
       "duration": "3:06",
       "url": "https://www.youtube.com/watch?v=A6ZX6VbDp5s"
-    },
-    {
-      "id": "sog92lIhKkw",
-      "title": "Copilot让PPT能点了，接手后怎么改？｜Interactive Slides & Auto",
-      "publishedAt": "2026-10-31T06:49:26+00:00",
-      "date": "2026-10-31",
-      "duration": "9:54",
-      "url": "https://www.youtube.com/watch?v=sog92lIhKkw"
-    },
-    {
-      "id": "q7_31eHzrfc",
-      "title": "ChatGPT 接上 iCloud：找邮件、排日程，哪些还要自己确认？｜iCloud Mail & Calendar",
-      "publishedAt": "2026-10-30T02:50:20+00:00",
-      "date": "2026-10-30",
-      "duration": "9:55",
-      "url": "https://www.youtube.com/watch?v=q7_31eHzrfc"
     }
   ]
 }
