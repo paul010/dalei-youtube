@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "checkedOn": "2026-11-08",
-  "reviewedPublicCount": 99,
+  "reviewedPublicCount": 100,
   "unavailableCount": 1,
   "archiveTotal": 410,
-  "remainingCount": 310,
+  "remainingCount": 309,
   "reviewedPublicIds": [
     "-y0KHgOqZf8",
     "0YLtbgol25c",
@@ -104,7 +104,8 @@
     "IebxOskL3Gg",
     "F8pPOTf11qw",
     "__Bo6_aWEzY",
-    "cYdDCUmVJB0"
+    "cYdDCUmVJB0",
+    "nx8FXSoeVcY"
   ],
   "notPubliclyReadableIds": [
     "oPEbK2ieTF8"
@@ -421,5 +422,5 @@
     "45QrW6bipcI",
     "3IjO25je6MU"
   ],
-  "note": "Remaining IDs are unreviewed archive entries, not verified public recommendations. Do not infer source availability or republish until checked. Five additional earlier public episodes were added to this archive checkpoint on 2026-11-08."
+  "note": "Remaining IDs are unreviewed archive entries, not verified public recommendations. Do not infer source availability or republish until checked. Five additional earlier public episodes were added to this archive checkpoint on 2026-11-08. One final earlier public Videos-list entry was reviewed on 2026-11-08."
 }

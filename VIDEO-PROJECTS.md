@@ -134,3 +134,11 @@ Codebuff 已跳转为 Freebuff，现行命令与录制版可能不同。DeerFlow
 | 2025-04-06 | [从小白到高手：AI 自动化助力，3D 建模轻松搞定！](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-04/F8pPOTf11qw.md) | [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) · 公开项目源码 | 视频简介里的旧 blender-mcp 地址目前跳转至此仓库。仓库提供 Blender 社区 MCP 集成，不代表所有生成模型、场景与服务；本轮未运行。 |
 | 2025-03-30 | [不止是画画！GPT-4o图像生成释放11个关键信号](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-03/__Bo6_aWEzY.md) | 未核验到公开源码 | 简介没有提供演示工程链接；不把模型或图像产品列作作品源码。本轮未重跑图像生成。 |
 | 2025-03-16 | [AI 自动化新境界：MCP + Tavily + Slack](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-03/cYdDCUmVJB0.md) | 未核验到公开源码 | 简介没有给出完整自动化流程仓库；不以通用 MCP、Tavily 或 Slack SDK 代替。本轮未连接服务或重跑流程。 |
+
+## 第五批：2025-03-09
+
+频道公开 Videos 列表目前最早的公开视频为本期（列表共 482 条）；本轮核对标题、发布时间、时长和简介。简介称网页抓取演示使用 Farecrow，没有附 GitHub 工程链接，未核验到对应公开源码。
+
+| 日期 | 节目与笔记 | GitHub 项目 / 状态 | 说明与范围 |
+|---|---|---|---|
+| 2025-03-09 | [MCP协议详解：让AI从看客变执行者](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-03/nx8FXSoeVcY.md) | 未核验到公开源码 | 视频简介提及 Farecrow 网页抓取服务，但没有提供演示工程或仓库地址；没有用名称相近的 Firecrawl 项目代替。没有连接服务或重跑演示。
