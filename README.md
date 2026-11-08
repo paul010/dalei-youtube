@@ -45,6 +45,7 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-08 | [Copilot 多開以後，誰來驗收？｜納德拉談 Agent、Entra 與工作交接](episodes/2026-11/G46m_DzhqUQ.md) | 10:03 |
 | 11-08 | [Qwen4 預覽能造世界？下水卡住之後，下一次改動接得住嗎？](episodes/2026-11/fhgaNDMzUTY.md) | 8:53 |
 | 11-07 | [Claude 6 傳聞、GPT-6 Cyber 官宣｜AI 動手後，誰驗收？](episodes/2026-11/grWgxb7bc1E.md) | 8:50 |
 | 11-06 | [SharePoint × Work IQ：AI 能建資料庫，怎樣才算做好？ &#124; SharePoint Tools Explained](episodes/2026-11/7Cdo3M77ACw.md) | 9:43 |
@@ -219,6 +220,11 @@
 | 06-03 | [微软AI王炸！没人告诉你的Windows新功能，开发者狂喜！](episodes/2026-06/q4X4cD-Phyk.md) | 7:26 |
 | 06-03 | [MiniMax M3震撼发布！性能反超GPT-5.5，最强开源AI来了？](episodes/2026-06/kxQpKt17qnM.md) | 11:27 |
 | 06-01 | [5美元实测 DogRouter：AI Gateway 到底能不能跑通？](episodes/2026-06/SX36VfssYCg.md) | 4:56 |
+
+#### 6月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 06-29 | [Agentic Browser 终极进化：浏览器不再只是工具，而是你的AI数字助理！](episodes/2025-06/WmOOppOLWIw.md) | 9:45 |
 
 #### 5月
 | 日期 | 标题 | 时长 |
@@ -552,6 +558,18 @@
 | 日期 | 标题 | 时长 |
 |------|------|------|
 | 05-18 | [字节Deerflow保姆级实战教程：AI帮你干活，普通人也能效率起飞！](episodes/2025-05/DoIe_HhIs1c.md) | 10:53 |
+
+#### 4月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 04-13 | [AI旅游新时代：高德MCP如何让旅行规划告别踩坑 &#124; 从信息到决策的升级](episodes/2025-04/IebxOskL3Gg.md) | 9:47 |
+| 04-06 | [从小白到高手：💡 AI 自动化助力，3D 建模轻松搞定！🎉](episodes/2025-04/F8pPOTf11qw.md) | 8:05 |
+
+#### 3月
+| 日期 | 标题 | 时长 |
+|------|------|------|
+| 03-30 | [不止是画画！🎨 GPT-4o图像生成释放11个关键信号 💡👀💻 AI底层逻辑变了？](episodes/2025-03/__Bo6_aWEzY.md) | 14:54 |
+| 03-16 | [🤯 AI 自动化新境界！MCP + Tavily + Slack，解放你的双手！](episodes/2025-03/cYdDCUmVJB0.md) | 11:37 |
 
 ---
 

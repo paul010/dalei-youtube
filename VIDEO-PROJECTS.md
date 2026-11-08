@@ -122,3 +122,15 @@ Codebuff 已跳转为 Freebuff，现行命令与录制版可能不同。DeerFlow
 | 2026-10-12 | [AI作品已经很好看，接着怎么改？从企鹅到动作镜头 &#124; Beautiful AI Work—What Would You Change Next?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/0sFuXGft0Z0.md) | 未核验到公开源码 | 从企鹅控件、动作镜头与产品动画，提出下一轮能核对的具体修改。 未核验到企鹅、摩托镜头与动画作品的公开源码。原片操作现有控件，不等于复现生成或完成代码修改；耳机案例修改投入不同，制作时间与次数保留作者归属。 |
 | 2026-10-11 | [Copilot写完第一版，同事怎么接着改？ &#124; Office in Copilot: What Happens After the First Draft?](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/tVW_ipHTqkc.md) | 未核验到公开源码 | 从 Word 共享、同事评论与修订痕迹，查看第一稿后的协作修改过程。 未核验到本期文档样例或 Copilot 服务的公开源码；产品公告不等于可导入工程。原演示提示未上传 Microsoft 365，不能认定 OneDrive 保存已验收；收入图表也未按原始资料复算。 |
 | 2026-10-25 | [Copilot Studio：Agent做好了，同事怎么接手？&#124; From Agent to Team Workflow](https://github.com/paul010/dalei-youtube/blob/master/episodes/2026-10/2oqWZ539EqU.md) | 未核验到公开源码 | 沿采购演示查看材料检查、样本评估、人工审核与同事接手的位置。 未核验到完整采购应用、工作流与代理配置的公开源码。官方 hooks 文档属于预览；失败或超时可能继续运行，不能作为唯一关键防护。片中 89% 只对应作者 18 个案例，本轮未重跑或验收生产流程。 |
+
+## 第四批：2025-06 至 2025-03
+
+这五期按公开视频标题、发布时间、时长和简介核对。Blender MCP 一期有简介直链的公开源码；高德一期只列官方产品文档；另外三期未核验到对应 GitHub 源码。没有重跑相关演示。
+
+| 日期 | 节目与笔记 | GitHub 项目 / 状态 | 说明与范围 |
+|---|---|---|---|
+| 2025-06-29 | [Agentic Browser 终极进化：浏览器不再只是工具，而是你的AI数字助理！](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-06/WmOOppOLWIw.md) | 未核验到公开源码 | 简介列出多个产品演示，但没有附对应仓库；不以产品页或通用 Agent 项目替代本期源码。 |
+| 2025-04-13 | [AI旅游新时代：高德MCP如何让旅行规划告别踩坑 &#124; 从信息到决策的升级](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-04/IebxOskL3Gg.md) | 未核验到 GitHub 源码；有高德官方文档 | 简介所列高德 MCP Server 说明页是产品参考，不是视频行程工作流源码；本轮未调用地图服务。 |
+| 2025-04-06 | [从小白到高手：AI 自动化助力，3D 建模轻松搞定！](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-04/F8pPOTf11qw.md) | [MCP for Blender](https://github.com/ahujasid/mcp-for-blender) · 公开项目源码 | 视频简介里的旧 blender-mcp 地址目前跳转至此仓库。仓库提供 Blender 社区 MCP 集成，不代表所有生成模型、场景与服务；本轮未运行。 |
+| 2025-03-30 | [不止是画画！GPT-4o图像生成释放11个关键信号](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-03/__Bo6_aWEzY.md) | 未核验到公开源码 | 简介没有提供演示工程链接；不把模型或图像产品列作作品源码。本轮未重跑图像生成。 |
+| 2025-03-16 | [AI 自动化新境界：MCP + Tavily + Slack](https://github.com/paul010/dalei-youtube/blob/master/episodes/2025-03/cYdDCUmVJB0.md) | 未核验到公开源码 | 简介没有给出完整自动化流程仓库；不以通用 MCP、Tavily 或 Slack SDK 代替。本轮未连接服务或重跑流程。 |
