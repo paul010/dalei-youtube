@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-07T01:57:42+00:00",
+  "updatedAt": "2026-11-08T00:59:42+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "fhgaNDMzUTY",
+      "title": "Qwen4 預覽能造世界？下水卡住之後，下一次改動接得住嗎？",
+      "publishedAt": "2026-11-07T22:35:07+00:00",
+      "date": "2026-11-08",
+      "duration": "8:53",
+      "url": "https://www.youtube.com/watch?v=fhgaNDMzUTY"
+    },
     {
       "id": "grWgxb7bc1E",
       "title": "Claude 6 傳聞、GPT-6 Cyber 官宣｜AI 動手後，誰驗收？",
@@ -116,14 +124,6 @@
       "date": "2026-10-31",
       "duration": "8:32",
       "url": "https://www.youtube.com/watch?v=hj6ViaC3Ogo"
-    },
-    {
-      "id": "A6ZX6VbDp5s",
-      "title": "AI长对话越压越短，关键要求还在吗？｜billion-context 资料解读",
-      "publishedAt": "2026-10-31T06:49:51+00:00",
-      "date": "2026-10-31",
-      "duration": "3:06",
-      "url": "https://www.youtube.com/watch?v=A6ZX6VbDp5s"
     }
   ]
 }

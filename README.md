@@ -45,6 +45,7 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-08 | [Qwen4 預覽能造世界？下水卡住之後，下一次改動接得住嗎？](episodes/2026-11/fhgaNDMzUTY.md) | 8:53 |
 | 11-07 | [Claude 6 傳聞、GPT-6 Cyber 官宣｜AI 動手後，誰驗收？](episodes/2026-11/grWgxb7bc1E.md) | 8:50 |
 | 11-06 | [SharePoint × Work IQ：AI 能建資料庫，怎樣才算做好？ &#124; SharePoint Tools Explained](episodes/2026-11/7Cdo3M77ACw.md) | 9:43 |
 | 11-06 | [ChatGPT Images 2.6：圖片會動，還能接著改嗎？ &#124; GIFs & Edits](episodes/2026-11/-IItcEXGT2Q.md) | 11:48 |
