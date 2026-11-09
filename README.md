@@ -45,6 +45,8 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-09 | [Copilot 十大更新：Excel、PowerPoint 做完，還要查什麼？](episodes/2026-11/dh5Zz6FdCjI.md) | 8:38 |
+| 11-08 | [Claude × Qwen 做遊戲：什麼讓人想進去玩？｜地牢、方塊與 AI 小世界](episodes/2026-11/5e1Ys72byGc.md) | 8:57 |
 | 11-08 | [Copilot 多開以後，誰來驗收？｜納德拉談 Agent、Entra 與工作交接](episodes/2026-11/G46m_DzhqUQ.md) | 10:03 |
 | 11-08 | [Qwen4 預覽能造世界？下水卡住之後，下一次改動接得住嗎？](episodes/2026-11/fhgaNDMzUTY.md) | 8:53 |
 | 11-07 | [Claude 6 傳聞、GPT-6 Cyber 官宣｜AI 動手後，誰驗收？](episodes/2026-11/grWgxb7bc1E.md) | 8:50 |

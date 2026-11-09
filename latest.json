@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-08T05:21:02+00:00",
+  "updatedAt": "2026-11-09T00:58:20+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "dh5Zz6FdCjI",
+      "title": "Copilot 十大更新：Excel、PowerPoint 做完，還要查什麼？",
+      "publishedAt": "2026-11-08T22:38:00+00:00",
+      "date": "2026-11-09",
+      "duration": "8:38",
+      "url": "https://www.youtube.com/watch?v=dh5Zz6FdCjI"
+    },
+    {
+      "id": "5e1Ys72byGc",
+      "title": "Claude × Qwen 做遊戲：什麼讓人想進去玩？｜地牢、方塊與 AI 小世界",
+      "publishedAt": "2026-11-08T10:18:52+00:00",
+      "date": "2026-11-08",
+      "duration": "8:57",
+      "url": "https://www.youtube.com/watch?v=5e1Ys72byGc"
+    },
     {
       "id": "G46m_DzhqUQ",
       "title": "Copilot 多開以後，誰來驗收？｜納德拉談 Agent、Entra 與工作交接",
@@ -108,22 +124,6 @@
       "date": "2026-11-01",
       "duration": "9:20",
       "url": "https://www.youtube.com/watch?v=Wz5_DeM1Tbg"
-    },
-    {
-      "id": "MC1DsyqeEWk",
-      "title": "8款AI视频同题对比：好看之后，动作能用吗？ | AI Video Comparison",
-      "publishedAt": "2026-10-31T13:26:38+00:00",
-      "date": "2026-10-31",
-      "duration": "8:32",
-      "url": "https://www.youtube.com/watch?v=MC1DsyqeEWk"
-    },
-    {
-      "id": "SLNr8w1dc2g",
-      "title": "今年换个方式，用 AI 回看这一年｜FY26：开源实践、志愿服务与生活",
-      "publishedAt": "2026-10-31T12:22:01+00:00",
-      "date": "2026-10-31",
-      "duration": "10:47",
-      "url": "https://www.youtube.com/watch?v=SLNr8w1dc2g"
     }
   ]
 }
