@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-09T02:05:35+00:00",
+  "updatedAt": "2026-11-10T00:58:06+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "UWU26IlgdbM",
+      "title": "GPT-6.2 Sol？方塊世界能挖能放，動作遊戲接得上嗎？",
+      "publishedAt": "2026-11-09T13:21:36+00:00",
+      "date": "2026-11-09",
+      "duration": "9:13",
+      "url": "https://www.youtube.com/watch?v=UWU26IlgdbM"
+    },
+    {
+      "id": "PlmhygNm1b4",
+      "title": "GPT-6.2 Sol 真的來了？先看黑洞、寶塔與浮城這些作品",
+      "publishedAt": "2026-11-09T10:14:20+00:00",
+      "date": "2026-11-09",
+      "duration": "9:22",
+      "url": "https://www.youtube.com/watch?v=PlmhygNm1b4"
+    },
     {
       "id": "dh5Zz6FdCjI",
       "title": "Copilot 十大更新：會排程以後，誰按確認？｜Teams、Autopilot 與工作交接",
@@ -108,22 +124,6 @@
       "date": "2026-11-02",
       "duration": "15:22",
       "url": "https://www.youtube.com/watch?v=SN0XcteDG3I"
-    },
-    {
-      "id": "T3w_UC3gnXI",
-      "title": "Grok Bot 接手工作，最後誰驗收？｜AI Teammates: Who Checks the Work?",
-      "publishedAt": "2026-11-01T13:37:35+00:00",
-      "date": "2026-11-01",
-      "duration": "9:36",
-      "url": "https://www.youtube.com/watch?v=T3w_UC3gnXI"
-    },
-    {
-      "id": "Wz5_DeM1Tbg",
-      "title": "AI作品很惊艳，然后呢？｜Carbon & Fable: What Comes Next?",
-      "publishedAt": "2026-11-01T08:45:01+00:00",
-      "date": "2026-11-01",
-      "duration": "9:20",
-      "url": "https://www.youtube.com/watch?v=Wz5_DeM1Tbg"
     }
   ]
 }

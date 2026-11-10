@@ -45,6 +45,8 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-09 | [GPT-6.2 Sol？方塊世界能挖能放，動作遊戲接得上嗎？](episodes/2026-11/UWU26IlgdbM.md) | 9:13 |
+| 11-09 | [GPT-6.2 Sol 真的來了？先看黑洞、寶塔與浮城這些作品](episodes/2026-11/PlmhygNm1b4.md) | 9:22 |
 | 11-09 | [Copilot 十大更新：會排程以後，誰按確認？｜Teams、Autopilot 與工作交接](episodes/2026-11/dh5Zz6FdCjI.md) | 8:38 |
 | 11-08 | [Claude × Qwen 做遊戲：什麼讓人想進去玩？｜地牢、方塊與 AI 小世界](episodes/2026-11/5e1Ys72byGc.md) | 8:57 |
 | 11-08 | [Copilot 多開以後，誰來驗收？｜納德拉談 Agent、Entra 與工作交接](episodes/2026-11/G46m_DzhqUQ.md) | 10:03 |
