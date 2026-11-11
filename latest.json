@@ -2,9 +2,49 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-10T00:58:06+00:00",
+  "updatedAt": "2026-11-11T02:06:04+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "tZ2jiMdHttU",
+      "title": "Claude Fable 5.2：遊戲能玩了，下一版怎麼做？",
+      "publishedAt": "2026-11-10T23:08:05+00:00",
+      "date": "2026-11-11",
+      "duration": "8:31",
+      "url": "https://www.youtube.com/watch?v=tZ2jiMdHttU"
+    },
+    {
+      "id": "3UkgXcfxWqQ",
+      "title": "OpenAI 幫找70年圖紙：找到了，哪張才敢用？",
+      "publishedAt": "2026-11-10T22:35:06+00:00",
+      "date": "2026-11-11",
+      "duration": "6:11",
+      "url": "https://www.youtube.com/watch?v=3UkgXcfxWqQ"
+    },
+    {
+      "id": "YRrdqkNYCAs",
+      "title": "GPT-Rosalind：32分鐘找到什麼？線索快了，結論還得驗",
+      "publishedAt": "2026-11-10T07:17:30+00:00",
+      "date": "2026-11-10",
+      "duration": "8:57",
+      "url": "https://www.youtube.com/watch?v=YRrdqkNYCAs"
+    },
+    {
+      "id": "z3RemFzJARo",
+      "title": "Claude Fable 5.2：電路變實物，千個 Agent 誰來驗收？｜Mythos 5.2 解讀",
+      "publishedAt": "2026-11-10T07:06:43+00:00",
+      "date": "2026-11-10",
+      "duration": "9:27",
+      "url": "https://www.youtube.com/watch?v=z3RemFzJARo"
+    },
+    {
+      "id": "ulwMu_dpOCw",
+      "title": "Copilot Harness × Foundry：報告做完了，越權怎麼攔？",
+      "publishedAt": "2026-11-10T06:36:25+00:00",
+      "date": "2026-11-10",
+      "duration": "9:23",
+      "url": "https://www.youtube.com/watch?v=ulwMu_dpOCw"
+    },
     {
       "id": "UWU26IlgdbM",
       "title": "GPT-6.2 Sol？方塊世界能挖能放，動作遊戲接得上嗎？",
@@ -84,46 +124,6 @@
       "date": "2026-11-05",
       "duration": "8:48",
       "url": "https://www.youtube.com/watch?v=5wwYygRhjWU"
-    },
-    {
-      "id": "SYTbsvWfkTo",
-      "title": "AI 會修模型，會自己變強嗎？｜Can AI Improve Itself?",
-      "publishedAt": "2026-11-03T11:40:56+00:00",
-      "date": "2026-11-03",
-      "duration": "8:48",
-      "url": "https://www.youtube.com/watch?v=SYTbsvWfkTo"
-    },
-    {
-      "id": "LLAPQS-xsWU",
-      "title": "Gartner 2027｜第1期：AI會寫程式，為什麼企業還不敢上線？",
-      "publishedAt": "2026-11-03T02:15:44+00:00",
-      "date": "2026-11-03",
-      "duration": "13:54",
-      "url": "https://www.youtube.com/watch?v=LLAPQS-xsWU"
-    },
-    {
-      "id": "_teASemp6kQ",
-      "title": "AI 初稿很快，返工誰來？把驗收、交接與人的時間算清楚",
-      "publishedAt": "2026-11-02T23:14:21+00:00",
-      "date": "2026-11-03",
-      "duration": "7:42",
-      "url": "https://www.youtube.com/watch?v=_teASemp6kQ"
-    },
-    {
-      "id": "gBhIx2SUXaA",
-      "title": "做出來了，還能改嗎？AI 遊戲與 Android 開發的下一步 | Built, Now What?",
-      "publishedAt": "2026-11-02T23:13:57+00:00",
-      "date": "2026-11-03",
-      "duration": "10:09",
-      "url": "https://www.youtube.com/watch?v=gBhIx2SUXaA"
-    },
-    {
-      "id": "SN0XcteDG3I",
-      "title": "AI 做出來了，真的能用嗎？從真機到 Agent 的實作筆記",
-      "publishedAt": "2026-11-01T23:07:53+00:00",
-      "date": "2026-11-02",
-      "duration": "15:22",
-      "url": "https://www.youtube.com/watch?v=SN0XcteDG3I"
     }
   ]
 }

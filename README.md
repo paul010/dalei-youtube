@@ -45,6 +45,11 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-11 | [Claude Fable 5.2：遊戲能玩了，下一版怎麼做？](episodes/2026-11/tZ2jiMdHttU.md) | 8:31 |
+| 11-11 | [OpenAI 幫找70年圖紙：找到了，哪張才敢用？](episodes/2026-11/3UkgXcfxWqQ.md) | 6:11 |
+| 11-10 | [GPT-Rosalind：32分鐘找到什麼？線索快了，結論還得驗](episodes/2026-11/YRrdqkNYCAs.md) | 8:57 |
+| 11-10 | [Claude Fable 5.2：電路變實物，千個 Agent 誰來驗收？｜Mythos 5.2 解讀](episodes/2026-11/z3RemFzJARo.md) | 9:27 |
+| 11-10 | [Copilot Harness × Foundry：報告做完了，越權怎麼攔？](episodes/2026-11/ulwMu_dpOCw.md) | 9:23 |
 | 11-09 | [GPT-6.2 Sol？方塊世界能挖能放，動作遊戲接得上嗎？](episodes/2026-11/UWU26IlgdbM.md) | 9:13 |
 | 11-09 | [GPT-6.2 Sol 真的來了？先看黑洞、寶塔與浮城這些作品](episodes/2026-11/PlmhygNm1b4.md) | 9:22 |
 | 11-09 | [Copilot 十大更新：會排程以後，誰按確認？｜Teams、Autopilot 與工作交接](episodes/2026-11/dh5Zz6FdCjI.md) | 8:38 |
