@@ -1,4 +1,4 @@
-# Copilot 十大更新：Excel、PowerPoint 做完，還要查什麼？
+# Copilot 十大更新：Excel、PowerPoint、Teams，先用哪一步？
 
 > **发布日期（北京时间）**：2026-11-09 | **时长**：8:38
 

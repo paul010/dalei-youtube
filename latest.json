@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-11T04:36:43+00:00",
+  "updatedAt": "2026-11-12T01:01:14+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "teAdOCheSqU",
+      "title": "Gemini 4 Carbon 寫出三個作品，交付前怎麼驗？",
+      "publishedAt": "2026-11-11T12:19:13+00:00",
+      "date": "2026-11-11",
+      "duration": "8:36",
+      "url": "https://www.youtube.com/watch?v=teAdOCheSqU"
+    },
     {
       "id": "tZ2jiMdHttU",
       "title": "Claude Fable 5.2：遊戲能玩了，下一版怎麼做？",
@@ -63,7 +71,7 @@
     },
     {
       "id": "dh5Zz6FdCjI",
-      "title": "Copilot 十大更新：Excel、PowerPoint 做完，還要查什麼？",
+      "title": "Copilot 十大更新：Excel、PowerPoint、Teams，先用哪一步？",
       "publishedAt": "2026-11-08T22:38:00+00:00",
       "date": "2026-11-09",
       "duration": "8:38",
@@ -116,14 +124,6 @@
       "date": "2026-11-06",
       "duration": "11:48",
       "url": "https://www.youtube.com/watch?v=-IItcEXGT2Q"
-    },
-    {
-      "id": "5wwYygRhjWU",
-      "title": "混元 Hy4 把戶型圖變 3D，還能接著改嗎？｜GPT、DeepSeek 與小米工廠",
-      "publishedAt": "2026-11-05T02:50:36+00:00",
-      "date": "2026-11-05",
-      "duration": "8:48",
-      "url": "https://www.youtube.com/watch?v=5wwYygRhjWU"
     }
   ]
 }
