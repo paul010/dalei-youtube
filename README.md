@@ -45,6 +45,7 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-11 | [Gemini 4 Carbon 寫出三個作品，交付前怎麼驗？](episodes/2026-11/teAdOCheSqU.md) | 8:36 |
 | 11-11 | [Claude Fable 5.2：遊戲能玩了，下一版怎麼做？](episodes/2026-11/tZ2jiMdHttU.md) | 8:31 |
 | 11-11 | [OpenAI 幫找70年圖紙：找到了，哪張才敢用？](episodes/2026-11/3UkgXcfxWqQ.md) | 6:11 |
 | 11-10 | [GPT-Rosalind：32分鐘找到什麼？線索快了，結論還得驗](episodes/2026-11/YRrdqkNYCAs.md) | 8:57 |
