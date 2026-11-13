@@ -45,6 +45,7 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-12 | [Copilot App Blocks：圖表能動，結果就可信嗎？｜3D 地標與收入模型拆解](episodes/2026-11/ivjLlk02coU.md) | 8:56 |
 | 11-11 | [Gemini 4 Carbon 寫出三個作品，交付前怎麼驗？](episodes/2026-11/teAdOCheSqU.md) | 8:36 |
 | 11-11 | [Claude Fable 5.2：遊戲能玩了，下一版怎麼做？](episodes/2026-11/tZ2jiMdHttU.md) | 8:31 |
 | 11-11 | [OpenAI 幫找70年圖紙：找到了，哪張才敢用？](episodes/2026-11/3UkgXcfxWqQ.md) | 6:11 |

@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-12T02:06:31+00:00",
+  "updatedAt": "2026-11-13T01:05:01+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "ivjLlk02coU",
+      "title": "Copilot App Blocks：圖表能動，結果就可信嗎？｜3D 地標與收入模型拆解",
+      "publishedAt": "2026-11-12T04:23:12+00:00",
+      "date": "2026-11-12",
+      "duration": "8:56",
+      "url": "https://www.youtube.com/watch?v=ivjLlk02coU"
+    },
     {
       "id": "teAdOCheSqU",
       "title": "Gemini 4 Carbon 寫出三個作品，交付前怎麼驗？",
@@ -116,14 +124,6 @@
       "date": "2026-11-06",
       "duration": "9:43",
       "url": "https://www.youtube.com/watch?v=7Cdo3M77ACw"
-    },
-    {
-      "id": "-IItcEXGT2Q",
-      "title": "ChatGPT Images 2.6：圖片會動，還能接著改嗎？ | GIFs & Edits",
-      "publishedAt": "2026-11-05T23:19:49+00:00",
-      "date": "2026-11-06",
-      "duration": "11:48",
-      "url": "https://www.youtube.com/watch?v=-IItcEXGT2Q"
     }
   ]
 }
