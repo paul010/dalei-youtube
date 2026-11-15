@@ -45,6 +45,9 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-14 | [Claude Fable 5.2 做賽車｜跑得快，怎麼驗證更好玩？](episodes/2026-11/GclYNJxRFLw.md) | 8:41 |
+| 11-14 | [Gemini 4 Hydrogen × Claude Fable 5.2｜AI 交付的成果，下次誰接手？](episodes/2026-11/hBpfp70X_hs.md) | 8:35 |
+| 11-14 | [Office 進 Copilot：Word、Excel、PowerPoint 做完，怎麼交給同事？](episodes/2026-11/rL-P9qSL-8U.md) | 8:45 |
 | 11-12 | [Copilot App Blocks：圖表能動，結果就可信嗎？｜3D 地標與收入模型拆解](episodes/2026-11/ivjLlk02coU.md) | 8:56 |
 | 11-11 | [Gemini 4 Carbon 寫出三個作品，交付前怎麼驗？](episodes/2026-11/teAdOCheSqU.md) | 8:36 |
 | 11-11 | [Claude Fable 5.2：遊戲能玩了，下一版怎麼做？](episodes/2026-11/tZ2jiMdHttU.md) | 8:31 |
@@ -54,7 +57,7 @@
 | 11-10 | [Copilot Harness × Foundry：報告做完了，越權怎麼攔？](episodes/2026-11/ulwMu_dpOCw.md) | 9:23 |
 | 11-09 | [GPT-6.2 Sol？方塊世界能挖能放，動作遊戲接得上嗎？](episodes/2026-11/UWU26IlgdbM.md) | 9:13 |
 | 11-09 | [GPT-6.2 Sol 真的來了？先看黑洞、寶塔與浮城這些作品](episodes/2026-11/PlmhygNm1b4.md) | 9:22 |
-| 11-09 | [Copilot 十大更新：Excel、PowerPoint、Teams，先用哪一步？](episodes/2026-11/dh5Zz6FdCjI.md) | 8:38 |
+| 11-09 | [Copilot 十大更新：會排程以後，誰按確認？｜Teams、Autopilot 與工作交接](episodes/2026-11/dh5Zz6FdCjI.md) | 8:38 |
 | 11-08 | [Claude × Qwen 做遊戲：什麼讓人想進去玩？｜地牢、方塊與 AI 小世界](episodes/2026-11/5e1Ys72byGc.md) | 8:57 |
 | 11-08 | [Copilot 多開以後，誰來驗收？｜納德拉談 Agent、Entra 與工作交接](episodes/2026-11/G46m_DzhqUQ.md) | 10:03 |
 | 11-08 | [Qwen4 預覽能造世界？下水卡住之後，下一次改動接得住嗎？](episodes/2026-11/fhgaNDMzUTY.md) | 8:53 |

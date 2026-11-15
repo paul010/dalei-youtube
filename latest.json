@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-14T02:08:44+00:00",
+  "updatedAt": "2026-11-15T01:05:39+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "GclYNJxRFLw",
+      "title": "Claude Fable 5.2 做賽車｜跑得快，怎麼驗證更好玩？",
+      "publishedAt": "2026-11-14T13:46:03+00:00",
+      "date": "2026-11-14",
+      "duration": "8:41",
+      "url": "https://www.youtube.com/watch?v=GclYNJxRFLw"
+    },
+    {
+      "id": "hBpfp70X_hs",
+      "title": "Gemini 4 Hydrogen × Claude Fable 5.2｜AI 交付的成果，下次誰接手？",
+      "publishedAt": "2026-11-14T12:04:49+00:00",
+      "date": "2026-11-14",
+      "duration": "8:35",
+      "url": "https://www.youtube.com/watch?v=hBpfp70X_hs"
+    },
+    {
+      "id": "rL-P9qSL-8U",
+      "title": "Office 進 Copilot：Word、Excel、PowerPoint 做完，怎麼交給同事？",
+      "publishedAt": "2026-11-14T04:42:03+00:00",
+      "date": "2026-11-14",
+      "duration": "8:45",
+      "url": "https://www.youtube.com/watch?v=rL-P9qSL-8U"
+    },
     {
       "id": "ivjLlk02coU",
       "title": "Copilot App Blocks：圖表能動，結果就可信嗎？｜3D 地標與收入模型拆解",
@@ -79,7 +103,7 @@
     },
     {
       "id": "dh5Zz6FdCjI",
-      "title": "Copilot 十大更新：Excel、PowerPoint、Teams，先用哪一步？",
+      "title": "Copilot 十大更新：會排程以後，誰按確認？｜Teams、Autopilot 與工作交接",
       "publishedAt": "2026-11-08T22:38:00+00:00",
       "date": "2026-11-09",
       "duration": "8:38",
@@ -100,30 +124,6 @@
       "date": "2026-11-08",
       "duration": "10:03",
       "url": "https://www.youtube.com/watch?v=G46m_DzhqUQ"
-    },
-    {
-      "id": "fhgaNDMzUTY",
-      "title": "Qwen4 預覽能造世界？下水卡住之後，下一次改動接得住嗎？",
-      "publishedAt": "2026-11-07T22:35:07+00:00",
-      "date": "2026-11-08",
-      "duration": "8:53",
-      "url": "https://www.youtube.com/watch?v=fhgaNDMzUTY"
-    },
-    {
-      "id": "grWgxb7bc1E",
-      "title": "Claude 6 傳聞、GPT-6 Cyber 官宣｜AI 動手後，誰驗收？",
-      "publishedAt": "2026-11-07T00:13:39+00:00",
-      "date": "2026-11-07",
-      "duration": "8:50",
-      "url": "https://www.youtube.com/watch?v=grWgxb7bc1E"
-    },
-    {
-      "id": "7Cdo3M77ACw",
-      "title": "SharePoint × Work IQ：AI 能建資料庫，怎樣才算做好？ | SharePoint Tools Explained",
-      "publishedAt": "2026-11-06T06:50:58+00:00",
-      "date": "2026-11-06",
-      "duration": "9:43",
-      "url": "https://www.youtube.com/watch?v=7Cdo3M77ACw"
     }
   ]
 }
