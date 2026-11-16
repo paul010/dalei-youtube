@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-15T01:05:39+00:00",
+  "updatedAt": "2026-11-16T00:56:51+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "9usqefEqQbg",
+      "title": "Grok Bot 團隊一個月合併約 1.1 萬 PR｜AI 改的程式碼，靠什麼敢合？",
+      "publishedAt": "2026-11-15T09:27:10+00:00",
+      "date": "2026-11-15",
+      "duration": "8:34",
+      "url": "https://www.youtube.com/watch?v=9usqefEqQbg"
+    },
+    {
+      "id": "MjTbxs6g49w",
+      "title": "Gemini 4 Krypton、GPT-6.2 Astra 傳聞｜火箭、月球與港口能證明什麼？",
+      "publishedAt": "2026-11-15T02:58:35+00:00",
+      "date": "2026-11-15",
+      "duration": "9:04",
+      "url": "https://www.youtube.com/watch?v=MjTbxs6g49w"
+    },
     {
       "id": "GclYNJxRFLw",
       "title": "Claude Fable 5.2 做賽車｜跑得快，怎麼驗證更好玩？",
@@ -103,27 +119,11 @@
     },
     {
       "id": "dh5Zz6FdCjI",
-      "title": "Copilot 十大更新：會排程以後，誰按確認？｜Teams、Autopilot 與工作交接",
+      "title": "Copilot 十大更新：Excel、PowerPoint、Teams，先用哪一步？",
       "publishedAt": "2026-11-08T22:38:00+00:00",
       "date": "2026-11-09",
       "duration": "8:38",
       "url": "https://www.youtube.com/watch?v=dh5Zz6FdCjI"
-    },
-    {
-      "id": "5e1Ys72byGc",
-      "title": "Claude × Qwen 做遊戲：什麼讓人想進去玩？｜地牢、方塊與 AI 小世界",
-      "publishedAt": "2026-11-08T10:18:52+00:00",
-      "date": "2026-11-08",
-      "duration": "8:57",
-      "url": "https://www.youtube.com/watch?v=5e1Ys72byGc"
-    },
-    {
-      "id": "G46m_DzhqUQ",
-      "title": "Copilot 多開以後，誰來驗收？｜納德拉談 Agent、Entra 與工作交接",
-      "publishedAt": "2026-11-08T03:20:06+00:00",
-      "date": "2026-11-08",
-      "duration": "10:03",
-      "url": "https://www.youtube.com/watch?v=G46m_DzhqUQ"
     }
   ]
 }

@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 16023)
+Total output lines: 620
+
 <p align="center">
   <img src="avatar.jpg" width="120" style="border-radius: 50%;" alt="大雷早上好">
 </p>
@@ -45,6 +48,8 @@
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-15 | [Grok Bot 團隊一個月合併約 1.1 萬 PR｜AI 改的程式碼，靠什麼敢合？](episodes/2026-11/9usqefEqQbg.md) | 8:34 |
+| 11-15 | [Gemini 4 Krypton、GPT-6.2 Astra 傳聞｜火箭、月球與港口能證明什麼？](episodes/2026-11/MjTbxs6g49w.md) | 9:04 |
 | 11-14 | [Claude Fable 5.2 做賽車｜跑得快，怎麼驗證更好玩？](episodes/2026-11/GclYNJxRFLw.md) | 8:41 |
 | 11-14 | [Gemini 4 Hydrogen × Claude Fable 5.2｜AI 交付的成果，下次誰接手？](episodes/2026-11/hBpfp70X_hs.md) | 8:35 |
 | 11-14 | [Office 進 Copilot：Word、Excel、PowerPoint 做完，怎麼交給同事？](episodes/2026-11/rL-P9qSL-8U.md) | 8:45 |
@@ -57,7 +62,7 @@
 | 11-10 | [Copilot Harness × Foundry：報告做完了，越權怎麼攔？](episodes/2026-11/ulwMu_dpOCw.md) | 9:23 |
 | 11-09 | [GPT-6.2 Sol？方塊世界能挖能放，動作遊戲接得上嗎？](episodes/2026-11/UWU26IlgdbM.md) | 9:13 |
 | 11-09 | [GPT-6.2 Sol 真的來了？先看黑洞、寶塔與浮城這些作品](episodes/2026-11/PlmhygNm1b4.md) | 9:22 |
-| 11-09 | [Copilot 十大更新：會排程以後，誰按確認？｜Teams、Autopilot 與工作交接](episodes/2026-11/dh5Zz6FdCjI.md) | 8:38 |
+| 11-09 | [Copilot 十大更新：Excel、PowerPoint、Teams，先用哪一步？](episodes/2026-11/dh5Zz6FdCjI.md) | 8:38 |
 | 11-08 | [Claude × Qwen 做遊戲：什麼讓人想進去玩？｜地牢、方塊與 AI 小世界](episodes/2026-11/5e1Ys72byGc.md) | 8:57 |
 | 11-08 | [Copilot 多開以後，誰來驗收？｜納德拉談 Agent、Entra 與工作交接](episodes/2026-11/G46m_DzhqUQ.md) | 10:03 |
 | 11-08 | [Qwen4 預覽能造世界？下水卡住之後，下一次改動接得住嗎？](episodes/2026-11/fhgaNDMzUTY.md) | 8:53 |
@@ -211,164 +216,7 @@
 |------|------|------|
 | 07-31 | [Gemini 4秘密泄露！谷歌绝地反击，GPT 5要慌了？Gemini 4 Secret Leaked! Google's Counterattack, Should GPT-5 Panic?](episodes/2026-07/kLAoQYLGvvI.md) | 8:39 |
 | 07-12 | [GPT 5.6评测：性能不输Claude，价格却便宜到离谱！GPT-5.6 Review: Matches Claude's Performance, But is Shockingly.](episodes/2026-07/k9LK4ZD8gAs.md) | 8:34 |
-| 07-05 | [Fable 5内心独白泄露！AI竟用“克劳德语”秘密思考？Fable 5's Inner Monologue Leaked! Does AI Secretly Think "Claudenese"?](episodes/2026-07/bzEinn6u7ag.md) | 7:09 |
-| 07-05 | [GPT 5 6最大秘密：为何它将“戴着镣铐跳舞” The Biggest Secret of GPT-5.6: Why It Will 'Dance in Shackles'?](episodes/2026-07/VuYTg4ghlwI.md) | 8:11 |
-| 07-04 | [Claude Sonnet 5：性能直逼Opus？价格竟有大陷阱！Claude Sonnet 5: Opus-Level Performance? But There's a HUGE Pricing](episodes/2026-07/DY585co5C2k.md) | 8:47 |
-
-#### 6月
-| 日期 | 标题 | 时长 |
-|------|------|------|
-| 06-29 | [AI圈炸锅！Fable 5现身又消失？GPT 5秘密泄露 AI World Explodes! Fable 5 Appears, Then Vanishes? GPT-5 Secrets Leaked](episodes/2026-06/GRfMMr9MvoM.md) | 9:30 |
-| 06-28 | [99%的人都被骗了！深度揭秘Sakana Fugu，它根本不是一个模型！99% of People Are Fooled! The Truth About Sakana Fugu](episodes/2026-06/YTVzy2fa3eg.md) | 9:05 |
-| 06-23 | [AI大模型巨头混战！GPT 5、Sonnet 5秘密曝光 AI Model War! GPT-5, Sonnet 5 Secrets EXPOSED!](episodes/2026-06/od-h3z3IBvI.md) | 10:24 |
-| 06-21 | [GLM 5 2：开源AI王者！超越闭源，成本仅6美分 GLM-5.2: Open-Source AI King! Outperforms Closed-Source, Costs Only 6](episodes/2026-06/g1HyPrFKIAM.md) | 7:44 |
-| 06-20 | [Google NotebookLM大升级！AI复读机变身效率神器 Google NotebookLM Upgrade: AI Reader to Productivity Powerhouse](episodes/2026-06/npdiDxGwhlA.md) | 9:10 |
-| 06-18 | [世界盃來了！Edimakor AI 一鍵套世界盃模板＋數字人配音，新手也能做出精彩賽事短片｜HitPaw Edimakor 實測](episodes/2026-06/l05jMiw9AYk.md) | 6:09 |
-| 06-18 | [Kimi2.7 杀疯了！国产AI硬刚GPT-5，程序员要失业了？Kimi5.2 Goes Wild! China's AI Takes on GPT-5, Will Programmers Lose](episodes/2026-06/wV8LclJ9y6I.md) | 10:50 |
-| 06-14 | [震惊！美国政府竟全球禁用Anthropic AI模型？Shock! US Gov Globally Bans Anthropic AI Models?](episodes/2026-06/xMWnphgpBho.md) | 9:44 |
-| 06-14 | [GLM 5.2下周炸裂！百万Token开源模型颠覆AI圈 GLM 5.2 Dropping Next Week! Million-Token Open-Source Model Shakes AI](episodes/2026-06/SbqW8Emp9Uw.md) | 11:30 |
-| 06-11 | [Fable 5 强到离谱！一句话生成游戏，最强AI王座易主？](episodes/2026-06/Zv4hXUhzwbU.md) | 7:49 |
-| 06-10 | [估值千亿却叫停AI？Anthropic内部揭秘：RSI的真相！](episodes/2026-06/XjYrACWk-98.md) | 17:47 |
-| 06-07 | [AI圈大地震！Anthropic新王牌因内鬼泄密，紧急叫停](episodes/2026-06/DYoum8FiOzI.md) | 9:35 |
-| 06-06 | [AI圈神仙打架！GPT 5.6下周发布？微软阿里连放大招](episodes/2026-06/i0fgwuxG4p0.md) | 9:57 |
-| 06-03 | [微软AI王炸！没人告诉你的Windows新功能，开发者狂喜！](episodes/2026-06/q4X4cD-Phyk.md) | 7:26 |
-| 06-03 | [MiniMax M3震撼发布！性能反超GPT-5.5，最强开源AI来了？](episodes/2026-06/kxQpKt17qnM.md) | 11:27 |
-| 06-01 | [5美元实测 DogRouter：AI Gateway 到底能不能跑通？](episodes/2026-06/SX36VfssYCg.md) | 4:56 |
-
-#### 6月
-| 日期 | 标题 | 时长 |
-|------|------|------|
-| 06-29 | [Agentic Browser 终极进化：浏览器不再只是工具，而是你的AI数字助理！](episodes/2025-06/WmOOppOLWIw.md) | 9:45 |
-
-#### 5月
-| 日期 | 标题 | 时长 |
-|------|------|------|
-| 05-31 | [微软不装了？Microsoft MAI Models 曝光，Build 2026 前 OpenAI 之外的新底座来了？](episodes/2026-05/Z7qxUs4uJ8c.md) | 3:00 |
-| 05-30 | [SpaceX上市别乱冲！3个真相让你避免当"冤大头"](episodes/2026-05/heh30i5P9Vw.md) | 3:30 |
-| 05-29 | [AI大战升级！谷歌Claude内部泄密，六月AI圈彻底疯狂](episodes/2026-05/ivriPRWO03Q.md) | 9:12 |
-| 05-29 | [Claude 4.8 Opus突袭！实测后我沉默了：AI王座换人](episodes/2026-05/7nhlbyuLtvA.md) | 8:35 |
-| 05-28 | [一边裁员22%，一边发百万年薪！揭秘科技圈残酷新玩法](episodes/2026-05/E8I0cs8MDD0.md) | 12:00 |
-| 05-27 | [哈佛研究警告：AI没让你失业，但正在"杀死"你的精力](episodes/2026-05/Eew-CiwKoKg.md) | 13:10 |
-| 05-27 | [AI大战升级！GPT 5.6、Mythos模型遭泄露，神仙打架](episodes/2026-05/5-Gn7n5VtpU.md) | 9:52 |
-| 05-25 | [阿里Qwen 3.7-Max：挑战GPT、Opus的Agent全能王](episodes/2026-05/mth6PMVl6TA.md) | 8:34 |
-| 05-24 | [OpenAI造富神话：人均千万！Meta却裁员8000？科技圈的魔幻真相](episodes/2026-05/jbbqgo6ntnY.md) | 13:28 |
-| 05-24 | [谷歌AI王炸！IO揭秘：你的搜索和油管将被彻底改变](episodes/2026-05/Fh-HbX03Y_E.md) | 18:53 |
-| 05-23 | [Gemini 3.5 Flash 评测：一行指令复刻Win95！但成本陷阱让我哭笑不得](episodes/2026-05/yxxt9eLAhHI.md) | 6:25 |
-| 05-17 | [Meta员工的绝望反抗：一边被裁员，一边被迫训练AI替代自己](episodes/2026-05/lliAwm582yU.md) | 9:58 |
-| 05-16 | [OpenAI颠覆编程！Codex变身超级应用，手机远程操控Mac](episodes/2026-05/DWkZiZ8siys.md) | 9:09 |
-| 05-09 | [AI基建商的好日子到头了！2026年真正的印钞机是它](episodes/2026-05/S1tEStEIM44.md) | 9:26 |
-| 05-08 | [AI裁员的死亡循环：你越用AI保命，老板裁你越狠](episodes/2026-05/b-g9Nm8JeFs.md) | 5:56 |
-| 05-07 | [AI编程太爽？别傻了，这才是程序员裁员的开始！](episodes/2026-05/biu14WMMzXU.md) | 10:45 |
-| 05-07 | [告别Claude Design！这款开源平替Open Design强到离谱](episodes/2026-05/Lh1KrgjnZcE.md) | 12:47 |
-| 05-06 | [AI编程革命：你的工作只剩半年？硅谷大佬揭秘残酷真相](episodes/2026-05/499jf12gHo0.md) | 8:44 |
-| 05-05 | [DeepSeek V4封神！AI编程成本暴降70%，效率不输Claude](episodes/2026-05/JaK9dQ4DaVY.md) | 8:28 |
-| 05-04 | [Meta裁员万人，股价暴跌！揭秘AI竞赛中被掐住的5大致命弱点](episodes/2026-05/xFxP57rW4xg.md) | 7:45 |
-| 05-04 | [AI比人贵3倍！大厂裁员的惊人真相：你只是在为AI付电费](episodes/2026-05/BqDqzksHxCA.md) | 8:30 |
-| 05-03 | [AI血洗印度IT业！700万岗位告急，下一个轮到你？](episodes/2026-05/SiYFAs7Y7So.md) | 9:02 |
-| 05-03 | [谷歌偷偷放出的AI王炸！Gemini Flash 3.2新模型性能炸裂，差距大到离谱！](episodes/2026-05/DUCn8fsjKgY.md) | 8:39 |
-| 05-02 | [Codex逆天更新！教你免费孵化专属AI宠物，99%的人还不知道](episodes/2026-05/GmF25_QlvHs.md) | 9:49 |
-| 05-01 | [AI大战升级！GPT-5.5悄然登场，性能碾压Claude](episodes/2026-05/U2VpWeKuzBA.md) | 13:24 |
-
-#### 4月
-| 日期 | 标题 | 时长 |
-|------|------|------|
-| 04-25 | [GPT-5.5深度评测：它不是AI，是你的全能数字员工！](episodes/2026-04/WceOn-OpayE.md) | 9:48 |
-| 04-18 | [设计师要失业了？Anthropic发布Claude Design，一句话生成网页！](episodes/2026-04/0vIqe5m7JeQ.md) | 12:46 |
-| 04-17 | [Claude 4.7发布，但最强AI并非它？揭秘Anthropic隐藏王牌](episodes/2026-04/hoLESSjvtWs.md) | 9:58 |
-| 04-16 | [Claude桌面版史诗级更新！它不再是聊天，而是你的专属AI程序员](episodes/2026-04/KiBFvIS4qS8.md) | 9:58 |
-| 04-15 | [Claude 4.7内部泄露！Anthropic秘密武器曝光，AI大战升级](episodes/2026-04/K96s0j8QswU.md) | 11:18 |
-| 04-14 | [重磅泄露！OpenAI的Codex超级应用和GPT 5.5即将发布](episodes/2026-04/zBKmpi14nuY.md) | 7:05 |
-| 04-13 | [别再切换APP了！Gemini与NotebookLM合体，彻底改变你的工作流](episodes/2026-04/JvkJsDvo-gk.md) | 10:53 |
-| 04-12 | [Meta放出AI王炸！Muse Spark一行指令复刻macOS，太强了](episodes/2026-04/OKyYvT5pfTc.md) | 8:25 |
-| 04-10 | [Anthropic放出王炸！Claude Managed Agents AI开发游戏规则变了](episodes/2026-04/9MwWWlj5syY.md) | 7:48 |
-| 04-09 | [🌶️ Ghost Pepper 按住就说，松开就出——本地AI语音转文字，彻底干掉 $17/月订阅费](episodes/2026-04/3rC3yG3tVb4.md) | 7:26 |
-| 04-08 | [Anthropic密不外传的AI：能自主攻击Windows，科技巨头紧急联手](episodes/2026-04/mtelqPogGyc.md) | 10:02 |
-| 04-07 | [Karpathy揭秘：别再把AI当聊天机器人，这样打造第二大脑](episodes/2026-04/37czL7hLLPM.md) | 3:16 |
-| 04-06 | [AI圈大地震！OpenAI密谋GPT-6，DeepSeek竟全面转向华为](episodes/2026-04/OhLpe7EPwpQ.md) | 8:32 |
-| 04-06 | [别再用OpenClaw！Claude官方封禁，这是唯一解决方案](episodes/2026-04/hdbYUoojeXs.md) | 2:45 |
-| 04-05 | [人类54年后再奔月！阿尔忒弥斯2号飞向深空，宇航员首次实时连线地球！](episodes/2026-04/z1SU1KsQ9G0.md) | 19:34 |
-| 04-05 | [谷歌杀疯了！Gemma 4彻底开源，31B模型挑战百亿巨兽！](episodes/2026-04/iqCr_pudCAA.md) | 5:51 |
-| 04-04 | [开源AI干翻闭源！Qwen 3 6 Plus实测，一行命令写出操作系统](episodes/2026-04/uA7yqjlAlK8.md) | 6:48 |
-
-#### 3月
-| 日期 | 标题 | 时长 |
-|------|------|------|
-| 03-23 | [别再手动写代码了！谷歌AI Studio新功能，一句提示搞定全栈开发](episodes/2026-03/NlDdX1dgGMs.md) | 7:57 |
-| 03-21 | [英伟达GTC重磅！最火AI智能体OpenClaw迎来官方安全方案](episodes/2026-03/KD9F9uk8Y9I.md) | 9:17 |
-| 03-21 | [前端开发要变天了？谷歌Stitch发布，AI一句话生成完整网页！](episodes/2026-03/google-stitch-vibe-design.md) | 8:29 |
-| 03-15 | [谷歌AI秘密武器泄露！Stitch一键生成React代码](episodes/2026-03/google-stitch-leak.md) | 6:42 |
-| 03-14 | [谷歌AI编程神器发布！Antigravity让AI帮你写全栈应用](episodes/2026-03/antigravity-agentkit.md) | ~9 min |
-| 03-13 | [Claude Code颠覆更新：99%程序员不知道的AI自动化神技](episodes/2026-03/claude-code-massive-update.md) | 8:50 |
-| 03-09 | [谷歌免费AI + Claude Code：颠覆传统的AI编程工作流，效率飙升！](episodes/2026-03/notebooklm-claude-code.md) | 8:32 |
-| 03-08 | [Claude Code 重磅更新：AI 变身 24/7 自动化助理！](episodes/2026-03/claude-code-loop-subagent.md) | ~8 min |
-| 03-07 | [别再手动Debug了！Claude Code史诗级更新，AI已能自我进化](episodes/2026-03/_bTkrufY4jA.md) | 7:44 |
-| 03-02 | [谷歌Nano Banana 2：速度与画质碾压对手](episodes/2026-03/vhB19rEtp5M.md) | 5:40 |
-
-#### 2月
-| 日期 | 标题 | 时长 |
-|------|------|------|
-| 02-25 | [我让Gemini 3.1 Pro和Opus 4.6合作，结果比想象还牛](episodes/2026-02/rwikyC5_YKg.md) | 8:23 |
-| 02-24 | [谷歌AI Studio新手速成：7分钟上手构建模式](episodes/2026-02/eIdEQ8O3jf8.md) | 6:11 |
-| 02-22 | [别再手写UI了！用Pencil把Figma直接转成代码](episodes/2026-02/I5ZvnS0QHeI.md) | 7:49 |
-| 02-21 | [别再手动查Bug！Claude Code 自动修复实录](episodes/2026-02/ygw9jQXyOVg.md) | 8:21 |
-| 02-20 | [别再用旧模型！Gemini 3 1 Pro的4大优势](episodes/2026-02/aa5pBJtqIJk.md) | 10:42 |
-| 02-20 | [别错过！Sonnet 4 6 竟能写出完整操作系统界面](episodes/2026-02/nu2ElcYSkb0.md) | 9:28 |
-| 02-17 | [智能体团队 vs 子智能体：哪个更适合你的项目？](episodes/2026-02/s964eFhxIck.md) | 7:40 |
-| 02-15 | [Gemini Deep Think：谷歌发布能做博士级推理的](episodes/2026-02/fjgvDy8Ps2k.md) | 7:53 |
-| 02-14 | [GLM-5真相：Pony Alpha在OpenRouter上被实锤？](episodes/2026-02/B_xi3lwu2xY.md) | 6:27 |
-| 02-11 | [AI Frontier模式：你的AI不再等指令，它自己干活了 / OpenClaw 10分钟上手](episodes/2026-02/OUQY1Mf-F3k.md) | 9:28 |
-| 02-09 | [Gemini 3 Pro 震撼演示：AI实时生成可交互iPhone克隆](episodes/2026-02/D15bDEZNBvc.md) | 7:21 |
-| 02-08 | [MiniMax Agent：把桌面变成你的贾维斯（无需写代码）](episodes/2026-02/tAYIY9QH2oM.md) | 6:17 |
-| 02-08 | [GPT-5.3 Codex横空出世：OpenAI是否王者归来？](episodes/2026-02/ts422WuKocc.md) | 8:00 |
-| 02-01 | [3步用Antigravity自动化构建AI搜索引擎](episodes/2026-02/OBhUtk8qDqQ.md) | 7:23 |
-
-#### 1月
-| 日期 | 标题 | 时长 |
-|------|------|------|
-| 01-31 | [Kimi K2.5：蜂群开源AI完胜Gemini？](episodes/2026-01/i52JzmA119g.md) | 7:00 |
-| 01-24 | [Antigravity+OpenCode：免费打造终极AI编程工作流](episodes/2026-01/CBDpvP8AS2s.md) | 7:07 |
-| 01-18 | [别再等了！立刻去用谷歌AI Studio的5个理由](episodes/2026-01/IpTfX2KUll0.md) | 7:55 |
-| 01-17 | [别再只让Antigravity写代码！你忽略的强大功能](episodes/2026-01/AhSkVDN2LVg.md) | 6:14 |
-| 01-15 | [Cowork：Anthropic的AI同事能替你做桌面工作](episodes/2026-01/Jbf7c-U7JRQ.md) | 6:10 |
-| 01-13 | [Anthropic封堵Claude后：Antigravity免费接入](episodes/2026-01/XgXbWGs0Juo.md) | 7:13 |
-| 01-12 | [Gemini CLI 支持Agent Skills，开发者必看！](episodes/2026-01/TVq3PGyzkHo.md) | 7:27 |
-| 01-08 | [别再错过Manus 1 6的5个革命性功能！](episodes/2026-01/Roa1tWxa6a4.md) | 7:31 |
-| 01-05 | [Grok 4 2即将发布：能超越Gemini吗？](episodes/2026-01/_QO_bTxy8kY.md) | 7:12 |
-| 01-04 | [Design OS：让AI做出有设计感的前端](episodes/2026-01/k2ikGSCIdJo.md) | 6:44 |
-| 01-03 | [IQuest Coder：Loop架构能救开源模型吗？](episodes/2026-01/XZD22LwaO1w.md) | 7:56 |
-| 01-02 | [Ralph Loop让Claude Code永不摸鱼](episodes/2026-01/FemDYno1rqQ.md) | 7:06 |
-| 01-01 | [【2026最强AI生圖】🔥 朋友圈刷屏！AI 明星合影影片怎麼做？無痕合成＋圖生影＋首尾幀轉場全解析🎬 零基礎也能搞定｜Edimakor 實測](episodes/2026-01/ybp6_XdtA40.md) | 7:04 |
-
-### 2025
-
-#### 12月
-| 日期 | 标题 | 时长 |
-|------|------|------|
-| 12-31 | [A2UI实测：AI一键生成可交互界面](episodes/2025-12/dpbBtdcEpvA.md) | 7:10 |
-| 12-29 | [别再只把AI当工具人！AIRIS在我的世界自学实测](episodes/2025-12/Lirr7OOeIGk.md) | 7:12 |
-| 12-28 | [Gemini 3 0：10秒完成终极UI自动化演示](episodes/2025-12/1eSIkxsR1wo.md) | 7:17 |
-| 12-26 | [Claude Code新版本揭秘：如何用ultrathink提升质量](episodes/2025-12/BhuizkVw0Vc.md) | 7:43 |
-| 12-24 | [GLM 4 7实测：5项能力让它超越闭源模型](episodes/2025-12/GuMneJoWKFo.md) | 9:34 |
-| 12-21 | [iOS App开发教程 (2/7): 配置VS Code与AI编程助手(Codex) / AI驱动开发环境搭建](episodes/2025-12/AqNMaeeMmLs.md) | 3:38 |
-| 12-21 | [iOS App开发入门教程 (1/7): 手把手教你用Xcode创建第一个iPhone应用](episodes/2025-12/9wJfYy5jbz0.md) | 4:26 |
-| 12-20 | [别再只用提示词！用Inngest做上下文工程](episodes/2025-12/L660NxTuZ9M.md) | 7:53 |
-| 12-20 | [用AI做iOS App 101：一天从0到1上手实战](episodes/2025-12/MYRTe8Rnd7E.md) | 1:36 |
-| 12-19 | [Gemini 3 Flash秒出代码，开发者必看](episodes/2025-12/2xQ6b6HBHQg.md) | 5:53 |
-| 12-17 | [别错过！Super Gems将把Gemini变成你的AI工厂](episodes/2025-12/Z05NlKOE-ao.md) | 7:12 |
-| 12-16 | [别再用慢工具！OpenCode让小快4倍](episodes/2025-12/Goz4JGCX2hA.md) | 6:29 |
-| 12-15 | [Gemini 3.0 Flash 泄露：幽灵猎鹰与凶猛猎鹰](episodes/2025-12/cN4MUl5Jtp8.md) | 7:35 |
-| 12-13 | [别再花钱了！Antigravity免费联动Gemini与](episodes/2025-12/OccHH-jfllU.md) | 9:10 |
-| 12-12 | [GPT 5.2实测：它真比人类聪明吗？](episodes/2025-12/fJ_9MXzhsmM.md) | 6:38 |
-| 12-11 | [别再手写UI！谷歌Stitch秒出前端代码](episodes/2025-12/q39R39YzS7c.md) | 5:39 |
-| 12-10 | [Devstral 2：开源模型竟威胁到Gemini？](episodes/2025-12/SUFqnu8o-aw.md) | 7:25 |
-| 12-08 | [Gemini 3 0 Flash提前亮相！速度快到离谱](episodes/2025-12/QfYUJg1DAqI.md) | 6:14 |
-| 12-07 | [没人告诉你的NotebookLM隐藏功能：AI播客、视频全能](episodes/2025-12/hNE-5Lc1szc.md) | 6:36 |
-| 12-07 | [95%准确率？LazyTyper实测，结果惊人](episodes/2025-12/1sN0nYvACG0.md) | 4:14 |
-| 12-06 | [Neo 浏览器测评：隐私与AI真的能兼得吗？](episodes/2025-12/Ft0QN9079ws.md) | 8:53 |
-| 12-05 | [别再盯代码！开启Traycer YOLO模式立刻解放双手](episodes/2025-12/jb45PVd2_Jk.md) | 7:32 |
-| 12-04 | [别错过！Mistral 3开源与GGUF量化实测](episodes/2025-12/C3eAImdcT14.md) | 7:15 |
-| 12-04 | [手势控制3D粒子：零成本实时互动演示](episodes/2025-12/dYTeo_qNX6E.md) | 1:04 |
-| 12-03 | [别再纠结Gemini还是Claude！教你双引擎开发](episodes/2025-12/Kdy88kNpJ4Q.md) | 6:52 |
+| 07-…4023 tokens truncated…des/2025-12/Kdy88kNpJ4Q.md) | 6:52 |
 | 12-02 | [别再啃源码！Code Wiki自动生成完整文档](episodes/2025-12/GXK1no3qb2Y.md) | 6:25 |
 
 #### 11月
