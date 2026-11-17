@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-16T02:03:26+00:00",
+  "updatedAt": "2026-11-17T00:59:56+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "98Px6MsK2Y4",
+      "title": "Qwen4-Max 做出會飛的 Unity 賽車｜第一版做完，誰能接手？",
+      "publishedAt": "2026-11-16T10:20:54+00:00",
+      "date": "2026-11-16",
+      "duration": "9:20",
+      "url": "https://www.youtube.com/watch?v=98Px6MsK2Y4"
+    },
+    {
+      "id": "pe6rjkLzzs8",
+      "title": "Jev 實戰集錦｜Agent 顯示完成，為什麼還在選付款？",
+      "publishedAt": "2026-11-16T10:08:03+00:00",
+      "date": "2026-11-16",
+      "duration": "9:08",
+      "url": "https://www.youtube.com/watch?v=pe6rjkLzzs8"
+    },
+    {
+      "id": "odn-Xqxt1Kc",
+      "title": "Gemini 4 Hydrogen 做出 3D 火箭｜這些 AI 演示，怎樣才算能交付？",
+      "publishedAt": "2026-11-16T03:20:50+00:00",
+      "date": "2026-11-16",
+      "duration": "9:01",
+      "url": "https://www.youtube.com/watch?v=odn-Xqxt1Kc"
+    },
     {
       "id": "9usqefEqQbg",
       "title": "Grok Bot 團隊一個月合併約 1.1 萬 PR｜AI 改的程式碼，靠什麼敢合？",
@@ -100,30 +124,6 @@
       "date": "2026-11-10",
       "duration": "9:23",
       "url": "https://www.youtube.com/watch?v=ulwMu_dpOCw"
-    },
-    {
-      "id": "UWU26IlgdbM",
-      "title": "GPT-6.2 Sol？方塊世界能挖能放，動作遊戲接得上嗎？",
-      "publishedAt": "2026-11-09T13:21:36+00:00",
-      "date": "2026-11-09",
-      "duration": "9:13",
-      "url": "https://www.youtube.com/watch?v=UWU26IlgdbM"
-    },
-    {
-      "id": "PlmhygNm1b4",
-      "title": "GPT-6.2 Sol 真的來了？先看黑洞、寶塔與浮城這些作品",
-      "publishedAt": "2026-11-09T10:14:20+00:00",
-      "date": "2026-11-09",
-      "duration": "9:22",
-      "url": "https://www.youtube.com/watch?v=PlmhygNm1b4"
-    },
-    {
-      "id": "dh5Zz6FdCjI",
-      "title": "Copilot 十大更新：Excel、PowerPoint 做完，還要查什麼？",
-      "publishedAt": "2026-11-08T22:38:00+00:00",
-      "date": "2026-11-09",
-      "duration": "8:38",
-      "url": "https://www.youtube.com/watch?v=dh5Zz6FdCjI"
     }
   ]
 }

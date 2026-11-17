@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 12124)
+Total output lines: 469
+
 Warning: truncated output (original token count: 16023)
 Total output lines: 620
 
@@ -48,6 +51,9 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-16 | [Qwen4-Max 做出會飛的 Unity 賽車｜第一版做完，誰能接手？](episodes/2026-11/98Px6MsK2Y4.md) | 9:20 |
+| 11-16 | [Jev 實戰集錦｜Agent 顯示完成，為什麼還在選付款？](episodes/2026-11/pe6rjkLzzs8.md) | 9:08 |
+| 11-16 | [Gemini 4 Hydrogen 做出 3D 火箭｜這些 AI 演示，怎樣才算能交付？](episodes/2026-11/odn-Xqxt1Kc.md) | 9:01 |
 | 11-15 | [Grok Bot 團隊一個月合併約 1.1 萬 PR｜AI 改的程式碼，靠什麼敢合？](episodes/2026-11/9usqefEqQbg.md) | 8:34 |
 | 11-15 | [Gemini 4 Krypton、GPT-6.2 Astra 傳聞｜火箭、月球與港口能證明什麼？](episodes/2026-11/MjTbxs6g49w.md) | 9:04 |
 | 11-14 | [Claude Fable 5.2 做賽車｜跑得快，怎麼驗證更好玩？](episodes/2026-11/GclYNJxRFLw.md) | 8:41 |
@@ -209,14 +215,7 @@ Total output lines: 620
 | 08-15 | [Meta重磅开源Muse Glimmer 30B本地Agent最强神仙模型来了 Meta Open-Sources Muse Glimmer 30B: The Ultimate Local Agent](episodes/2026-08/PrMqZRts3s8.md) | 8:22 |
 | 08-12 | [比GPT-6更可怕？OpenAI秘密模型Doug曝光，AI圈炸裂！Scarier Than GPT-6? OpenAI's Secret Model 'Doug' Leaked!](episodes/2026-08/_UqkjPAWWpY.md) | 9:44 |
 | 08-10 | [科技圈大动荡！谷歌Gemini紧急叫停，字节秘密训练5万亿模型！AI Industry Shakeup! Gemini Delayed & ByteDance Trains 5T Model!](episodes/2026-08/oRnwqkjQktg.md) | 11:23 |
-| 08-09 | [AI三国杀！马斯克Grok激战OpenAI，Ilya携王牌入局！AI's 3-Way War! Musk's Grok Battles OpenAI as Ilya Enters](episodes/2026-08/D0TTZWbyG-Q.md) | 9:18 |
-
-#### 7月
-| 日期 | 标题 | 时长 |
-|------|------|------|
-| 07-31 | [Gemini 4秘密泄露！谷歌绝地反击，GPT 5要慌了？Gemini 4 Secret Leaked! Google's Counterattack, Should GPT-5 Panic?](episodes/2026-07/kLAoQYLGvvI.md) | 8:39 |
-| 07-12 | [GPT 5.6评测：性能不输Claude，价格却便宜到离谱！GPT-5.6 Review: Matches Claude's Performance, But is Shockingly.](episodes/2026-07/k9LK4ZD8gAs.md) | 8:34 |
-| 07-…4023 tokens truncated…des/2025-12/Kdy88kNpJ4Q.md) | 6:52 |
+| 08-09 | [AI三国杀！马斯克Grok激战OpenAI，Ilya携王牌入局！AI's 3-Way War! Musk's Grok Battles OpenAI as Ilya Enters](episodes/2…124 tokens truncated…des/2025-12/Kdy88kNpJ4Q.md) | 6:52 |
 | 12-02 | [别再啃源码！Code Wiki自动生成完整文档](episodes/2025-12/GXK1no3qb2Y.md) | 6:25 |
 
 #### 11月
