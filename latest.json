@@ -2,9 +2,33 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-17T00:59:56+00:00",
+  "updatedAt": "2026-11-18T01:14:29+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "yvpUfwpTfrY",
+      "title": "Codex × Claude Code｜AI 做完，重開還能用嗎？",
+      "publishedAt": "2026-11-18T01:03:00+00:00",
+      "date": "2026-11-18",
+      "duration": "8:37",
+      "url": "https://www.youtube.com/watch?v=yvpUfwpTfrY"
+    },
+    {
+      "id": "aZ955NWAFp0",
+      "title": "Copilot Chat Skills 正式上線｜用一份週報學會建立、呼叫和驗收",
+      "publishedAt": "2026-11-17T10:15:58+00:00",
+      "date": "2026-11-17",
+      "duration": "8:52",
+      "url": "https://www.youtube.com/watch?v=aZ955NWAFp0"
+    },
+    {
+      "id": "ryTYnHYV5oY",
+      "title": "HP ZGX Fury 748GB 跑得多快？GLM-5.3 Flash 16 路、離線 Agent、批次轉寫",
+      "publishedAt": "2026-11-17T10:06:36+00:00",
+      "date": "2026-11-17",
+      "duration": "10:11",
+      "url": "https://www.youtube.com/watch?v=ryTYnHYV5oY"
+    },
     {
       "id": "98Px6MsK2Y4",
       "title": "Qwen4-Max 做出會飛的 Unity 賽車｜第一版做完，誰能接手？",
@@ -100,30 +124,6 @@
       "date": "2026-11-11",
       "duration": "6:11",
       "url": "https://www.youtube.com/watch?v=3UkgXcfxWqQ"
-    },
-    {
-      "id": "YRrdqkNYCAs",
-      "title": "GPT-Rosalind：32分鐘找到什麼？線索快了，結論還得驗",
-      "publishedAt": "2026-11-10T07:17:30+00:00",
-      "date": "2026-11-10",
-      "duration": "8:57",
-      "url": "https://www.youtube.com/watch?v=YRrdqkNYCAs"
-    },
-    {
-      "id": "z3RemFzJARo",
-      "title": "Claude Fable 5.2：電路變實物，千個 Agent 誰來驗收？｜Mythos 5.2 解讀",
-      "publishedAt": "2026-11-10T07:06:43+00:00",
-      "date": "2026-11-10",
-      "duration": "9:27",
-      "url": "https://www.youtube.com/watch?v=z3RemFzJARo"
-    },
-    {
-      "id": "ulwMu_dpOCw",
-      "title": "Copilot Harness × Foundry：報告做完了，越權怎麼攔？",
-      "publishedAt": "2026-11-10T06:36:25+00:00",
-      "date": "2026-11-10",
-      "duration": "9:23",
-      "url": "https://www.youtube.com/watch?v=ulwMu_dpOCw"
     }
   ]
 }

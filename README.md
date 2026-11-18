@@ -51,6 +51,9 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-18 | [Codex × Claude Code｜AI 做完，重開還能用嗎？](episodes/2026-11/yvpUfwpTfrY.md) | 8:37 |
+| 11-17 | [Copilot Chat Skills 正式上線｜用一份週報學會建立、呼叫和驗收](episodes/2026-11/aZ955NWAFp0.md) | 8:52 |
+| 11-17 | [HP ZGX Fury 748GB 跑得多快？GLM-5.3 Flash 16 路、離線 Agent、批次轉寫](episodes/2026-11/ryTYnHYV5oY.md) | 10:11 |
 | 11-16 | [Qwen4-Max 做出會飛的 Unity 賽車｜第一版做完，誰能接手？](episodes/2026-11/98Px6MsK2Y4.md) | 9:20 |
 | 11-16 | [Jev 實戰集錦｜Agent 顯示完成，為什麼還在選付款？](episodes/2026-11/pe6rjkLzzs8.md) | 9:08 |
 | 11-16 | [Gemini 4 Hydrogen 做出 3D 火箭｜這些 AI 演示，怎樣才算能交付？](episodes/2026-11/odn-Xqxt1Kc.md) | 9:01 |
