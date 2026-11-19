@@ -51,6 +51,10 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-19 | [Gemini Tasks、GPT-6.2、Claude Code、MAI Code 2｜AI 可以接手哪一步？](episodes/2026-11/xTLiA6qdRQw.md) | 9:21 |
+| 11-18 | [GPT-6 更準，帳單也漲？Microsoft Foundry × IQ｜Ignite 2026 實戰解讀](episodes/2026-11/hsYBcimqpf4.md) | 8:33 |
+| 11-18 | [GPT-6.2 Astra 還是 Sol？從工作簿、冰川實作到 Revolut 的 Codex 文件整理](episodes/2026-11/aSalgiPScbA.md) | 9:26 |
+| 11-18 | [Copilot Ignite 2026｜Word、PPT、Excel 到工程 Skill，工作怎麼接著走？](episodes/2026-11/kUSuZPkPZRQ.md) | 12:25 |
 | 11-18 | [Codex × Claude Code｜AI 做完，重開還能用嗎？](episodes/2026-11/yvpUfwpTfrY.md) | 8:37 |
 | 11-17 | [Copilot Chat Skills 正式上線｜用一份週報學會建立、呼叫和驗收](episodes/2026-11/aZ955NWAFp0.md) | 8:52 |
 | 11-17 | [HP ZGX Fury 748GB 跑得多快？GLM-5.3 Flash 16 路、離線 Agent、批次轉寫](episodes/2026-11/ryTYnHYV5oY.md) | 10:11 |

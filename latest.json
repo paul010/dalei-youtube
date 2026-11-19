@@ -2,9 +2,41 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-18T01:14:29+00:00",
+  "updatedAt": "2026-11-19T01:06:24+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "xTLiA6qdRQw",
+      "title": "Gemini Tasks、GPT-6.2、Claude Code、MAI Code 2｜AI 可以接手哪一步？",
+      "publishedAt": "2026-11-18T22:41:54+00:00",
+      "date": "2026-11-19",
+      "duration": "9:21",
+      "url": "https://www.youtube.com/watch?v=xTLiA6qdRQw"
+    },
+    {
+      "id": "hsYBcimqpf4",
+      "title": "GPT-6 更準，帳單也漲？Microsoft Foundry × IQ｜Ignite 2026 實戰解讀",
+      "publishedAt": "2026-11-18T07:39:55+00:00",
+      "date": "2026-11-18",
+      "duration": "8:33",
+      "url": "https://www.youtube.com/watch?v=hsYBcimqpf4"
+    },
+    {
+      "id": "aSalgiPScbA",
+      "title": "GPT-6.2 Astra 還是 Sol？從工作簿、冰川實作到 Revolut 的 Codex 文件整理",
+      "publishedAt": "2026-11-18T07:39:51+00:00",
+      "date": "2026-11-18",
+      "duration": "9:26",
+      "url": "https://www.youtube.com/watch?v=aSalgiPScbA"
+    },
+    {
+      "id": "kUSuZPkPZRQ",
+      "title": "Copilot Ignite 2026｜Word、PPT、Excel 到工程 Skill，工作怎麼接著走？",
+      "publishedAt": "2026-11-18T07:39:39+00:00",
+      "date": "2026-11-18",
+      "duration": "12:25",
+      "url": "https://www.youtube.com/watch?v=kUSuZPkPZRQ"
+    },
     {
       "id": "yvpUfwpTfrY",
       "title": "Codex × Claude Code｜AI 做完，重開還能用嗎？",
@@ -92,38 +124,6 @@
       "date": "2026-11-14",
       "duration": "8:45",
       "url": "https://www.youtube.com/watch?v=rL-P9qSL-8U"
-    },
-    {
-      "id": "ivjLlk02coU",
-      "title": "Copilot App Blocks：圖表能動，結果就可信嗎？｜3D 地標與收入模型拆解",
-      "publishedAt": "2026-11-12T04:23:12+00:00",
-      "date": "2026-11-12",
-      "duration": "8:56",
-      "url": "https://www.youtube.com/watch?v=ivjLlk02coU"
-    },
-    {
-      "id": "teAdOCheSqU",
-      "title": "Gemini 4 Carbon 寫出三個作品，交付前怎麼驗？",
-      "publishedAt": "2026-11-11T12:19:13+00:00",
-      "date": "2026-11-11",
-      "duration": "8:36",
-      "url": "https://www.youtube.com/watch?v=teAdOCheSqU"
-    },
-    {
-      "id": "tZ2jiMdHttU",
-      "title": "Claude Fable 5.2：遊戲能玩了，下一版怎麼做？",
-      "publishedAt": "2026-11-10T23:08:05+00:00",
-      "date": "2026-11-11",
-      "duration": "8:31",
-      "url": "https://www.youtube.com/watch?v=tZ2jiMdHttU"
-    },
-    {
-      "id": "3UkgXcfxWqQ",
-      "title": "OpenAI 幫找70年圖紙：找到了，哪張才敢用？",
-      "publishedAt": "2026-11-10T22:35:06+00:00",
-      "date": "2026-11-11",
-      "duration": "6:11",
-      "url": "https://www.youtube.com/watch?v=3UkgXcfxWqQ"
     }
   ]
 }
