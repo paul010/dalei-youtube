@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-19T01:06:24+00:00",
+  "updatedAt": "2026-11-20T01:00:42+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "xkB0nzbG43k",
+      "title": "Copilot Autopilot｜關掉電腦還在跑？看微軟怎麼報帳、排會與交回審批",
+      "publishedAt": "2026-11-19T13:52:42+00:00",
+      "date": "2026-11-19",
+      "duration": "9:08",
+      "url": "https://www.youtube.com/watch?v=xkB0nzbG43k"
+    },
+    {
+      "id": "zBQUtmoN4oI",
+      "title": "Gemini 4 Neon 多拿一分值不值？｜滑雪實錄、Claude Opus 5.5 與 GPT-6.2 評測",
+      "publishedAt": "2026-11-19T13:03:10+00:00",
+      "date": "2026-11-19",
+      "duration": "8:37",
+      "url": "https://www.youtube.com/watch?v=zBQUtmoN4oI"
+    },
     {
       "id": "xTLiA6qdRQw",
       "title": "Gemini Tasks、GPT-6.2、Claude Code、MAI Code 2｜AI 可以接手哪一步？",
@@ -108,22 +124,6 @@
       "date": "2026-11-14",
       "duration": "8:41",
       "url": "https://www.youtube.com/watch?v=GclYNJxRFLw"
-    },
-    {
-      "id": "hBpfp70X_hs",
-      "title": "Gemini 4 Hydrogen × Claude Fable 5.2｜AI 交付的成果，下次誰接手？",
-      "publishedAt": "2026-11-14T12:04:49+00:00",
-      "date": "2026-11-14",
-      "duration": "8:35",
-      "url": "https://www.youtube.com/watch?v=hBpfp70X_hs"
-    },
-    {
-      "id": "rL-P9qSL-8U",
-      "title": "Office 進 Copilot：Word、Excel、PowerPoint 做完，怎麼交給同事？",
-      "publishedAt": "2026-11-14T04:42:03+00:00",
-      "date": "2026-11-14",
-      "duration": "8:45",
-      "url": "https://www.youtube.com/watch?v=rL-P9qSL-8U"
     }
   ]
 }

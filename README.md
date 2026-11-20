@@ -51,6 +51,8 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-19 | [Copilot Autopilot｜關掉電腦還在跑？看微軟怎麼報帳、排會與交回審批](episodes/2026-11/xkB0nzbG43k.md) | 9:08 |
+| 11-19 | [Gemini 4 Neon 多拿一分值不值？｜滑雪實錄、Claude Opus 5.5 與 GPT-6.2 評測](episodes/2026-11/zBQUtmoN4oI.md) | 8:37 |
 | 11-19 | [Gemini Tasks、GPT-6.2、Claude Code、MAI Code 2｜AI 可以接手哪一步？](episodes/2026-11/xTLiA6qdRQw.md) | 9:21 |
 | 11-18 | [GPT-6 更準，帳單也漲？Microsoft Foundry × IQ｜Ignite 2026 實戰解讀](episodes/2026-11/hsYBcimqpf4.md) | 8:33 |
 | 11-18 | [GPT-6.2 Astra 還是 Sol？從工作簿、冰川實作到 Revolut 的 Codex 文件整理](episodes/2026-11/aSalgiPScbA.md) | 9:26 |
