@@ -51,6 +51,8 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-20 | [GPT-6.2 Astra 能交接嗎？拆解相機、互動原型與花園設計](episodes/2026-11/XHaqXHzP41k.md) | 8:49 |
+| 11-20 | [Copilot Ignite 2026｜Web IQ 怎麼查證據？Agent 365 怎麼管花費？](episodes/2026-11/dcLIlJ9y_qk.md) | 8:37 |
 | 11-19 | [Copilot Autopilot｜關掉電腦還在跑？看微軟怎麼報帳、排會與交回審批](episodes/2026-11/xkB0nzbG43k.md) | 9:08 |
 | 11-19 | [Gemini 4 Neon 多拿一分值不值？｜滑雪實錄、Claude Opus 5.5 與 GPT-6.2 評測](episodes/2026-11/zBQUtmoN4oI.md) | 8:37 |
 | 11-19 | [Gemini Tasks、GPT-6.2、Claude Code、MAI Code 2｜AI 可以接手哪一步？](episodes/2026-11/xTLiA6qdRQw.md) | 9:21 |

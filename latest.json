@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-20T01:00:42+00:00",
+  "updatedAt": "2026-11-21T00:58:34+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "XHaqXHzP41k",
+      "title": "GPT-6.2 Astra 能交接嗎？拆解相機、互動原型與花園設計",
+      "publishedAt": "2026-11-20T12:02:20+00:00",
+      "date": "2026-11-20",
+      "duration": "8:49",
+      "url": "https://www.youtube.com/watch?v=XHaqXHzP41k"
+    },
+    {
+      "id": "dcLIlJ9y_qk",
+      "title": "Copilot Ignite 2026｜Web IQ 怎麼查證據？Agent 365 怎麼管花費？",
+      "publishedAt": "2026-11-20T02:09:21+00:00",
+      "date": "2026-11-20",
+      "duration": "8:37",
+      "url": "https://www.youtube.com/watch?v=dcLIlJ9y_qk"
+    },
     {
       "id": "xkB0nzbG43k",
       "title": "Copilot Autopilot｜關掉電腦還在跑？看微軟怎麼報帳、排會與交回審批",
@@ -108,22 +124,6 @@
       "date": "2026-11-15",
       "duration": "8:34",
       "url": "https://www.youtube.com/watch?v=9usqefEqQbg"
-    },
-    {
-      "id": "MjTbxs6g49w",
-      "title": "Gemini 4 Krypton、GPT-6.2 Astra 傳聞｜火箭、月球與港口能證明什麼？",
-      "publishedAt": "2026-11-15T02:58:35+00:00",
-      "date": "2026-11-15",
-      "duration": "9:04",
-      "url": "https://www.youtube.com/watch?v=MjTbxs6g49w"
-    },
-    {
-      "id": "GclYNJxRFLw",
-      "title": "Claude Fable 5.2 做賽車｜跑得快，怎麼驗證更好玩？",
-      "publishedAt": "2026-11-14T13:46:03+00:00",
-      "date": "2026-11-14",
-      "duration": "8:41",
-      "url": "https://www.youtube.com/watch?v=GclYNJxRFLw"
     }
   ]
 }
