@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-21T00:58:34+00:00",
+  "updatedAt": "2026-11-22T01:04:25+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "6esQXyRLNL0",
+      "title": "Genie 4 一句話讓世界下雪｜Gestalt 設計榜與 Google SIM 到底改了什麼？",
+      "publishedAt": "2026-11-21T05:12:09+00:00",
+      "date": "2026-11-21",
+      "duration": "8:58",
+      "url": "https://www.youtube.com/watch?v=6esQXyRLNL0"
+    },
+    {
+      "id": "1YCMam-BX1E",
+      "title": "Copilot Harness 怎麼驗收？用 Microsoft Foundry 看報告、權限和復測",
+      "publishedAt": "2026-11-21T04:39:35+00:00",
+      "date": "2026-11-21",
+      "duration": "9:35",
+      "url": "https://www.youtube.com/watch?v=1YCMam-BX1E"
+    },
     {
       "id": "XHaqXHzP41k",
       "title": "GPT-6.2 Astra 能交接嗎？拆解相機、互動原型與花園設計",
@@ -108,22 +124,6 @@
       "date": "2026-11-16",
       "duration": "9:08",
       "url": "https://www.youtube.com/watch?v=pe6rjkLzzs8"
-    },
-    {
-      "id": "odn-Xqxt1Kc",
-      "title": "Gemini 4 Hydrogen 做出 3D 火箭｜這些 AI 演示，怎樣才算能交付？",
-      "publishedAt": "2026-11-16T03:20:50+00:00",
-      "date": "2026-11-16",
-      "duration": "9:01",
-      "url": "https://www.youtube.com/watch?v=odn-Xqxt1Kc"
-    },
-    {
-      "id": "9usqefEqQbg",
-      "title": "Grok Bot 團隊一個月合併約 1.1 萬 PR｜AI 改的程式碼，靠什麼敢合？",
-      "publishedAt": "2026-11-15T09:27:10+00:00",
-      "date": "2026-11-15",
-      "duration": "8:34",
-      "url": "https://www.youtube.com/watch?v=9usqefEqQbg"
     }
   ]
 }
