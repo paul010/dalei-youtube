@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-22T01:04:25+00:00",
+  "updatedAt": "2026-11-23T01:03:17+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "z9Wq_IoEUC4",
+      "title": "Inkling 2 Mini 值得換掉千問嗎？從離線飛行到一張可以交接的帳單",
+      "publishedAt": "2026-11-22T23:58:10+00:00",
+      "date": "2026-11-23",
+      "duration": "9:04",
+      "url": "https://www.youtube.com/watch?v=z9Wq_IoEUC4"
+    },
+    {
+      "id": "N4gmhcuASTQ",
+      "title": "GLM‑5.5 該等嗎？Gestalt 網頁設計榜首，拿一個報名頁看懂怎麼驗",
+      "publishedAt": "2026-11-22T12:04:09+00:00",
+      "date": "2026-11-22",
+      "duration": "9:23",
+      "url": "https://www.youtube.com/watch?v=N4gmhcuASTQ"
+    },
     {
       "id": "6esQXyRLNL0",
       "title": "Genie 4 一句話讓世界下雪｜Gestalt 設計榜與 Google SIM 到底改了什麼？",
@@ -108,22 +124,6 @@
       "date": "2026-11-17",
       "duration": "10:11",
       "url": "https://www.youtube.com/watch?v=ryTYnHYV5oY"
-    },
-    {
-      "id": "98Px6MsK2Y4",
-      "title": "Qwen4-Max 做出會飛的 Unity 賽車｜第一版做完，誰能接手？",
-      "publishedAt": "2026-11-16T10:20:54+00:00",
-      "date": "2026-11-16",
-      "duration": "9:20",
-      "url": "https://www.youtube.com/watch?v=98Px6MsK2Y4"
-    },
-    {
-      "id": "pe6rjkLzzs8",
-      "title": "Jev 實戰集錦｜Agent 顯示完成，為什麼還在選付款？",
-      "publishedAt": "2026-11-16T10:08:03+00:00",
-      "date": "2026-11-16",
-      "duration": "9:08",
-      "url": "https://www.youtube.com/watch?v=pe6rjkLzzs8"
     }
   ]
 }
