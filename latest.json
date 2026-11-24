@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-23T01:03:17+00:00",
+  "updatedAt": "2026-11-24T01:03:05+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "p8XVLIeD_kE",
+      "title": "GLM-5.4 × Gemini 4 Neon｜FreeCAD 六軸機械臂，改一個角度怎麼驗？",
+      "publishedAt": "2026-11-23T14:32:53+00:00",
+      "date": "2026-11-23",
+      "duration": "10:24",
+      "url": "https://www.youtube.com/watch?v=p8XVLIeD_kE"
+    },
+    {
+      "id": "bk3cau6cRs0",
+      "title": "Gemini 4 怎麼選？Hydrogen、Neon、Carbon，把返工一起算",
+      "publishedAt": "2026-11-23T14:19:41+00:00",
+      "date": "2026-11-23",
+      "duration": "9:35",
+      "url": "https://www.youtube.com/watch?v=bk3cau6cRs0"
+    },
     {
       "id": "z9Wq_IoEUC4",
       "title": "Inkling 2 Mini 值得換掉千問嗎？從離線飛行到一張可以交接的帳單",
@@ -108,22 +124,6 @@
       "date": "2026-11-18",
       "duration": "8:37",
       "url": "https://www.youtube.com/watch?v=yvpUfwpTfrY"
-    },
-    {
-      "id": "aZ955NWAFp0",
-      "title": "Copilot Chat Skills 正式上線｜用一份週報學會建立、呼叫和驗收",
-      "publishedAt": "2026-11-17T10:15:58+00:00",
-      "date": "2026-11-17",
-      "duration": "8:52",
-      "url": "https://www.youtube.com/watch?v=aZ955NWAFp0"
-    },
-    {
-      "id": "ryTYnHYV5oY",
-      "title": "HP ZGX Fury 748GB 跑得多快？GLM-5.3 Flash 16 路、離線 Agent、批次轉寫",
-      "publishedAt": "2026-11-17T10:06:36+00:00",
-      "date": "2026-11-17",
-      "duration": "10:11",
-      "url": "https://www.youtube.com/watch?v=ryTYnHYV5oY"
     }
   ]
 }

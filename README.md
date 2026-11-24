@@ -51,6 +51,8 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-23 | [GLM-5.4 × Gemini 4 Neon｜FreeCAD 六軸機械臂，改一個角度怎麼驗？](episodes/2026-11/p8XVLIeD_kE.md) | 10:24 |
+| 11-23 | [Gemini 4 怎麼選？Hydrogen、Neon、Carbon，把返工一起算](episodes/2026-11/bk3cau6cRs0.md) | 9:35 |
 | 11-23 | [Inkling 2 Mini 值得換掉千問嗎？從離線飛行到一張可以交接的帳單](episodes/2026-11/z9Wq_IoEUC4.md) | 9:04 |
 | 11-22 | [GLM‑5.5 該等嗎？Gestalt 網頁設計榜首，拿一個報名頁看懂怎麼驗](episodes/2026-11/N4gmhcuASTQ.md) | 9:23 |
 | 11-21 | [Genie 4 一句話讓世界下雪｜Gestalt 設計榜與 Google SIM 到底改了什麼？](episodes/2026-11/6esQXyRLNL0.md) | 8:58 |
