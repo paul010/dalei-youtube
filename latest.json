@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-24T01:03:05+00:00",
+  "updatedAt": "2026-11-25T00:59:16+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "WwpT-APNhLM",
+      "title": "Claude Ship｜測試都通過，AI 的 PR 誰能放行？",
+      "publishedAt": "2026-11-24T23:39:38+00:00",
+      "date": "2026-11-25",
+      "duration": "8:41",
+      "url": "https://www.youtube.com/watch?v=WwpT-APNhLM"
+    },
     {
       "id": "p8XVLIeD_kE",
       "title": "GLM-5.4 × Gemini 4 Neon｜FreeCAD 六軸機械臂，改一個角度怎麼驗？",
@@ -116,14 +124,6 @@
       "date": "2026-11-18",
       "duration": "12:25",
       "url": "https://www.youtube.com/watch?v=kUSuZPkPZRQ"
-    },
-    {
-      "id": "yvpUfwpTfrY",
-      "title": "Codex × Claude Code｜AI 做完，重開還能用嗎？",
-      "publishedAt": "2026-11-18T01:03:00+00:00",
-      "date": "2026-11-18",
-      "duration": "8:37",
-      "url": "https://www.youtube.com/watch?v=yvpUfwpTfrY"
     }
   ]
 }
