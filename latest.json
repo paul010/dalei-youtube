@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-25T00:59:16+00:00",
+  "updatedAt": "2026-11-25T02:04:51+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "2FQpO2BuGJ8",
+      "title": "GLM-5.4 今天能試嗎？｜Claude Opus 5.6、Gemini 4 Helium 傳聞核對",
+      "publishedAt": "2026-11-25T01:10:38+00:00",
+      "date": "2026-11-25",
+      "duration": "9:21",
+      "url": "https://www.youtube.com/watch?v=2FQpO2BuGJ8"
+    },
+    {
+      "id": "QMRQISQH260",
+      "title": "Copilot Projects｜聊天開新一輪，Word 和 PPT 還能接著做嗎？",
+      "publishedAt": "2026-11-25T01:10:34+00:00",
+      "date": "2026-11-25",
+      "duration": "9:29",
+      "url": "https://www.youtube.com/watch?v=QMRQISQH260"
+    },
     {
       "id": "WwpT-APNhLM",
       "title": "Claude Ship｜測試都通過，AI 的 PR 誰能放行？",
@@ -108,22 +124,6 @@
       "date": "2026-11-18",
       "duration": "8:33",
       "url": "https://www.youtube.com/watch?v=hsYBcimqpf4"
-    },
-    {
-      "id": "aSalgiPScbA",
-      "title": "GPT-6.2 Astra 還是 Sol？從工作簿、冰川實作到 Revolut 的 Codex 文件整理",
-      "publishedAt": "2026-11-18T07:39:51+00:00",
-      "date": "2026-11-18",
-      "duration": "9:26",
-      "url": "https://www.youtube.com/watch?v=aSalgiPScbA"
-    },
-    {
-      "id": "kUSuZPkPZRQ",
-      "title": "Copilot Ignite 2026｜Word、PPT、Excel 到工程 Skill，工作怎麼接著走？",
-      "publishedAt": "2026-11-18T07:39:39+00:00",
-      "date": "2026-11-18",
-      "duration": "12:25",
-      "url": "https://www.youtube.com/watch?v=kUSuZPkPZRQ"
     }
   ]
 }

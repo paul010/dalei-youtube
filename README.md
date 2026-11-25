@@ -51,6 +51,8 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-25 | [GLM-5.4 今天能試嗎？｜Claude Opus 5.6、Gemini 4 Helium 傳聞核對](episodes/2026-11/2FQpO2BuGJ8.md) | 9:21 |
+| 11-25 | [Copilot Projects｜聊天開新一輪，Word 和 PPT 還能接著做嗎？](episodes/2026-11/QMRQISQH260.md) | 9:29 |
 | 11-25 | [Claude Ship｜測試都通過，AI 的 PR 誰能放行？](episodes/2026-11/WwpT-APNhLM.md) | 8:41 |
 | 11-23 | [GLM-5.4 × Gemini 4 Neon｜FreeCAD 六軸機械臂，改一個角度怎麼驗？](episodes/2026-11/p8XVLIeD_kE.md) | 10:24 |
 | 11-23 | [Gemini 4 怎麼選？Hydrogen、Neon、Carbon，把返工一起算](episodes/2026-11/bk3cau6cRs0.md) | 9:35 |
