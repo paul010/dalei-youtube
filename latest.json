@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-25T02:04:51+00:00",
+  "updatedAt": "2026-11-26T00:59:18+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "N_JW3Cq2Zqc",
+      "title": "Microsoft Teams 逐段口譯｜全場都能聽，跨語會議怎麼接話？",
+      "publishedAt": "2026-11-25T14:02:43+00:00",
+      "date": "2026-11-25",
+      "duration": "9:00",
+      "url": "https://www.youtube.com/watch?v=N_JW3Cq2Zqc"
+    },
+    {
+      "id": "xjOFWtxnQTo",
+      "title": "Claude Opus 5.6？動畫能播，還能只改一處嗎？｜The Tea Ride × The Last Page",
+      "publishedAt": "2026-11-25T10:22:03+00:00",
+      "date": "2026-11-25",
+      "duration": "8:57",
+      "url": "https://www.youtube.com/watch?v=xjOFWtxnQTo"
+    },
     {
       "id": "2FQpO2BuGJ8",
       "title": "GLM-5.4 今天能試嗎？｜Claude Opus 5.6、Gemini 4 Helium 傳聞核對",
@@ -108,22 +124,6 @@
       "date": "2026-11-19",
       "duration": "8:37",
       "url": "https://www.youtube.com/watch?v=zBQUtmoN4oI"
-    },
-    {
-      "id": "xTLiA6qdRQw",
-      "title": "Gemini Tasks、GPT-6.2、Claude Code、MAI Code 2｜AI 可以接手哪一步？",
-      "publishedAt": "2026-11-18T22:41:54+00:00",
-      "date": "2026-11-19",
-      "duration": "9:21",
-      "url": "https://www.youtube.com/watch?v=xTLiA6qdRQw"
-    },
-    {
-      "id": "hsYBcimqpf4",
-      "title": "GPT-6 更準，帳單也漲？Microsoft Foundry × IQ｜Ignite 2026 實戰解讀",
-      "publishedAt": "2026-11-18T07:39:55+00:00",
-      "date": "2026-11-18",
-      "duration": "8:33",
-      "url": "https://www.youtube.com/watch?v=hsYBcimqpf4"
     }
   ]
 }

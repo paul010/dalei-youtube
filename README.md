@@ -51,6 +51,8 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-25 | [Microsoft Teams 逐段口譯｜全場都能聽，跨語會議怎麼接話？](episodes/2026-11/N_JW3Cq2Zqc.md) | 9:00 |
+| 11-25 | [Claude Opus 5.6？動畫能播，還能只改一處嗎？｜The Tea Ride × The Last Page](episodes/2026-11/xjOFWtxnQTo.md) | 8:57 |
 | 11-25 | [GLM-5.4 今天能試嗎？｜Claude Opus 5.6、Gemini 4 Helium 傳聞核對](episodes/2026-11/2FQpO2BuGJ8.md) | 9:21 |
 | 11-25 | [Copilot Projects｜聊天開新一輪，Word 和 PPT 還能接著做嗎？](episodes/2026-11/QMRQISQH260.md) | 9:29 |
 | 11-25 | [Claude Ship｜測試都通過，AI 的 PR 誰能放行？](episodes/2026-11/WwpT-APNhLM.md) | 8:41 |
