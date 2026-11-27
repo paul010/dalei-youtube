@@ -51,6 +51,8 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-26 | [OpenBot 週報敢自動寄？工單先交草稿，寄出前誰點頭](episodes/2026-11/LF18wIJzgdc.md) | 9:23 |
+| 11-26 | [Microsoft Teams 智慧來電代接 × 逐段口譯｜電話接了，下一步誰負責？](episodes/2026-11/M9KtHQCH1nM.md) | 8:44 |
 | 11-25 | [Microsoft Teams 逐段口譯｜全場都能聽，跨語會議怎麼接話？](episodes/2026-11/N_JW3Cq2Zqc.md) | 9:00 |
 | 11-25 | [Claude Opus 5.6？動畫能播，還能只改一處嗎？｜The Tea Ride × The Last Page](episodes/2026-11/xjOFWtxnQTo.md) | 8:57 |
 | 11-25 | [GLM-5.4 今天能試嗎？｜Claude Opus 5.6、Gemini 4 Helium 傳聞核對](episodes/2026-11/2FQpO2BuGJ8.md) | 9:21 |

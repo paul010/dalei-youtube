@@ -2,9 +2,25 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-26T00:59:18+00:00",
+  "updatedAt": "2026-11-27T00:57:32+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "LF18wIJzgdc",
+      "title": "OpenBot 週報敢自動寄？工單先交草稿，寄出前誰點頭",
+      "publishedAt": "2026-11-26T07:13:42+00:00",
+      "date": "2026-11-26",
+      "duration": "9:23",
+      "url": "https://www.youtube.com/watch?v=LF18wIJzgdc"
+    },
+    {
+      "id": "M9KtHQCH1nM",
+      "title": "Microsoft Teams 智慧來電代接 × 逐段口譯｜電話接了，下一步誰負責？",
+      "publishedAt": "2026-11-26T02:47:48+00:00",
+      "date": "2026-11-26",
+      "duration": "8:44",
+      "url": "https://www.youtube.com/watch?v=M9KtHQCH1nM"
+    },
     {
       "id": "N_JW3Cq2Zqc",
       "title": "Microsoft Teams 逐段口譯｜全場都能聽，跨語會議怎麼接話？",
@@ -108,22 +124,6 @@
       "date": "2026-11-20",
       "duration": "8:37",
       "url": "https://www.youtube.com/watch?v=dcLIlJ9y_qk"
-    },
-    {
-      "id": "xkB0nzbG43k",
-      "title": "Copilot Autopilot｜關掉電腦還在跑？看微軟怎麼報帳、排會與交回審批",
-      "publishedAt": "2026-11-19T13:52:42+00:00",
-      "date": "2026-11-19",
-      "duration": "9:08",
-      "url": "https://www.youtube.com/watch?v=xkB0nzbG43k"
-    },
-    {
-      "id": "zBQUtmoN4oI",
-      "title": "Gemini 4 Neon 多拿一分值不值？｜滑雪實錄、Claude Opus 5.5 與 GPT-6.2 評測",
-      "publishedAt": "2026-11-19T13:03:10+00:00",
-      "date": "2026-11-19",
-      "duration": "8:37",
-      "url": "https://www.youtube.com/watch?v=zBQUtmoN4oI"
     }
   ]
 }
