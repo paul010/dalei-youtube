@@ -51,6 +51,7 @@ Total output lines: 620
 #### 11月
 | 日期 | 标题 | 时长 |
 |------|------|------|
+| 11-27 | [Claude Opus 5.6？AI 簡報做完還能改嗎｜單頁交接實錄](episodes/2026-11/EEQt2z3kTCA.md) | 8:46 |
 | 11-26 | [OpenBot 週報敢自動寄？工單先交草稿，寄出前誰點頭](episodes/2026-11/LF18wIJzgdc.md) | 9:23 |
 | 11-26 | [Microsoft Teams 智慧來電代接 × 逐段口譯｜電話接了，下一步誰負責？](episodes/2026-11/M9KtHQCH1nM.md) | 8:44 |
 | 11-25 | [Microsoft Teams 逐段口譯｜全場都能聽，跨語會議怎麼接話？](episodes/2026-11/N_JW3Cq2Zqc.md) | 9:00 |

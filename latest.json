@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "channelId": "UCk9tu0mFtXj_rOEfIncxuJQ",
   "source": "https://www.youtube.com/@dalei2025/videos",
-  "updatedAt": "2026-11-27T00:57:32+00:00",
+  "updatedAt": "2026-11-28T01:00:50+00:00",
   "dateTimezone": "Asia/Shanghai",
   "videos": [
+    {
+      "id": "EEQt2z3kTCA",
+      "title": "Claude Opus 5.6？AI 簡報做完還能改嗎｜單頁交接實錄",
+      "publishedAt": "2026-11-27T04:42:52+00:00",
+      "date": "2026-11-27",
+      "duration": "8:46",
+      "url": "https://www.youtube.com/watch?v=EEQt2z3kTCA"
+    },
     {
       "id": "LF18wIJzgdc",
       "title": "OpenBot 週報敢自動寄？工單先交草稿，寄出前誰點頭",
@@ -116,14 +124,6 @@
       "date": "2026-11-20",
       "duration": "8:49",
       "url": "https://www.youtube.com/watch?v=XHaqXHzP41k"
-    },
-    {
-      "id": "dcLIlJ9y_qk",
-      "title": "Copilot Ignite 2026｜Web IQ 怎麼查證據？Agent 365 怎麼管花費？",
-      "publishedAt": "2026-11-20T02:09:21+00:00",
-      "date": "2026-11-20",
-      "duration": "8:37",
-      "url": "https://www.youtube.com/watch?v=dcLIlJ9y_qk"
     }
   ]
 }
